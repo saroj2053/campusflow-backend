@@ -28,3 +28,4 @@ pymysql==1.1.0
 tzlocal==5.2
 schedule==1.2.1
 python-dotenv
+gunicorn
