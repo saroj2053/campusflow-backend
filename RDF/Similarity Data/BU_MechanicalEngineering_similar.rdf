@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://tuc.web.engineering/module#"
+   xmlns:ns2="http://tuc/course#"
+   xmlns:ns3="http://across/university#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5e517a-d9b6-11ee-aa23-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00132S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kinematics and Dynamics of Machines</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Introduction to Kinematic and Dynamics, Degree of Freedoms and nodes, determine of velocity and acceleration of mechanism: graphical method, Fundamentals of Rigid and Flexible Mechanism, Dynamics Modelling, Holomonic and Nonholomonic systems, Project: Lagrange equations of the second kind. The equations of motion of mechanical systems, analysis of the mechanism with using Matlab and Adams softwares</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#e787579c-e070-11ee-99eb-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d597515-d9b6-11ee-ab3c-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-MER0056S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computer Networks</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Operating systems: management and configuration. Disk arrays. Disk volumes. Preparation of internet cable. Determining the network address. Configuration of the WiFi router.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5eaca0-d9b6-11ee-bcfd-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00164S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manufacturing Techniques</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">design and manufacturing processes, characterization of structural materials, molding and casting, welding technologies, cutting technologies , metal forming, machining and machine tools, machining erosion, powder metallurgy in terms of applications in the manufacture of machine parts, the main processing technologies of technical plastics, own student project based on knowledge of self-selected manufacturing technology</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5ed3d6-d9b6-11ee-9a20-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00188S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mathematical Modelling</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture and classes: Statistical foundations of the experiment planning: the method of selecting elements for the sample, the size of the sample, the distribution of the parameter in the sample, comparison of the distribution of the mean of the tested parameter Static optimization: linear programming, simplex algorithm; dual problem. Nonlinear programming: problem of nonlinear programming without constraints, gradient methods; constraint nonlinear programming problem, Lagrange function, Hessian. Dynamic optimization: Markov property, Bellman optimality principle and its applications. Elements of calculus of variation: Euler equation, Euler-Poisson equation. Isoparametric problem. Application of variational calculus. Pontryagin's maximum principle, time-optimal control. Project: Analysis of the selection of elements for the sample with the use of computer tools. Sensitivity analysis of solutions in the simplex method. Application of gradient methods. Stop criteria in gradient methods. Applications of the Bellman method.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">196</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5d5966-d9b6-11ee-86e3-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00266W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Intellectual Property</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Intellectual property. Sources of intellectual property rights. Copyright and related rights. Subject matter of copyright. The subject of copyrights. Author's economic rights. Author's moral rights. Copyright protection. Employee's work. Industrial property. Invention and innovation. The objects of industrial property right (inventions, utility models). Protection of trademarks, industrial designs, topographies of integrated circuits, geographical indications. Obtaining patents. Structure of patent claims. Proceedings before the Patent Office. Conditions of international protection. Agreements used in trading intellectual property rights. Intellectual property in academic activity. The Unfair Competition Act.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5a37c7-d9b6-11ee-9398-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00140W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital Signal Processing</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Introduction to digital signal processing. Discrete-time Fourier transform. Short time Fourier transform. Sampling. Properties of digital filters. Finite Impulse Response filters. Infinite Impulse Response filters. Adaptive filters. Wavelet transform.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d59273c-d9b6-11ee-8455-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00248S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computer Aided Design</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: The structure of the CIM system - integrated design and manufacturing systems. Place of the CAD system in integrated design and manufacturing systems. Types of CAD models: 2D and 2.5D models, 3D models: wireframe model, surface model, solid model, and hybrid model. Advantages and disadvantages of the discussed CAD models. Creating parametric and fully defined sketches used in adding the 3D extrude. Features used to create 3D models of mechanical parts. Parent-children relationships which are using to creating of geometrical models. Methods of creating assembly models from part models - "bottom to top" and "top to bottom". Using CAD models in CAM and CAE systems. Use of CAD models in rapid prototyping methods and reverse engineering process. The use of vector and raster graphics in creating 3D models. Vector and raster graphics formats. Project: Designing and editing parametric part models. Development of 2D technical documentation of parts based on the 3D model parts. Modelling assemblies by the "bottom- up" method. Using and creating libraries of parts about similar geometric features. Preparation of the design of the part models. Design of the selected device. Development of 2D technical drawing documentation of the device.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d594e2c-d9b6-11ee-9457-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-MER0029S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computer modeling of machines design</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Interface - program interface overview, using model space, customizing system for individual user needs. Methodology of work in CATIA V5 or SolidWorks environment – basic information. Using sketch tools for purpose of defining flat profiles – input data for building advanced geometry: solid and surface models. Building solid geometry, edit operations, Boolean operations, methods of solid transformations, basic parameterization of models. Wireframe and Surface Design. Defining reference elements, edit operations on surfaces. Method of solid transformations and edit operations using surface models. Basics of assembly design operations. Methods of building and managing assemblies, product tree analysis, relations between components – defining bonds. Basic analysis of space relations between components - detecting collisions. Components measurements, building cross sections. Components positioning. Drafting – generating 2D technical documentation. Automated generation of documentation from 3D models. Preparing 2D documentation from scratch. Generating working and assembly drawings, defining views, cross sections, extractions. Methods of dimensioning, adding text notes and annotations. Managing views and drawing sheets.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#e787579d-e070-11ee-9f67-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d60b0bf-d9b6-11ee-98d3-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00247W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thermal and Flow Processes</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Basic concepts concerning the classification of physical quantities; the concept of system and control volume, the basics of balancing extensive quantities. Properties of liquids and gases. The First Law of Thermodynamics. Thermodynamic processes and simple gas cycles. The Second Law of Thermodynamics. Power cycles and heat pump cycles. Properties of liquids and gases. Models of fluids and flows. Elements of statics, kinematics and fluid dynamics. Basic equations of fluid mechanics. The similarity of flow phenomena. Perfect and viscous fluid flow analysis. Elementary problems of gas dynamics. Basic mechanisms of heat transfer: heat conduction, free and forced convection, thermal radiation. Heat transfer on extended surrfaces. Heat transfer with phase change processes. Fundamentals of the theory of heat exchangers, basic flow systems and methods of calculation of thermal and flow parameters of heat exchangers. Laboratory classes: Characteristics of basic functional devices in thermal and flow systems. Selected issues of controlling the operation of heat and flow systems. Measurements of basic parameters, temperature, pressure, velocity and flow rate, describing thermal and flow processes. Metrological analysis of the obtained results. Basics of building data measurement, recording and acquisition systems.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5ce4a8-d9b6-11ee-ba2f-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00161S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fundamentals of Mechanical Engineering\nII</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bearings and sliding bearings, clutch and brakes. Mechanical transmission: belt, chain, friction, toothed. Calculation of geometric, kinematic and strength components of mechanical transmissions. Fundamentals of the hydrostatic drive. Laboratory - the study of riveted joints, components susceptible, brakes, clutches and transmission of string. They balancing shafts. Basics of processing data. Error and measurement uncertainty. Project: design belt or gear transmission items using CAD method, Laboratories: Analysis of the mechanical properties of materials. Prepare element to strain guage test and fatigue test, do strain guage test, fatigue test, prepare scientific description fatigue test and compare results with FEM analysis.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">196</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#e787579c-e070-11ee-99eb-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d546ba8-d9b6-11ee-b753-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00175S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Analytical Mechanics</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Difference between Newtonian and analytical mechanics. Constraints Classification: holonomic and non-holonomic, Generalized coordinates, velocities and forces, Equilibrium of conservative and non-conservative systems: Principle of virtual work, Dirichlet’s theory, Equations of motions: D’Alembert’s principle, Lagrange’s equations od the first and second kind, Hamilton’s equations, Principle of least action, Conservation laws, generalized momenta, properties of Lagrangian and Hamiltonian functions.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#e789c13e-e070-11ee-a2d1-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5bcc74-d9b6-11ee-98a8-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-MER0053S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Final Project</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Characterization of the possible solutions of the problem stated in the engineer project derived from the current state of knowledge. Studying a literature and technical regulations. Formulation of methods and maners of problems for implementations. Usage of manual and computer methods. Preparing documentation of the implementing problem.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">420</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#e789c12b-e070-11ee-80a8-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d60d8e6-d9b6-11ee-86bf-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FME-00272S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thermal Engineering</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: First and second laws of thermodynamics in application to thermal systems; Energy and exergy efficiency of energy conversion; Thermodynamics of wet vapour; Steam power generation systems; Gas power generation systems; Combustion engines cycles; Compression refrigeration systems; Basic principles of air-conditioning and heat pumps; Basic principles of cryogenic systems Classes: using of properties charts; calculations of steam Rankine cycles problems; calculations of Brayton cycle problems; calculations of Linde cycle problems; calculations of combustion engines cycles problems Laboratory: Heat exchangers - Thermal characteristics, heat transfer coefficient, Air heating - testing of the air heaters, Energy conversion - monitoring of the electric steam boiler operation; Compression refrigeration system - coefficient of performance, cycle identification</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5a10de-d9b6-11ee-a433-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00152W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital Image Processing</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Acquisition of digital images – equipment, sampling, quantization, colour representation. Improving image quality. Methods of digital image processing: arithmetic operations; filtration and interference suppression; edge detection; operations on binary images; logical operations. Image processing in the frequency domain. Morphological methods: erosion, dilatation, opening, closing. Examples of application of image processing methods. Image analysis: segmentation techniques, background generation, foreground object detection, labelling and shape coefficients.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d54c4b7-d9b6-11ee-a0db-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00240W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Automation and robotization of processes</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Trends in technological development. Automation and robotization of processes according to the Fourth Industrial Revolution. Principles and objectives of discrete and continuous process automation. Production management architecture. Programming methods. Process description methods. Programming languages and algorithms: Grafcet, SFC, GRAPH, operational networks, Petri nets. Finite-state machines. Switching systems. Elements of industrial process systems (measuring, executive control, communication and SCADA systems). Automation and robotization of selected production/technological processes. Automation of decision-making processes in production planning and execution. Hierarchical control system models. Understanding electrical and signal diagrams: automation systems: relays, contactors, coils, digital and analogue PLC I/O connections, safety and security elements. Robotic systems - construction, operation and control. Robots and manipulators in industrial processes (assembly, packaging, transport, etc.). Selection of robot and manipulator configurations. Flexible robotic production cells. Cooperation of robots and manipulators with humans. Hybrid systems. Designing flexible robotic systems. Decentralized control systems of robotic cells. Remote management of industrial robots. Project classes: designing control systems with the use of the Stateflow module of the Matlab/Simulink software. Designing control systems of the Bang-Bang type. Sequential system modelling. Modelling and designing control systems for selected industrial automation systems. Designing and investigating control systems with variable regulator structures. Designing and modelling control systems for selected manufacturing processes. Laboratory classes: Programming of selected robotic systems (robotic cells).</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#e789c12b-e070-11ee-80a8-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5d5965-d9b6-11ee-bad4-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-MER0022W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Instrumentation of Control Systems</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Investigations of the DC series motor, 1-phase AC motor capacitor with capacitor, 3-phases AC motor. Operations with computer braking stand. Hand and automatic measurements of the electrical and mechanical characteristics of the selected motors. Investigations of the functions, structure, advantages and disadvantages of the control system instruments. Configuring and programming of the selected power inverters. Electrical drives with rotational and linear modules in modern control systems and industrial applications.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5efaf6-d9b6-11ee-bad1-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-MER0010S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mathematics II</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture and classes: Multivariable functions. Differential calculus of multivariable functions. Partial derivatives and their applications. Taylor series of function of two variables. Multiply integrals. Differential equations of the first order. Differential equations of n-th order. Laplace transform. Application of Laplace transform to differential equations. Probability. Bayes Theorem. Estimation. Statistical tests. Project: Numerical methods of Gauss elimination, solving nonlinear equations, diffeential equation. Application of computer packages to mathematical statistics.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">224</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5fe618-d9b6-11ee-bfe5-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-MER0020W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Polymers and composites</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Classification of plastics and composites. Methods of producing powder and fiber composites. Physicochemical and rheological properties of polymers. Mechanical properties of plastics and composites. Laboratory: 1) Introduction. Safety work. Preparation polymers for hydrolytical degradation 2) Methods of plastics identification. 3)Thermomechanical properties of plastics: Martens and Vicat. 4) Evaluation of MFR and MVR indexes of polymers. 5,6) Preparing and testing of powder and fiber composites. 7) Investigations of hydrolitycal degradation of polymers.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#e7875798-e070-11ee-86c5-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d549d9d-d9b6-11ee-8b1d-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00183W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Applied and Computational Mechanics</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Project: elementary programming concepts, including variable types, data structures and functions in SciLab/MATLAB® environment. Numerical solution of linear and nonlinear systems of equations; numerical discretisation, ordinary and partial differential equations tensors; Fourier analysis; curve, surface and volume integration. Numerical methods for ODE, initial-value problems; root finding, Newton's method, boundary-value problems, process of developing mathematical model whose variables define the state of the system at a given time.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#e789c134-e070-11ee-8df6-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5afb3b-d9b6-11ee-b7ff-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00190W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Entrepreneurship</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1. From the idea to start a business. 2. Identication a good business idea. Sources of new idea. Methods of genereting new ideas. 3. Characteristic of successful enterpreneur. The team, human resources, organizational culture.4. Key resources in companies. 5. Sources of finance: friends and family, public and private funding, comercial banks, angels investors, VC founding.6. Legall issues: legal form, intelectuall property, franchising, licesnsing.7. Finacial plan, cost of structure.8. Business plan - definition and basic misunderstandings associated with this concept. 9. Creating a business using business model canvas: customer segments, value proposition, channels, relationships with our customers, revenue steams, key resources, key activities, key partners, cost of structure.10. International Entrepreneurship.11. Use of the potential of the Internet.12. Specific projects based on advanced technologies.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#e787578a-e070-11ee-a969-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d58d99d-d9b6-11ee-ad8a-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00260S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Career management</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Elements of image; self-presentation tactics; the concept and importance of career planning; professional career models; stages of career development, selected career management instruments; basic career development strategies.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d590051-d9b6-11ee-8da7-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00157W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Combustion Engines and Fuels</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: General construction, principle and scheme of the system of internal combustion engines. Characteristics of fuel used to power the motors. Cycles comparative and actual charts indicated. Processes: charge exchange, creating a mixture of fuel and air compression and combustion. The forces acting systems of the engine. Determining performance characteristics of internal combustion engines. Diagnosis Current state of operation. Laboratory: Construction and operation of engine systems, charts indicated and performance characteristics</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#e7875788-e070-11ee-9ecd-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5f97a8-d9b6-11ee-b6af-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00163S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Numerically Controlled Machine Tools</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Technical solutions and construction of the most important assemblies and components of the CNC machine tools. Axes and movements in the CNC machine tools. A structure of the modern computer numerical control systems. Development trends of the modern CNC machine tool. Programming methods of the CNC machine tools. Basics of the CNC machine tools programming: manual programming, computer aided programming (CAD/CAM systems), workshop oriented programming.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d59e9e9-d9b6-11ee-b988-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00210S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Design of pneumatic system</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Designing basic pneumatic manual control systems, control systems enabling changing the parameters of the piston movement of the actuator, systems performing logic functions, sequential control systems</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d612821-d9b6-11ee-8be3-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00257W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Theory of solving innovative problems</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Overcoming barriers in creative problem solving, vector of inertia - how to overcome it?, Stimulating imagination and creativity, methods of identifying and visualizing problems, methods of generating new ideas, review of creative thinking techniques, history of TRIZ, technical systems and their functions, Subsystems and supersystems, system approach, laws of technical systems development, striving for perfection - the Ideal End result, analysis of technical and physical contradictions, analysis of means to overcome contradictions, basics of removing technical / physical contradictions, 40 inventive tricks, algorithm for solving inventive tasks TRIZ.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#e7875788-e070-11ee-9ecd-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5ad450-d9b6-11ee-a7d4-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00089S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Engineering Mechanics</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Statics. 1. Equivalent systems of forces. Force. Moment of a force. Force couple. 2. Statics of bodies. Static equilibrium conditions. Newton’s third law. 3. Distributed forces. Static moments. Centroid. Centre of mass. Kinematics. 4. Kinematics of a particle. Radius vector, trajectory, path. Displacement, velocity, acceleration. Tangential and normal acceleration. 5. Kinematics of a body. Translation and rotation. Angular displacement, velocity and acceleration. Instantaneous centre of rotation. Rolling. Plane motion. 6. Kinematics of bodies. Mechanisms. Velocity ratio. Absolute and relative motion. Coriolis acceleration. Kinetics. 7. Kinetics of a particle. Newton's second law of motion. Linear and angular momentum. Impulse. Principle of impulse and momentum. Friction. 8. Kinetics of particles. System of particles. Motion of the mass centre. Impact. 9. Energy methods. Work of a force. Power. Kinetic energy. Principle of work and energy. Conservative forces. Potential energy. Principle of conservation of total mechanical energy. 10. Rotation of a body about a fixed axis. Equation of rotational motion. Moment of inertia. Parallel-axis theorem. 11. Plane motion. Motion of the mass centre of a body. Rotation of a body about its mass centre. Conservation principles. System of bodies. 12. Generalised methods. Virtual displacement. Principle of virtual work. Dynamic equilibrium. D’Alembert’s principle.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5e7f79-d9b6-11ee-b84e-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00132S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kinematics and Dynamics of Machines</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Introduction to Kinematic and Dynamics, Degree of Freedoms and nodes, determine of velocity and acceleration of mechanism: graphical method, Fundamentals of Rigid and Flexible Mechanism, Dynamics Modelling, Holomonic and Nonholomonic systems, Project: Lagrange equations of the second kind. The equations of motion of mechanical systems, analysis of the mechanism with using Matlab and Adams softwares</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#e787579c-e070-11ee-99eb-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d55397c-d9b6-11ee-aace-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00255S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Basics of biochemistry and biosensors</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biosensors-classification, structure, functions. Implementation of transducers in biosensors. Characteristics of selected biosensors. Dry tests for fast medical analysis. Immunosensors. Biopotentials and phenomena at electrode-tissue contact. Trends in development of biosensors.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d566506-d9b6-11ee-9d0c-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00256W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Basics of business</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Entrepreneurship in the world at the turn of the 20th and 21st centuries. Changes in the sphere of technology, breakthrough organizational solutions, changes in consumer preferences, the effects of globalization and international competition. Own business as an option for a professional career after graduation. Features and skills of leaders of new ventures. From idea to business launch. How to identify a good business idea. Sources of inspiration. Business venture implementation phases. Business plan - definition and basic elements. Technique of developing a business plan. Elements of the BMC model. Sources of financing for innovative projects. Financing a new business - general trends. Bank credit. Banks and new business. Loan funds and credit guarantee funds. Funds for the development of an innovative company from the EU structural funds. Venture capital. Business angels. Legal form for a new venture. Financial and accounting system. Founding team, staff, organizational culture of the company. Activities related to the entry of a new company on the market. Legal grounds for starting your own business (Central Register and Information on Economic Activity, National Court Register, ePUAP Electronic Platform of Public Administration Services)</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5f496a-d9b6-11ee-8ec1-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00222W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mechanical Modeling and Simulation</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Finite element based modeling to improve typical mechanical components including: - linear static analysis; - nonlinear static analysis; - fatigue analysis.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5a85a5-d9b6-11ee-9eb5-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00249S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Drive systems in mechatronics</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Acquainting with the basic concepts of fluid (pneumatic and hydraulic) and electric drive systems. Classification of fluid and electric drives. Graphic symbols of hydraulic, pneumatic, electric and hybrid components. Principles of reading and elaborating diagrams of pneumatic, hydraulic and electric drive and control systems. Areas of application and properties of the transmission medium. Production, preparation and transmission of the transmission medium. Pneumatic components used in drive and control systems. Pneumatic linear – cylinders. Pneumatic rotary drives actuators. Classification, properties and applications of electric drives. Feedback control, shaping mechanical characteristics of an electric motor. Start-up, control of angular speed, braking of a DC motor, a single-phase and a three-phase AC motor. Inverter drives with a DC motor (block diagrams, principle of operation, properties and applications). Frequency control of rotational speed of selected AC motors. Digital-analog control systems of angular speed and position. Position control systems with stepper motors and servo drives. Selection of electric motors for working machines. Electric equipment and protection systems for electric drive systems. Laboratory classes: Implementation and testing of electric drive and control systems. Testing of static and dynamic characteristics (properties) of selected drive systems. Testing of measurement systems of rotational speed and angular displacement. Designing simple pneumatic and electric control systems in FluidSim computer software.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5bfadf-d9b6-11ee-a957-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-MER0025W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Finite element method</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Elements of matrix analysis. The use of the finite element method for modeling the strength of the rod elements, such as: rods, beam, truss, frames. Calculation procedure for FEM. Total strain energy using in FEM. Type of local stiffness matrix. Local and congruent loading. Internal loading in rods elements. Example of application for plane and space truss, and beams using FEM. Example of application fo plane flame. Practical analysis of structural mechanics problems using FEM based on available programs at the university.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5dfe25-d9b6-11ee-bd8d-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-MER0055S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Interim Work, Project (Mechatronics,\nAutomatics and robotics)</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forward and inverse kinematics of Robots; transfer function; static and dynamic properties of elements of automation systems; basic elements of automatic control systems; mathematical description of mechatronic and automation systems; converting a flowcharts; controllers PID, P, PD, PI; control systems stability; constructing automation systems based on FESTO pneumatic elements; simulation of automation, mechatronic and robotic systems in MATLAB program system environment.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5fe617-d9b6-11ee-b674-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00181W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Physics</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vibrational motion. Examples of harmonics: mathematical pendulum, physical pendulum. Suppressed vibrations. Forced oscillations. Resonance. Mechanical waves. Wave equation. Sound waves. Standing wave. Huygens principle. Interference of waves. Doppler effect. Electric charge. Coulomb's law. Electric current. Electric field. Magnetic field. Faraday's law of induction. Electromagnetic waves. Geometrical and wave optics. Laws of reflection and refraction. Polarization of light. Optical instruments. Photoelectric effect.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d597516-d9b6-11ee-b4e2-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-002010W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Control of mechatronic systems</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Structures of control systems. Mechatronic control objects in theory and practice (e.g. motors with encoders, servos, etc.). Actuators and sensors in control systems. Control algorithms and their implementation. Simulation of mechatronic systems using the MATLAB/Simulink, GNU Octave and Scilab/Xcos environments. Analog and digital signals in control systems. Programming of control algorithms and their integration with mechatronic objects. Project: Using MATLAB/Simulink, GNU Octave or Scilab/Xcos software for modelling, programming testing of control systems. Control system design and programming for mechatronic plant.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d59c2f4-d9b6-11ee-97e0-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00262S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Creating and financing startups</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ideas and their market opportunities - sources and methods of verification. Phases of businesses development. Business models - elements, methods and principles of development. Own, foreign and hybrid financing - differences, advantages and disadvantages. Traditional sources of financing: bank credits, loans, depreciation, retained profit, issue of securities, leasing. Non-conventional (alternative) financing: venture capital/private equity funds, angel investors, crowdfunding, securitisation, factoring and forfaiting, off-balance sources. Financial forms of support for startups by business environment institutions: subsidies, grants. Non-financial forms of support for startups.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d551294-d9b6-11ee-8dc5-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00134W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Autonomous Flying Robots</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mechanics (dynamics and kinematics) of flying robots, modelling and simulation, three-dimensional sensors (projected light depth cameras, time of flight cameras, point cloud registration and processing), actuators in autonomous flying robots, path planning methods (probabilistic planning, potential field), localization methods for flying robots (inertial, vision based, SLAM), obstacle avoidance systems for flying robots, navigation of flying robots, reconfiguration, fail safe functions and diagnostics</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5f97a9-d9b6-11ee-b3de-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00151W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Object Oriented Programming</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Principles of object-oriented programming. General structure of a C++ program. Analysis of the problem domain, object-oriented design and object-oriented programming. The concept of class and object. Components and methods. Static variables. Static class members, friend functions and classes, nested classes. Creating objects (construction, removal, lifetime) in C ++. Constructors and destructors. Encapsulation components: access control. Stream input and output operators (&lt;&lt; and &gt;&gt;), including the way of defining them for a given class and stream type. Overloading methods and operators. Inheritance: decomposition problem on a hierarchy of classes. Polymorphism. Abstract classes. Virtual methods. Multiple inheritance. Operation of special situations: C++ exception handling mechanism. Standard C++ library and its application to dynamic data structures (e.g. vectors, lists).</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#e789c12b-e070-11ee-80a8-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5c6fd3-d9b6-11ee-82e8-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-MER0021W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fluid Mechanics</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fundamental concepts of fluids. Physical properties: density and viscosity of fluids; compressibility and thermal expansion of liquids; ideal gas low. Fluid statics: surface and body forces, equation of fluid balance, hydrostatic pressure, manometers, hydrostatic forces on flat and curved surfaces, buoyancy and floating of body. Continuity equation. Fluid dynamics: Bernoulli’s equation for inviscid and viscous fluid flow; laminar and turbulent flow, Reynolds number. Friction and minor losses in pipe systems. Pump in pipe system. Pressure measurement: manometer with inclined tube, a null-type manometer. Flow rate and velocity measurements: static-Pitot (Prandtl) probe, rotameter. Reynolds experiment: laminar and turbulent flow. Major and minor losses measurements. A pump performance curve determination.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d6011e8-d9b6-11ee-bfff-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-MER0040W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Programmable Logic Controllers</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture - Discussion of the principles of operation and work cycle of PLCs. Discussion of data types and applications of: SET and RESET functions, timers, counters, logical and mathematical functions, bit operations, array operations and codes, modulated-fill pulse generators, PID regulators. Advanced PLC functions: PWM generators, motion control and high speed counters. System basics of distributed control. PLC communication functions. Introduction to industrial networks. Laboratory - Introduction to PLC programming in LD and exercises on PLC applications in engineering and industry. Project - Execution of design tasks in the field of PLC applications.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d60b0be-d9b6-11ee-bcba-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FME-00172S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Technologies of Chipless Forming</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Factors affecting the plastic deformation process, influence of technological process on the properties of the product, plastic processing in elevated temperatures, sheet metal forming processes, cutting, bending, rolling processes, forging, extrusion processes, metallurgy of powders, casting, technological machinery.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d549d9e-d9b6-11ee-adb3-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-MER0026W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Automatic control</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forward and inverse kinematics of Robots; transfer function; static and dynamic properties of automation systems; basic elements of automatic systems; mathematical description of automation and robotic systems; controllers PID; control systems stability; constructing automation systems based on pneumatic elements; simulation of automation systems in MATLAB program system environment.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5d0b88-d9b6-11ee-8b9c-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00156W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Health and safety issues with ergonomics</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Health and safety issues and necessity of obeying its rules. Reducing risk of accidents. Recognition of accident and behaving after it. Practicing ergonomics rules.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d53cfb5-d9b6-11ee-866b-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00220S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Additive techniques of manufacturing</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Characteristics of Additive Manufacturing. The generic AM process. Applications of Additive Manufacturing: Rapid Prototyping, Rapid Tooling, Rapid Manufacturing, Reverse Engineering. File formats for Additive Manufacturing: stl, amf, 3mf, obj. Categories of additive manufacturing processes: Vat photopolymerization, powder bed fusion, material extrusion, material jetting, binder jetting, directed energy deposition, sheet lamination. Materials used in Additive Manufacturing. Design for Additive Manufacturing.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5dd737-d9b6-11ee-bbdf-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-MER0054S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Interim Work\nProject (Computer Aided Design)</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Solve of selected technical problem from mechanical branch (e.g. mechanical device, test stand, vehicle etc.) using traditional methods and CAx (CAD, CAM, CAE) tools; The report should contain: Review of the theme issue. Conceptual design. Selection and justification of the methods and tools used in the design. 3D mechanical design using parametric CAD system (preferred SolidWorks). CAE analysis (e.g.: strength analyses, kinematical- dynamical and flow analyses). 2D documentation.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#e787579c-e070-11ee-99eb-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5b222c-d9b6-11ee-a52a-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00189W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Experimental methods in mechanics</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The essence of experimental studies. Strain gauge measurements. Organization of the measurement path. Experimental methods of materials tests in simple stress states: tensile test, compression test, shear test, bending test, torsion test. Testing of materials in complex stress states. Evaluation of the rheological properties of materials- creep and relaxation. Optical test methods in mechanics - photoelasticity, optical and holographic interferometry. Acoustic emission methods and thermography. Non-standard test methods. Laboratory classes: selected methods of thermo-mechanical tests of materials properties and structures.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5efaf5-d9b6-11ee-b6e0-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-MER0006W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mathematics I</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture and classes: The function of one variable and its properties. Sequences. Limit and continuity of a function. Derivative of a function. Monotonicity and extremes. Taylor and Maclaurin series. The indefinite integral (integration by parts and by substitution, integration of rational and trigonometric functions). Definite integral and its geometrical applications. Improper integral. Complex numbers. Algebraic, trigonometric and exponential form of a complex number. Vector calculus on the plane and in space. Matrices. Determinant, rank of matrices. Systems of linear equations (Cramer formulas, Gauss elimination).</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">224</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5fbec2-d9b6-11ee-b638-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00254S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Optimization of mechatronic structures</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Construction of assemblies and subassemblies of machine parts cooperating with DC and AC motors, used to drive subassemblies. Selection and use of elements of linear mechanics as actuators. Processes of controlling elements of machine parts. Selection of mechanical and electrotechnical components depending on the working conditions. Determination of limit loads. Selection of components depending on the working environment. Use of DC links, alternating, servo drives in mechanical constructions. The use of numerical tools to optimize the design of machine parts. Optimization methods with and without constraints. Equality and inequality constraints. Statistical methods in optimization. Methods of searching for the minimum of a function. Project: The student optimizes the selected mechanical subassembly on the basis of the assumed criterion</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#e787579b-e070-11ee-8705-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5f7090-d9b6-11ee-90ee-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00252S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Microprocessor control systems</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Introduction to microprocessor technology and embedded systems, Linux and ROS basics, cross-compilers and IDE environments, GPIO port support, Serial communication interfaces, Network communication, Downloading and basic processing of single and multidimensional signals on microprocessor systems, programming and testing of basic algorithms control on microprocessor systems, programming and testing of basic filtration algorithms on microprocessor systems, tools for debugging and maintaining software compliance, microprocessor control systems in intelligent technical systems and IoT systems. Laboratory: Introduction to programming of single-chip computers (basic operation, programming, working in a terminal), remote communication with a single-chip computer (SSH), programming and servicing of GPIO ports (programming of diodes and diode arrays, programming of LCD displays, downloading data from sensors and filtering them - temperature sensors, humidity sensors, IMU spatial orientation sensors), programming simple control systems, image acquisition and processing on a microcomputer),</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5f496b-d9b6-11ee-b23b-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00166S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Metrology and measuring systems</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5e2514-d9b6-11ee-899e-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00218S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Introduction to robotics</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Learning basic robotics concepts and essential robot components. Obtaining knowledge in the field of manipulator kinematics. Getting to know the individual components of the robot, their advantages and disadvantages and the principles of their selection. Getting to know the basic structures and commands used in programming industrial manipulators. Acquainting with different forms of robot mobility, advantages and disadvantages of individual solutions.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#e7875788-e070-11ee-9ecd-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d59c2f5-d9b6-11ee-b680-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-002012W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Design of Hydraulic Power Systems</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Laboratory: Introduction. Basics of power hydraulics. Principles of operation of hydraulic systems and their terminology. Hydraulic diagrams and symbols. Hydraulic cylinders - structures, basics of calculations and design. Directional control valves - classification, construction, types of control and features of connections to hydraulic power systems. Determination of real static characteristics of hydraulic valves. Development and construction of a hydraulic control system using known hydraulic devices. Project: Hydraulic power systems design and calculation. Design the hydraulic schemes. Types, construction, and basics of calculation hydraulic elements like cylinders, rotary actuators, and valves (check, pressure, flow control, directional control). Choose suitable hydraulic equipment, for designed hydraulic systems, from the producers' catalog.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5c96c5-d9b6-11ee-8278-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00250S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fundamentals of Mechanical Engineering</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: basic theory of machine construction; fatigue strength and fatigue calculations; connections: riveted, welded, threaded, keyed, splined, bolt, pin connections; springs; axles and shafts - design principles; plain and rolling bearings; clutches and brakes; mechanical transmission: belt, chain, gear; geometrical, kinematic and strength calculations of mechanical transmission elements Classes: fatigue strength and fatigue calculations; connections (riveted, welded, bolted, keyed, pinned), axles and shafts; rolling bearings; springs; mechanical transmissions (kinematic calculations) Project: selection of elements and project of the gear transmission</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d539ac2-d9b6-11ee-820c-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00131S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Active Vibration Control Methods</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Some concepts of structural dynamics, piezoelectric stripes or stick as actuator, magnetorheological dampers, collocated versus non-collocated control, active damping with collocated pairs of actuator and sensors, optimal control Project: determine of the mathematical model of flexible mechanical structure with piezo-elements and next design of active vibration control system with help of Matlab software</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d599c03-d9b6-11ee-99e6-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00207S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CONTROL THEORY</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Systems’ description in the state space. Continuous- and discrete-time systems. Reachability and controllability of time-invariant and time-varying systems. Basic observability notation of time-invariant and time-varying systems. Kalman’s decomposition. Transfer function. Transfer function and system’s state space description. Dynamical terms of the linear control system.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5b52ef-d9b6-11ee-9cf6-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00160W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fatigue design structures</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">To acquaint students with the impact of changes in the geometry of the strength of parts, determine the impact of the weak links in the durability of the structure. Understand how the impact of selected geometric dimensions on the level of stress and strain components. The use of FEM tools to estimate the fatigue life of the designed parts and the way to control this process. Experimental verification of the results of numerical analysis FEM real objects and how to develop results. Project: design items using CAD and FEM method, define loads in real items, apply force, moment and etc. finding weakness point analysis Laboratories: Analysis of the mechanical properties of materials. Prepare element to strain guage test and fatigue test, do strain guage test, fatigue test, prepare scientific description fatigue test and compare results with FEM analysis.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#e789c13e-e070-11ee-a2d1-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5ed3d5-d9b6-11ee-886d-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-MER0048W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Materials Science</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lectures: Atomic and crystal structure of materials, perspectives in materials science. Classification and general characteristics of engineering materials. Phase transitions and phase diagrams. Methods for materials production and processing. The influence of the structure on the properties of materials. Basic engineering materials: metals and their alloys, polymers, ceramics, composites. Applications of the materials in machine construction. Laboratory exercises: Quantitative assessment of metallographic structures by the image analysis methods. Measurements of mechanical properties of materials. Fe-Fe C phase 3 diagram, examination of the structures of steels and cast irons. Heat treatment of steels. Assessment of structures of the selected metallic alloys. Measurements of the properties of polymers and composites.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d53f6e1-d9b6-11ee-852b-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00186S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Advanced CAx systems</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Discussion of the CAx systems structure. Presentation of development trends and issues related to the implementation of CAx systems. Discussing sketch blocks and their use for analysing motion kinematics of sketch components. Presentation of parts modelling in the context of their further manufacturing. Defining geometric models, taking into account strength conditions. Presenting tools for automating mechatronic devices design. Making students familiar with the possibilities of parametric modelling. Making students familiar with top-to-bottom modelling of parts assemblies and with assembly modelling with the use of intelligent components. Modeling in assembly context and assembly configuration. Project: Creating models of parts, considering their manufacturing. Modelling of parametric parts. Using the tools of sheet metal and welded structures. Top-to-bottom creating of assemblies of parts and modelling assemblies using intelligent components. Modelling in the assembly context and configuring assemblies. Creating sketch blocks and performing motion kinematics analysis of sketch components.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d610083-d9b6-11ee-8188-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-00267W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thermodynamics</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Basic principles (thermodynamic systems and thermodynamic quantities classification, function of state and function of process); Internal energy; Heat, specific heat, absolute (volumetric) and technical work of thermodynamic processes; Enthalpy; Perfect gases laws; Gas mixtures and real gases; First law of thermodynamics for open and closed systems; Thermodynamic processes for perfect gases; Thermodynamic cycles principles; Gas cycles; Entropy; Second law of thermodynamics; Exergy; Thermodynamics of wet vapour; Thermodynamics of humid air; Elementary issues of heat transfer; Basic principles of combustion processes Classes: Perfect gases calculation problems; Application of first law of thermodynamics for open and closed systems; Calculation problems of thermal processes for perfect gases; Simple analyses of gas cycles; Application of second law of thermodynamics; Using properties charts for simple calculation and parameters identification (for steam). Laboratory: Temperature measurements; pressure measurements; flow rate measurements; vapour refrigeration cycle identification of thermal performance and thermal parameters; heat exchangers – thermal balance and heat rate.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d60888f-d9b6-11ee-9c55-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00215S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structural Programming</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: High level programming languages. General characteristics of the C language, standards. The structure of a simple program. Terms of declarations, definitions, expressions and instructions. The logic expressions, bit operations, relations - operator priorities. Block diagrams and control instructions. Overview of basic data types. Floating point arithmetic. Pointers and tables. Functions and its parameters. Standard library. Project: Designing a game or application program of a complexity level that enforces the use of all C language instructions presented in the lecture.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#e789c12b-e070-11ee-80a8-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5db077-d9b6-11ee-9f4b-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00214S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Intelligent systems in buildings – Smart\nHome</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Learning to program the SmartHome system by Grenton, Fibaro which allows control lighting, heating, ventilation and window covers.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d594e2b-d9b6-11ee-a4da-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-MER0036S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computer Engineering Analysis</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CAE terminology. Validation process of design. Principles and types of analysis in CAx systems. Verification problems of mechanical systems in machine building. Commercial CAE systems. Static analysis in mechanical problems. Types of mesh of CAD models. Results interpretation: stress, strain, displacement, factor of safety. Methods of results presentation. Background of SolidWorks Simulation. Types of validation of 3D models in SolidWorks environment. Various mesh options in verification problems. Carried out selected mechanical problems and their virtual simulation. Preparation and interpretation of results.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5aad36-d9b6-11ee-ab6c-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00159W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Engineering Graphics</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Images of the basic elements of space, and the associated elements in common. Basic elements and principles of design in the drawing of isometric and rectangular projections. Sections and views. General and specific principles of dimensioning. Tolerances on dimensions, shape and position. Connections inseparable and mutually exclusive. Simplification in the structure drawings. Elements of mechanical structures design. Project class: Images of point, line and plane. Common elements and belonging. Orthogonal. Views of machine parts and sections of the layout and dimensional tolerances. Connections of the machine. Assembly drawing. Simplification and diagrams.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5b7e6c-d9b6-11ee-aa9d-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-MER0053S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Final Project</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Characterization of the possible solutions of the problem stated in the engineer project derived from the current state of knowledge. Studying a literature and technical regulations. Formulation of methods and maners of problems for implementations. Usage of manual and computer methods. Preparing documentation of the implementing problem.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">420</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#e789c12b-e070-11ee-80a8-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5dfe26-d9b6-11ee-a046-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00176W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Introduction to computer science</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Computer architecture (data storage, data handling, the concept of stored programmes). Algorithms (algorithm design and analysis, algorithms on numbers, sorting and 'divide-and-conquer' algorithms, probabilistic analysis and randomised algorithms, and graph algorithms). Software (programming languages, software engineering). Data organisation (data structures, file structures, databases). Algorithmic machines (artificial intelligence, theory of computation). Computer networks. Project classes: Practical application of the Latex word processor. Fundamentals of programming in a selected programming environment. Practical application of a spreadsheet.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d59273b-d9b6-11ee-b7c3-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00173S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Composite mechanics</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LECTURE 1. Basic information about composite materials. 2. Stress and strain measurements. 3. Constitutive equations for anisotropic materials, engineering material constants. 4. Transformation of constitutive equations to any reference system. 5. Composite micromechanics. 6. Layer composites, classical lamination theory. 7. Strength of layered composites. 8. Homogenization methods used for microperiodic composites. PROJECT: Introduction to computer methods in composite design: - computer aided in modelling of mechanical and thermal properties - computer-aided analysis and optimization stage for elements made of composite materials.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5cbdb2-d9b6-11ee-b35c-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-MER0058W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fundamentals of Mechanical Engineering\nI</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">General principles of design. Norms and standards. Stress concentration, fracture toughness and fatigue. Allowable stresses, safety factor. Connections: strength and design. Threads. Bolts as axially loaded columns. Mechanical springs. Axes and shafts.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5e7f7a-d9b6-11ee-838a-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00264S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manufacturing techniques</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Production system. Mechanization, automation and robotization. Scope of automation, forms of automation. Flexible production systems - definition, systems structure. Forms of production organisation. Functional subsystems: machining, assembly, quality control, transport and storage, information flow in manufacturing systems. Tool systems. Computer integrated manufacturing (CIM) - definitions, CAx systems, structure. Integration of design and manufacturing processes: concurrent engineering, rapid prototyping, reverse engineering. Project: machine part machining project with milling and turning operations in CAM software.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5f223f-d9b6-11ee-9ad9-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00212S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Measuring and control signals</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Basic measurement signals and measurement sensors. Characteristics of the measuring signal. Filtration methods and analysis of measurement errors. Types of control signals and division of devices for their generation. Analysis of measurement data and their representation. Signals in automatic control systems. Types and principles of operation of communication interfaces. Application and representation of radio, audio and video signals. Laboratories: Measurement, acquisition and representation of real discrete and analog signals. Selection of measurement methodology and construction of filters for measurement signals. Building dedicated applications for the acquisition, processing and representation of measurement signals.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5e2513-d9b6-11ee-83c4-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00211W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Introduction to Mechatronics</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: What is mechatronics. Examples of mechatronic solutions in everyday life. Utilities as mechatronic systems. The interdisciplinary approach to mechanical, IT, electrical systems, automation and robotisation systems. Interoperability of systems to optimise construction and costs. Mechatronics engineer, as a person coordinating the activities of interdisciplinary teams. Inspiring other fields of science in creating mechatronic systems. Laboratory: Comparison of conventional systems with mechatronic systems. Using several available solutions to perform the same task, to compare the costs and complexity of their application.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#e789c12b-e070-11ee-80a8-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5f7091-d9b6-11ee-b945-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00253S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mobile robots</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Introduction: Historical features, concepts, and definitions. Classification due to mobility, application, advantages and disadvantages. Mobile wheeled robots, various configurations. Walking machines, division, structures, gait patterns. Drives and sensors used in mobile robots. Laboratory: motion planning and control of mobile robots. Project: mobile robot concept design</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d6060c6-d9b6-11ee-b0e0-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-MER003W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Strength of Materials</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1. Introduction. Internal forces. Normal and shear stresses. Deformations. Normal and shear strains. Stress–strain diagram. Elastic and plastic behaviour. Yield stress. Ultimate stress. Working stress. Safety factor. 2. Geometry of cross-sections. Static moments. Centroid. Moments of inertia. Parallel-axis theorem. Principal axes. Principal moments of inertia. 3. Tension and compression. Axial force. Saint Venant’s principle. Hooke's law. Elastic modulus. Poisson's ratio. Thermal expansion coefficient. 4. Torsion. Twisting moment. Angle of twist. Shear modulus. 5. Bending stresses. Bending moment. Neutral axis. Flexure formula. Efficient cross sections. Bending with shear. Shear formula. 6. Bending deflections. Equation of the elastic curve. Double-integration method. Bracket function. 7. Combined loading. Skew bending. Eccentric axial loading. 8. Strength theories. Stress state at a point. Principal stresses. Mohr’s circles. Equivalent stress. 9. Energy theorems. Strain energy. Castigliano’s theorem. Principle of stationary potential energy. Betti’s theorem. 10. Force method. Redundant reaction. Degree of static indeterminacy. Statically determinate equivalent structure. 11. Stability of bars. Buckling. Critical load. Euler’s formula. Energy method. 12. Elastoplastic behaviour. Yield loading. Limit loading. Plastic neutral axis.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5c21f2-d9b6-11ee-b15b-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-MER0038S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fluid Drive Systems</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Introduction into pneumatic systems and hydraulic systems. The advantages of pneumatic and hydraulic systems. The production and transportation of compressed air – components that produce and transport compressed air. ISO symbols of pneumatics and hydraulics. Basic principles of drawing pneumatic circuit diagrams. Basic components of pneumatic and hydraulic drive and control systems – symbols, principles of operation. Fluid actuators: types, structure, selection rules, maintenance. Discharge valves: types, structure, principles of operation. Pressure and flow control valves. Design and assembly of complex pneumatic control systems. Examples of practical applications of pneumatic and hydraulic drive systems.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d56b2dd-d9b6-11ee-b9dd-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00241W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CAD/CAM Systems</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Computer aided design - structure and principle of operation of CAD systems. Methods of creating geometry used in computer engineering systems. Basic tasks of creating and modifying shapes of objects in CAD systems. Types of geometric models used in CAD / CAM systems. Solid and surface modelling. Exchange of geometric data between CAD / CAM systems. Computer aided manufacturing (CAM) - definition, structure, ways of information processing. The use of CAM systems in the preparation of production. Integrated CAD / CAM systems - properties, system selection criteria. Features of CAD / CAM systems. The use of a CAD / CAM system to develop a technological process for a numerically controlled machine tool. The use of CAD / CAM systems for programming numerically controlled machine tools. Concurrent engineering and reverse engineering. Project: Basics of CAD / CAM system operation. Development of the technological process of the technical object and generation of programs controlling the CNC machine tool - using the CAD / CAM system.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#e789c12b-e070-11ee-80a8-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d54eba6-d9b6-11ee-aedc-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00158S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Automobiles</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Motor vehicles classification, purpose and requirements. Vehicle construction and characteristic of its major systems. Technical characteristic and moving properties. Construction, functions and tasks of major vehicle systems. Wheel-surface system. Force and power balance. Mechatronic systems in vehicles Laboratory class: Construction and operating of motor vehicle systems</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5d3274-d9b6-11ee-af81-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00263S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Innovative entrepreneurship and\ntechnology transfer</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Definition of innovation, types and sources of innovation. Innovation diffusion. Innovation models. Definition of technology transfer, types and forms of technology transfer. Technology transfer sources. Technology transfer versus innovative activity of businesses. Technology transfer in innovation models. Sources of inspiration for innovative projects. Innovation creation methods. Phases of the implementation of an innovative business project. Business model versus business plan. Business plan and business model elements. Sources of financing of innovative projects. International technology transfer. Classes: Creating a business model for an innovative project (customer segments, value proposition, channels, relationships with customers, revenue streams, key resources, key activities, key partners and cost structure).</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5444ad-d9b6-11ee-8b2a-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00179W</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Advanced course of programming in\nPython</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Object-oriented programming: creating classes and using objects; Introduction to GUI programming using Tkinter; Widgets and Layouts; Geometry managers; Commands with buttons and timers; Events and bindings; Menu Bar; Other widgets</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5d0b89-d9b6-11ee-995b-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00196S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Heat exchangers</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Heat exchanger classifications. Flow arrangements of heat exchangers; counter-, parallel-, multipass- and cross- flow arrangements. Methods of heat exchanger analysis: log mean temperature difference, effectivenes vs. NTU method. Compact heat exchangers. Analysis of regenerators</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d5db076-d9b6-11ee-9866-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00251S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Intelligent systems communication</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Defining the term of an intelligent system. The term of internet of things as an example of an intelligent system. History of the ethernet standard. Ethernet frame structure and transmission process. Architecture of TCP / IP protocol, OSI and TCP / IP models. Layers of TCP / IP and OSI models. Standards in wireless networks, WIFI network. Examples of the use of WIFI networks in microprocessor systems. Bluetooth communication standard, parameters, versions and application in microprocessor systems. The architecture of serial interfaces: CAN, SPI, I2C, RS232, RS485 and their comparison. Parameters of individual serial interfaces, examples of implementation on a selected microcontroller.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5d603926-d9b6-11ee-b0e4-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME-00265S</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Programming of industrial robots</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: task planning, offline and online programming, Mikro V+ and AS programming languages; description of RobWork and ROS environments, communication between ROS nodes, Rviz module, URDF model. Laboratory: robot task planning (pick and play), programming of an Adept Cobra robot, programming of a Kawasaki robot, compiling and running programs in the ROS environment;</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#BUMechanicalEngineering"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://tuc.web.engineering/module#"
+   xmlns:ns2="http://across/university#"
+   xmlns:ns3="http://tuc/course#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797e5d95-e06e-11ee-95f8-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">563100</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Advanced Management of Data</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Betrachtet werden u.a.:  Objektrelationale und objektorientierte Systeme  Nosql-Datenbanken  Graph-Datenbanken  Data Warehousing &amp; Data Mining  Verteilte Datenbanken  Parallele Datenverarbeitung  Internet-Datenanbindung  Sicherheitsaspekte</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797d2460-e06e-11ee-9add-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">573070</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neurokognition I</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Neurokognition ist ein neuer Zweig der Kognitionswissenschaft, in der die Konsequenzen aus den in der neurowissenschaftlichen Forschung der letzten Jahre gewonnenen Erkenntnissen für die Kognition gezogen werden. Die Veranstaltung führt in die Modellierung neurokognitiver Vorgänge des Gehirns ein. Neurokognition ist ein Forschungsfeld, welches an der Schnittstelle zwischen Psychologie, Neurowissen- schaft, Informatik und Physik angesiedelt ist. Es dient zum Verständnis des Gehirns auf der einen Seite und der Entwicklung intelligenter adaptiver Systeme auf der anderen Seite. In Neurokognition I werden vorwiegend verschiedene realistische neuronale Mo- delle und Netzwerkeigenschaften sowie das Lernen in Form von synaptischer Plastizi- tät vorgestellt. Zum tieferen Verständnis erfordern die Übungen auch praktische Auf- gaben am Rechner.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797d246a-e06e-11ee-bc85-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">573090</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Humanoide Roboter</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Vorlesung gibt eine Einführung in die Robotik, mit besonderem Fokus auf biologisch inspirierte humanoide Roboter. Es werden verschiedene Methoden der Programmierung von Robotern zur Lösung von sensorisch-motorischen Aufgaben vorgestellt, die im Praktikum vertieft werden. Im Einzelnen werden folgende Themen behandelt: Sensorik und Aktuatorik, Kinematik, Regelung mobiler Roboter, biologisch inspirierte Roboter, Humanoide Roboter, Soziale Roboter und Mensch-Roboter Inter- aktion, Neurorobotik, Roboethik.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797e5da0-e06e-11ee-b8c5-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">824250</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kommunikation und Führung</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Es werden Grundlagen der Kommunikation und Gesprächsführung vermittelt, wobei die Inhalte auf die Funktion einer Führungskraft (z. B. Motivation, Zielvereinbarungen, Leistungsbewertung, Aufgabenverteilung) ausgerichtet sind. Themen sind dabei: Kommunikationsmodelle, Gesprächsplanung und -steuerung, aktives Zuhören und Fragetechniken sowie Stile der Selbstpräsentation. Die Vermittlung der Inhalte erfolgt über Theorieblöcke, Diskussionen, Einzel- und Gruppenarbeit sowie Übungen.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797d246c-e06e-11ee-9c86-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">427070</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Modellbildung und Identifikation dynamischer Systeme 2B</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einführung in die Systemidentifikation  Parametrische dynamische Modelle  Schätzverfahren (Bezeichnungen, Bias, Konsistenz, Ausgleichsrechnung, men- genbasierte Verfahren, Zustandsschätzverfahren, u.a.)  Optimierungsverfahren und -algorithmen  erweiterte Konzepte</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797d246f-e06e-11ee-a935-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">553030</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Entwurf Verteilter Systeme</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rechner- und Kommunikationsnetze und das Web haben sich in den letzten zwei Jahrzehnten zu einem effizienten Arbeitswerkzeug, einer universellen Informationsquelle und einem fast allgegenwärtigen Kommunikationsmedium entwickelt. Sie sind aus unserem Alltag nicht mehr wegzudenken. Sie entstehen durch den Zusammenschluss verschiedener Systeme, die über Netzwerke miteinander kommunizieren und so den Informationsaustausch untereinander ermöglichen. Austausch und Weiterleitung der Daten erfolgen durch geeignete Verfahren und Algorithmen, die als Protokolle bezeichnet werden. In dem Modul werden grundlegende Ansätze, Konzepte und Prinzipien solcher verteilten Systeme vertieft. Darüber hinaus stehen die Technologien von Internet und World Wide Web im Mittelpunkt der Betrachtungen. Einen weiteren Schwerpunkt bildet die Einführung in die Entwicklung von Web Services und Service-orientierte Architekturen (SOA). Das Modul vermittelt hierzu verschiedene Ansätze Verteilter Systeme und vertieft zentrale Aspekte im Entwurf Verteilter Systeme.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797d246e-e06e-11ee-843e-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">427170</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nichtlineare Regelung / Nonlinear Control</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einführung und Allgemeine Eigenschaften nichtlinearer Systeme  Lyapunov-Theorie basierter Reglerentwurf  Singuläre Störtheorie  Dissipativität und Passivität  Differentialgeometrische Methoden  Moderne Verfahren der nichtlinearen Regelung</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797e5d9a-e06e-11ee-9702-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">500350</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grundlagen Forschungsorientierung</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forschung in einem wissenschaftlichen Umfeld stützt sich auf den Stand der Technik und der Wissenschaft. Dieser wird durch die Fachliteratur und aktuelle Fach- publikationen sowie über Internet veröffentlichte Informationen zu Forschungsakti- vitäten beschrieben. Methoden und Merkmale zur Analyse des Stands der Technik und der Wissenschaft werden vorgestellt.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">60</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797d2465-e06e-11ee-a2b8-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">420060</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Intelligente Sensorsysteme</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Grundlagen intelligenter Sensorsysteme  Sensoreigenschaften  Strukturen von Sensorsystemen  Störeinflüsse und Schutzmaßnahmen  Sensorsignale  Messdatenerfassung  Sensorschnittstellen und Messdatenerfassung  Reale Verstärker und Verstärkerschaltungen  Fortgeschrittene Verfahren der Analog-Digital-Umsetzung  Impedanzspektroskopie  Ausgewählte Sensoranwendungen</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797e5d9d-e06e-11ee-bf53-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">613130</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Technischer Vertrieb</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Besonders bei technologieorientierten Gründungen und KMUs kommt dem technischen Vertrieb an Firmenkunden eine Schlüsselfunktion zu. Die Vorlesung vermittelt daher umfangreiche Kenntnisse über den Ablauf von Business-to- Business-Geschäften. Neben der Vermittlung fundierter theoretischer Grundlagen ist ein Tagesworkshop verpflichtender Bestandteil der Vorlesung. In diesem erproben die Teilnehmer ihr erlerntes Wissen zum persönlichen Verkauf in realitätsnahen Rollenspielen. Durch den Einsatz von Videotechnik und strukturiertes Feedback wird die realistische Reflexion der eigenen Fertigkeiten ermöglicht.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797d2468-e06e-11ee-9b2e-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">425130</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Advanced Robotics</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Im Modul stehen fortgeschrittene Methoden der Robotik im Mittelpunkt. Themati- sche Schwerpunkte sind dabei unter anderem: Stochastische und probabilistische Methoden Neuronale Netze und Deep Learning Reinforcement Learning Deep Reinforcement Learning Recurrente Netze Anwendungen beim Laufen und Greifen</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797e5d93-e06e-11ee-894f-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">555090</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hardware/Software-Codesign II</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Abschätzung von Design Parametern  Rapid Prototyping/Emulation  Hardware/Software Co-Simulation  Hardware/Software Co-Specification mit SystemC  Überblick über Hardware/Software Interfaces  Interface Synthese</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797e5d9f-e06e-11ee-8b1d-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">824230</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zeitmanagement und Arbeitsorganisation</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Studien- und Berufserfolg sind insbesondere von erfolgreichem Zeitmanagement und effizienter Arbeitsorganisation abhängig. Das Modul behandelt das Setzen von kurz- und langfristigen Zielen, Techniken der Planung und Möglichkeiten der Stressbewältigung. Theoretische Inhalte werden durch praktische Übungen ergänzt.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797d2464-e06e-11ee-95fd-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">420010</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sensoren und Sensorsignalauswertung</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Sensorbegriff, Sensorsysteme, Kalibrierung  Fertigungstechnologien für Sensoren, neue Werkstoffe in der Sensortechnik  Physikalische Prinzipien von Sensoren  Temperatursensoren  Positionssensoren  Kraftsensoren  Durchflusssensoren  Magnetfeldsensoren  Chemische Sensoren  Sensorsignalverarbeitung</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">90</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797d2473-e06e-11ee-b434-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">565050</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Entwurf von Software für eingebettete Systeme</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Vorlesung beschäftigt sich mit Entwicklungsmethoden für Software in eingebetteten Systemen. Dabei werden folgende Teilaspekte behandelt:  Vergleich der Merkmale von nicht-eingebetteten und eingebetteten Systemen  Funktionale und nicht-funktionale Anforderungen an eingebettete Software (Zeitverhalten, Effizienz, Zuverlässigkeit, Wartbarkeit, Portabilität, Regelungs- technik)  Umsetzung dieser Anforderungen mit verschiedenen Methoden (Programmier- sprachen, Modellgetriebene Entwicklung, Simulation)  Unterstützung durch Middleware und Betriebssysteme  Trends und Beispiele aus der Praxis</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797d246d-e06e-11ee-9664-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">427110</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Optimale Regelung / Optimal Control</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Endlich dimensionale Optimierung  Statische Optimierung  Dynamische Optimierung  Variationsprobleme mit endlichem Zeithorizont, LQ-Regelung  Modelprädiktive Regelung  Numerische Verfahren  Anwendungen aus verschiedenen Bereichen</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797e5d9e-e06e-11ee-9e36-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">642090</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Recht des geistigen Eigentums</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Modul Recht des geistigen Eigentums befasst sich mit den Charakteris- tika der Immaterialgüter im Unterschied zum materiellen Eigentum. Es werden die verschiedenen Immaterialgüter und deren Schutzmöglichkeit (Urheberrecht und ge- werbliche Schutzrechte: u.a. Patent, Designschutz/Geschmacksmuster, Marke) aus- führlich dargestellt, ebenso deren Schutzbereiche, die Rechtsfolgen im Verletzungs- fall sowie die Erschöpfung von Immaterialgüterrechten. Auf europäische und inter- nationale Bezüge (u.a. Territorialprinzip, internationale Verträge) wird an den rele- vanten Stellen eingegangen - ebenso auf Aspekte des IP-Managements.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">90</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797d2479-e06e-11ee-ae43-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">427140</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Regelungstechnik 1B</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Systemanalyse im Zeitbereich  Reglerentwurf im Zeitbereich  Systemanalyse im Frequenzbereich  Analyse von Regelkreisen, Anforderungen an Regelkreise  Reglerentwurf im Frequenzbereich</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797d2472-e06e-11ee-b4d2-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">565040</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Labor Eingebettete Software</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Praktikum beschäftigt sich mit der angewandten Modellierung, Analyse und Entwicklung eingebetteter Software-Systeme. Dabei werden folgende Teilas- pekte behandelt:  Umgang mit Werkzeugen zur Entwicklung eingebetteter Software (Cross Compi- ler, grafische Entwicklungsumgebungen, Debugger, Werkzeuge für den Erstel- lungsprozess)  Modellierung und Analyse von Algorithmen und Architekturen für eingebettete Systeme  Fehlerbehebung und Laufzeitanalyse für eingebettete Software</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797d2478-e06e-11ee-8cd6-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">425170</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grundlagen der mobilen Robotik</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Kinematiken mobiler Roboter  Lokalisation: Kalman- und Partikelfilter  Konfigurationsraumhindernisse und Navigation  Kollisionsfreie Bahnplanung mittels klassischer Methoden: Zerlegungsfeld, Po- tentialfeld und Visibility-Graphen  SLAM Methoden (Simultaneous Localization and Mapping)</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797d246b-e06e-11ee-9e1a-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">833020</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grundlagen der Biomechanik und Bewegungswissenschaft</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">In der Vorlesung Grundlagen der Biomechanik und Bewegungswissenschaft werden Grundkenntnisse über biomechanische Zusammenhänge vermittelt. Inhalte sind u.a. die mechanischen Grundlagen der Kinetik und Kinematik, die biomechani- schen Prinzipien und die biomechanischen Eigenschaften biologischer Strukturen in einem bewegungswissenschaftlichen Kontext. In der dazugehörigen Übung werden die Vorlesungsinhalte im Rahmen praxisrelevanter Anwendungsbeispiele vertieft.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797d247a-e06e-11ee-ac6e-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">500310</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Themenschwerpunkte Informatik</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Informatik ist eine lebende Wissenschaft und bringt schnell neue Er- kenntnisse hervor. Im Modul Themenschwerpunkte Informatik werden solche Ergeb- nisse aufgenommen.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797e5d97-e06e-11ee-85df-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">571210</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Solid Modeling</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderne CAD-Systeme verwenden einen volumenorientierten Modellie- rungsansatz, der als solid modeling (Körpermodellierung) bezeichnet wird. Gegen- über einem flächenorientierten Ansatz erlaubt das vollständige Erfassen der 3 D-Ge- ometrie eines Objektes die Durchführung von Konsistenzprüfungen des Modells. In der Vorlesung werden die Grundlagen des Körper-Modellierens sowie die wichtigsten Modellierungsansätze CSG, B-rep und Zellzerlegung behandelt.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797d2475-e06e-11ee-aac2-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">565130</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Verlässliche Systeme</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grundlegende Ansätze und Maße der Fehlertoleranz; Störungsmodelle; Tech- niken der Fehlerdiagnose; Fehlertoleranz auf Systemebene; Fehler in Software; Mo- dellierung</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797d2470-e06e-11ee-9071-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">561090</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paralleles Wissenschaftliches Rechnen</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Modul befasst sich mit Anwendungen und Algorithmen des wissenschaftlichen Rechnens und deren effizienter Realisierung auf modernen Parallelrechnern. Vorgestellt werden einzelne Algorithmen der Numerik und spezielle Applikationen. Ebenso werden grundlegende Techniken zur Unterstützung der parallelen Programmierung besprochen. Hier sind etwa Partitionierungen, Lastbalancierungs- und Schedulingalgorithmen zu nennen.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797d2471-e06e-11ee-91ca-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">565010</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Betriebssysteme für verteilte Systeme</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Spezielle Probleme von Betriebssystemen in verteilten Systemen; Algorith- men für Basisprobleme (Mutex, Terminierung, Auswahl, etc.); Uhren in verteilten Sys- temen; Gruppenkommunikation; Zuordnung und Lastbalancierung; Namen; verteilte Betriebssysteme; verteilte Transaktionen; Fallbeispiele (z.B. Mach, Plan9/Inferno, Amoeba)</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797e5da1-e06e-11ee-89e5-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Engl_5</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Englisch in Studien- und Fachkommunikation V (Niveau C1)</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vermittlung erweiterter Kenntnisse und Fertigkeiten in der wissenschaftlich- fachsprachlichen Anwendung der englischen Sprache mit Fokus auf den linguistisch- stilistischen Anforderungen einer fachsprachlichen Arbeitsumgebung; Die Ausbildung orientiert sich an der Sprachkompetenzstufe C1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GER) und beinhaltet eine fachsprach- liche Komponente.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797e5d98-e06e-11ee-be95-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">573180</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neurocomputing</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neurocomputing behandelt Grundlagen bis hin zu anspruchsvollen Methoden der neuronalen Verarbeitung. Dafür werden mathematische Kenntnisse der linearen Al- gebra und der Statistik vertieft. Neurocomputing fokussiert sich im Gegensatz zu Neu- rokognition eher auf Neuronale Netze zur Lösung von Anwendungen, als auf die Erklä- rung der Funktion des Gehirns, dabei können die behandelten Ansätze allerdings durch- aus biologisch inspiriert sein. Themen des Moduls sind unterschiedliche Neuronenmo- delle, Methoden des Lernens wie Deep Learning, Reservoir Computing, Self-Organizing Maps, Autoencoder und weitere aktuelle Methoden.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797e5da5-e06e-11ee-b746-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9100_M</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Master-Arbeit</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Im Rahmen des Moduls wird eine Masterarbeit erstellt und verteidigt. Das Thema der Arbeit steht in inhaltlichem Zusammenhang zu einem der Schwerpunkte der Neurorobotik. In der Masterarbeit und der abschließenden Verteidigung der Abschlussarbeit weisen die Studenten nach, dass sie innerhalb einer bestimmten Frist ein begrenztes aber anspruchsvolles Problem wissenschaftlich bearbeiten können.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">900</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797e5da3-e06e-11ee-a6cb-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50009020.05.10</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forschungsseminar</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hier werden zu einem vorgegebenen Problemfeld selbständig Einzelaspekte identifiziert und bearbeitet. Das Seminar wird zu den Säulen des Studiengangs an- geboten. Die Studenten erarbeiten eigenständig ein Thema, stellen es in einer Prä- sentation zur Diskussion und verfassen anschließend eine Seminararbeit, welche den Kriterien einer wissenschaftlichen Arbeit entspricht.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797e5d9b-e06e-11ee-904e-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">613020</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Businessplanung und Management von Gründungen</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Studenten setzen sich mit allen Aspekten der Selbständigkeit und der Gründung eines Unternehmens auseinander. Dazu zählen u.a. Ideenfindung und -bewertung, die Erstellung eines Businessplans, die Finanzierung einer Gründung und das Management von Start-Ups und KMUs.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">90</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797e5d9c-e06e-11ee-8613-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">613040</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gründungsfinanzierung</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Vorlesung vermittelt neben finanztechnischen und -analytischen Grundkenntnissen auch Wissen über Liquiditätsplanung und Finanzierungsquellen, Verständnis für die Rolle von Fremdkapitalgebern und Investoren und Grundkenntnisse über die Bewertung von Wachstumsunternehmen. Das erlernte Wissen wird in Fallstudien vertieft und praktisch angewendet.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">90</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797d2461-e06e-11ee-a922-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">573130</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neurokognition II</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Neurokognition II beleuchtet komplexere Modelle von neuropsychologi- schen Prozessen mit dem Ziel, einerseits die neuronalen Mechanismen des Gehirns besser zu verstehen und andererseits neue Algorithmen für intelligente Systeme und kognitive Roboter zu entwickeln. Themen sind Wahrnehmung, visuelle Aufmerksam- keit, Objekterkennung, Gedächtnis, Handlungskontrolle, Emotionen, Entscheidungen und Raumwahrnehmung. Aktuelle neuronale Modelle werden im Kontext neuer Befunde experimenteller Studien vorgestellt und diskutiert. Zum tieferen Verständnis erfordern die Übungen auch praktische Aufgaben am Rechner.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797d2463-e06e-11ee-a549-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">573160</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neurorobotik</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neurorobotik fokussiert sich auf die Übertragung der neuronalen Methoden zur Lösung von Fragestellungen in der Robotik. Dabei stehen primär Ansätze im Vorder- grund, die Robotik und neuronale Verarbeitung eng verzahnen, wie Bewegungssteue- rung, kognitive Prozesse sowie das Lernen von der Sensorik bis hin zur Motorik.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797d2467-e06e-11ee-936a-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">425100</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roboter-Sehen A</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">In der Vorlesung werden Inhalte des Roboter-Sehens vermittelt. Zunächst werden Grundlagen der Bildverarbeitung und der Kamera-Kalibrierung sowie der Hand-Auge-Kalibrierung besprochen. Es folgen Signalverarbeitungsverfahren der Bildaufbereitung und Bildverbesserung. Anschließend werden Methoden der Merkmalserkennung thematisiert. Im zweiten Teil der Vorlesung werden Methoden des 3-dimensionalen Computer- Sehens vorgestellt. Dieses beinhaltet das Stereo-Sehen, den codierten Lichtansatz und weitere Verfahren zum Tiefensehen. Außerdem werden Algorithmen für die Segmentierung von Bildern und zur Klassifikation erörtert. Die Lageschätzung von Objekten zur Interaktion mit Robotern ist ein weiteres Thema der Vorlesung.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">210</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797e5d94-e06e-11ee-846e-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">555190</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hardware Development with VHDL</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Paradigmen und Konzepte zur Implementierung von Funktionalitäten als kombinatorische oder sequentielle Digitalsysteme unterscheiden sich deutlich von den etablierten Verfahren zur Programmierung mittels imperativer Programmier- sprachen. Diese Veranstaltung behandelt die Paradigmen des Hardware-Entwurfs und setzt sie in Relation zu imperativen Ansätzen. Als Beschreibungssprache für se- quentielle Systeme kommt VHDL zum Einsatz. Schwerpunkte der Veranstaltung sind:  VHDL Grundlagen (Konzepte, Syntax, Semantik)  Vergleich zu imperativen Programmiersprachen  Kombinatorische Systeme und ihre Modellierung  Sequentielle Systeme und ihre Modellierung  Komponenten der Register-Transfer Ebene und ihre VHDL-Realisierung  Modellierung und Realisierung komplexer Systeme  Praktische Erfahrungen in der VHDL-Beschreibung Der praktische Umgang mit entsprechenden Entwurfsprogrammen zur Simulation und Synthese der VHDL-Beschreibungen wird ebenso vermittelt.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797d2477-e06e-11ee-b7fd-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">201100</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Optimierung im Maschinellen Lernen</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Herausforderungen hochdimensionaler Optimierungsaufgaben  deterministische Optimierungsverfahren  stochastische Optimierungsverfahren  effiziente Berechnung von Ableitungen  schnelle Optimierungsverfahren für Klassifikationsaufgaben  schnelle Optimierungsverfahren im Deep Learning</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797d2462-e06e-11ee-9c67-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">573140</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Deep Reinforcement Learning</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Reinforcement Learning (RL) ist ein wichtiger Teil des maschinellen Lernens, bei dem ein Agent lernt, durch partielles Feedback (Belohnungen) mit seiner Umgebung zu interagieren. Durch die Erweiterung von RL mit tiefen neuronalen Netzwerken zur Funktionsapproximation hat das Deep Reinforcement Learning die Fähigkeit, direkt mit sensorischen Rohdaten zu arbeiten, was ein End-to-End-Lernen ermöglicht. Inhalte der Vorlesung sind:  Grundlagen des Reinforcement Learning  Value-based Methoden  Policy search und Policy gradient  Modellbasiertes Reinforcement Learning  Multi-Agent Reinforcement Learning</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797e5d99-e06e-11ee-9a04-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57807019.05.2010</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mensch-Computer-Interaktion II</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Mensch-Computer-Interaktion II behandelt Interaktionsmöglichkeiten zwischen Mensch und Computer insbesondere bei multimedialen Inhalten. Ziel ist eine benutzergerechte Gestaltung von Benutzungsoberflächen.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797d247b-e06e-11ee-af9d-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">555070</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hardware/Software-Codesign I</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einblick in verschiedene Entwurfsmethodiken und -strukturierungen für Einge- bettete Systeme  Überblick und Vergleich von Zielarchitekturen und -komponenten für Hard- ware/Software-Systeme  Ausgewählte Probleme der Hardware- und Softwaresynthese  Allgemeine Partitionierungsverfahren  Hardware/Software-Bipartitionierung</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797e5da4-e06e-11ee-a266-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">500170</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forschungspraktikum</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Forschungspraktikum kann an einer Professur der Fakultät für Informatik durchgeführt werden. Während das Forschungsseminar einen Überblick über die wissenschaftliche Vorgehensweise beginnend mit der Themenwahl, Literaturrecherche bis hin zur wissenschaftlichen Arbeit vermittelt, steht im Praktikum die dauerhafte forschende Tätigkeit im Vordergrund. Beides zusammen, die Konzeption wissenschaftlichen Arbeitens sowie das kontinuierliche Arbeiten, bildet die Voraussetzung für eine gelungene Masterarbeit im letzten Semester.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">450</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797e5da2-e06e-11ee-86f6-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Engl_6</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Englisch in Studien- und Fachkommunikation VI (Niveau C1)</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Selbstständige Recherche, Lesen und sprachliche Auswertung fachspezifi- scher Texte sowie Anwendung in der fachlichen Diskussion; Vertiefung des akade- mischen/berufsspezifischen Wortschatzes im Fachgebiet, Leiten von Beratungen und Diskussionen in einer fachsprachlichen Arbeitsumgebung; Die Ausbildung orien- tiert sich an der Sprachkompetenzstufe C1 des Gemeinsamen Europäischen Refe- renzrahmens für Sprachen (GER) und beinhaltet eine fachsprachliche Komponente.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797e5d96-e06e-11ee-9ef1-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57101019.05.2010</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computer Aided Geometric Design</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zur Erzeugung von Computergraphiken werden geometrische Modelle der darzustellenden Objekte benötigt. In dieser Vorlesung werden Techniken und Algo- rithmen zur Erzeugung und Manipulation so genannter Freiformgeometrien behan- delt, die bei der geometrischen Modellierung komplexer Oberflächen (z.B. Automo- bilkarosserien, Flugzeugtragflächen) zum Einsatz kommen.  Kurven und Flächendarstellungen  Interpolation  Approximation  Splinekurven  Bezierkurven und -flächen  B-splinekurven und -flächen</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797d2474-e06e-11ee-866e-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">565110</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Betriebssysteme II</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">In der Grundlagenveranstaltung "Betriebssysteme" wurde phänomenologisch die Funktion und der Aufbau von Betriebssystemen betrachtet. Darauf aufbauend geht es in "Betriebssysteme II" darum, wie der Einfluss von Designentscheidungen auf nicht-funktionale Eigenschaften, wie z.B. Leistungsfähigkeit oder Korrektheit, bewer- tet werden kann. Es werden daher Ansätze diskutiert, mit denen Betriebssysteme qua- litativ und quantitativ durch Modellierung und Analyse bewertet werden können.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797d2476-e06e-11ee-9829-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">577020</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Model-Driven Software Development</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Vorlesung gibt eine Einführung in Model-Driven Software Development und bettet sie ein in Softwaremodellierung und -entwicklung. Der Schwerpunkt liegt auf der Sicht von modellgetriebener Softwareentwicklung seitens der Object Ma- nagement Group (OMG). Dies beinhaltet OMG-Standards wie MDA, QVT oder MOF. Nichtsdestotrotz führt die Vorlesung auch in die zu Grunde liegenden Konzepte die- ser Standards ein und zeigt Querbezüge zu anderen Gebieten der Softwareentwick- lung auf. Insbesondere werden die folgenden Fragen behandelt:  Welche Techniken machen MDSD aus?  Wie kann man aus existierender Software Plattformen extrahieren?  Wie wird mittels MOF metamodelliert?  Wie werden Modelle transformiert? Zu letzterem gibt die Vorlesung einen intensiven Einblick in Modell-zu-Modell und Modell-zu-Text Transformationsansätze und -sprachen.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797d2466-e06e-11ee-bc5a-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">425010</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grundlagen der Robotik A</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einführung in die Robotik (Grundbegriffe, Anwendung von Robotern)  Roboterkinematik (Notation, Vorwärts- und Rückwärtsrechnungen)  Differenzielle Kinematik (Vorwärts- und Rückwärtsrechnungen, Singularitäten, Jacobi-Matrix)  Roboterdynamik  Trajektorienplanung (Planung in Gelenkkoordinaten, Planung im operationellen Raum)  Roboterprogrammierung</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#797d2469-e06e-11ee-96ca-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">425210</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Robotersteuerungen A</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Grundlagen der Steuerung von Robotern: Regelung im Gelenkraum, im kartesischen Raum  Roboterdynamik  Robotersteuerungsarchitekturen (zentrale und dezentrale Steuerungen)  Computed-Torque-Ansätze  Gravitationskompensation  Aktiv- und Passive Compliance  Impedanz basierte Regelung  Hybride Robotersteuerungen, Kraft, Weg, Geschwindigkeit  Aktionsprimitive  Sichere Mensch-Roboter-Interaktion, Roboterbahnplanung</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCNeurorobotics"/>
+  </rdf:Description>
+</rdf:RDF>

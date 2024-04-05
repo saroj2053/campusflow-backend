@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://tuc.web.engineering/module#"
+   xmlns:ns2="http://across/university#"
+   xmlns:ns3="http://tuc/course#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f78e432a-e06f-11ee-87ed-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243031-505(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Design of Digital Systems</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Entwurfsebenen und –strategien  Abläufe und Abstraktion beim Systementwurf  Systemspezifikation und HW/SW-Codesign  Modellierung, Hardwarebeschreibungssprachen  Werkzeuge für Simulation, Verifikation und Synthese</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCEmbeddedSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f78e19df-e06f-11ee-af00-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243031-504(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital Components and Architectures for Data Processing</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Erweiterte Architekturkonzepte von Mikroprozessoren und -controllern (Steuerwerk, Rechenwerk, Speicher, Bussysteme)  Weitere digitale programmierbare Schaltkreise und IP-Cores  Klassifikations- und Vergleichsmöglichkeiten von digitalen Schaltkreisen  Kopplungen von Schaltkreisarten zu Systems-on-Chip  Effiziente und hardwarenahe Programmierung</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCEmbeddedSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f78e4333-e06f-11ee-920c-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243032-507(Version02)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mobile Localization and Navigation</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Geschichtliche Entwicklung  Ortungssysteme  Mobiles Radar  Radarprinzip, Radargleichung  Auflösungsprinzipien  Parameterschätzverfahren, Stochastische Modelle  Navigationssysteme, Einführung in das Global Positioning System (GPS)  Ausbreitungseffekte und Schätzgenauigkeit  Rangingverfahren auf der Basis drahtloser Netztechnologien  Localization in Mobilen/Funknetzen  In-door Localization  Ausblick auf künftige Systeme  Techniken zur Navigation und Routenplanung</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCEmbeddedSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f78fb8c3-e06f-11ee-82ed-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">281500-001(Version03)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kommunikation und Führung / Communication and Leadership</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Modul beschäftigt sich mit der Kommunikation im Führungskontext. Behandelt werden Führungsstile, Verhandlungsgespräche mit Geschäftspartnern sowie Mitarbeitergespräche (Zielvereinbarungen, Leistungsrückmeldungen, Konfliktklärung, Motivation etc.). Themen sind dabei: Kommunikationsmodelle, Gesprächsplanung und -steuerung, aktives Zuhören und Fragetechniken sowie Stile der Selbstpräsentation. Theoretische Hintergrundinformationen werden durch praktische Übungen ergänzt.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCEmbeddedSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f78e4329-e06f-11ee-8021-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">256050-002(Version04)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Real-Time Systems</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">In praktisch allen Anwendungsgebieten gibt es Systeme, welche Zeitanforderungen erfüllen müssen. Das Modul „Real-Time Systems“ behandelt Probleme, die aus diesen Anforderungen resultieren, sowie Strategien, diesen zu begegnen. Der Fokus liegt hierbei auf verschiedenen Schedulingstrategien und Konzepten zum Ressourcenmanagement. Durch die Betrachtung von weichen Echtzeitsystemen (z. B. Videostreaming) oder Multicore-Systemen wird weiterer Anwendungsbezug geschaffen. Die Lerninhalte des Moduls werden in Form von Vorlesungen und Übungen vermittelt, wobei auch moderne Lehrmethoden wie beispielsweise Methoden der Gruppenarbeit, des problemorientieren Lernens sowie Flipped Classroom zum Einsatz kommen können.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCEmbeddedSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f78e4330-e06f-11ee-b756-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">244038-505(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Automotive Sensor Systems</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Allgemeine Aspekte zum Einsatz von Sensoren im Automobil  Sensoren für das Motormanagement  Sensoren für das Fahrwerk  Sensoren für die aktive und passive Sicherheit (z.B. ABS, ESP)  Fahrerassistenzsysteme  Sensoren für die Luftgüteüberwachung  Abgassensoren  Sensoren für die Beschleunigung, Kraft, Druck, Drehzahl  Selbstüberwachung und Selbstkalibrierung für Robustheit</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCEmbeddedSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f78e432d-e06f-11ee-8c76-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243031-507(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Design of Heterogeneous Systems</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Entwurfsprozess heterogener Systeme  Modellierung, Beschreibungssprachen digital/analog/mixed-signal  Systemspezifikation  Arbeitsweise von Simulatoren  Mixed-Signal Kopplungsprobleme</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCEmbeddedSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f78e4339-e06f-11ee-bb4d-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243034-512(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Antenna Engineering</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einführung in die Antennentechnik  Grundlagen der Antennentheorie (Definition, Antennenparameter)  Überblick über Antennentypen und Anwendungen  Einführung und Berechnung: Dipol, Yagi-Uta-Antenne, Patch-Antenne, Spiralantenne, Hornantenne  Methodik des Antennenentwurfs und Simulation  Live-Antennendesign und CST-Einführung  Herstellung von Antennen  Gedruckte Antennen  Array-Antennen  Live-Entwurf von Array-Antennen  Charakterisierung von Antennen  Live-Antennenmessung</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCEmbeddedSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f78e432c-e06f-11ee-a19b-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243031-506(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Verification of Digital Systems</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einführung in formale und informale Verifikationsmethoden  Regressionsfähige zufallsgetriebene Verifikationskonzepte  Assertion und Coverage-basierte Verfahren  Binary Decision Diagrams  Äquivalenzvergleich, Eigenschaftsprüfung  Temporale Logik und Model Checking</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCEmbeddedSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f78e19e2-e06f-11ee-8a8d-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">244038-503(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Smart Sensor Systems</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einführung zu intelligenten Sensorsystemen  Grundlagen der Sensorik  Sensoreigenschaften  Ausgewählte Sensorprinzipien  Entwurf von Sensorsystemen  Messdatenerfassung und Sensorschnittstellen  Fortgeschrittene Verfahren der Analog-Digital-Umsetzung  Sensorsignalverarbeitung  Ausgewählte Sensoranwendungen</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCEmbeddedSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f78e4331-e06f-11ee-8156-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">255010-002(Version02)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Advanced Platforms for Automotive Systems</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Steuergeräte sind eingebettete Systeme, die eine Vielzahl an Funktionen im Fahrzeug realisieren. Sowohl die Anzahl der Steuergeräte als auch deren Vernetzung steigt in modernen Fahrzeugen stetig an. Um die Komplexität zu beherrschen, kommen spezifische Architekturen, Entwicklungsmethoden und -prozesse zum Einsatz. Dieses Modul bietet eine grundlegende Einführung in das Thema Entwicklung von Steuergeräten im Automobilbereich. Entlang des V-Modells werden die relevantesten Prozesse, Methoden und Technologien beleuchtet. Schwerpunkte hierbei sind:  Technischer Aufbau von Steuergeräten  Systemarchitekturen/Kommunikationsbusse, z.B. CAN, FlexRay, Automotive Ethernet etc.  Softwareplattform – AUTOSAR  Techniken zur Validierung und Verifikation</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCEmbeddedSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f78e4332-e06f-11ee-af99-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243032-505(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multisensorial Systems</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einführung in die Modellierung vager Sachverhalte  Modellierung vager Sachverhalte mit Hilfe der Wahrscheinlichkeitstheorie  Modellierung dynamischer Systeme mit dem Schwerpunkt Zustandsraumbeschreibung  Dynamische Modelle und Störungsmodellierung  Messmodelle (u. a. Laser-Scanner, Radar, Videobilder)  Grundlagen der Schätztheorie  Kalman-Filterung  Kalman-Filter in Beispielen und Anwendungen  Kalman-Filter für das Tracking von Objekten (z.B. Fahrzeuge oder Fußgänger)  Multi-Kalman-Filter für das gleichzeitige Verfolgen mehrerer Objekte  Sensor-Daten-Fusion (u.a. Laser-Scanner und Videobilder)  Erweiterungen und Spezialfälle des Kalman-Filters</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCEmbeddedSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f78e4337-e06f-11ee-987a-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243033-508(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Video Signal Processing</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inhalt der Lehrveranstaltungen sind Digitale TV und Audio Standards sowie interaktive Systeme.  Digitale TV Standards  Video- und Audiosignal Komprimierung (z. B. JPEG, MPEG1, MPEG2, AAC)  Display Technologien  Digitale Übertragungsstandards (DVB-S, DVB-C, DVB-T, ISDB-T)  Encryption Technologies for Pay TV  Mobile TV-Standards (z. B. DVB-H, DVB-SH)</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">90</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCEmbeddedSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f78fb8c4-e06f-11ee-afea-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">240100-431(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Research Internship</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Studenten bearbeiten selbständig eine praktische Aufgabe auf dem Gebiet der Elektrotechnik und Informationstechnik. Diese sollte einen engen Zusammenhang mit dem Themenbereich der eingebetteten Systeme aufweisen. Die praktische Ausbildung erfolgt im Rahmen einer 20-wöchigen Tätigkeit im Umfang von insgesamt 800 AS in einem Unternehmen oder in einer Forschungs- bzw. Entwicklungseinrichtung und ist in der Regel in Deutschland zu absolvieren. Vor Beginn des Praktikums ist von einer Professur der Fakultät für Elektrotechnik und Informationstechnik schriftlich zu bestätigen, dass die an der Praktikumseinrichtung zu bearbeitende Aufgabenstellung thematisch passend und hinsichtlich des Niveaus im vorliegenden Masterstudiengang angemessen ist.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">900</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCEmbeddedSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f78e4327-e06f-11ee-8c87-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">244038-504(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Project Lab Embedded Systems</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Anforderungsanalyse  Konzeption von Lösungsansätzen für Embedded Systems  Komponentenauswahl  Hard- und Softwareentwurf  Systemtest  Dokumentation</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCEmbeddedSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f78e4334-e06f-11ee-b258-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243032-509(Version02)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Image Processing and Pattern Recognition</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Farbtheorie und Farbmodelle in der Bildverarbeitung  Bildgewinnung, das analoge und digitale Bildsignal  Prinzipien der statistischen Bildbeschreibung  Elemente der zweidimensionalen Signaltheorie  LTI-Filter und Filterdesign  Einführung in die morphologische Bildverarbeitung  Segmentierung und Formrepräsentation  Mustererkennung und -klassifikation  Bewegtbildanalyse  Einführung in die Bildkodierungsverfahren (JPEG, MPEG)</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCEmbeddedSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f78e433a-e06f-11ee-9dcd-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243035-502(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Next Generation Internet</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einführung und Grundlagen: Grundbegriffe; Übertragungs- und Vermittlungstechnik; Kommunikationsprotokolle und Protokollmechanismen  Grundlagen lokaler Netze (LANs): Übersicht IEEE 802 LANs; Ethernet IEEE 802.3; VLANs  Grundlagen des IP Networking: Internet Protocol (TCP/IP); IP Addressing / NAT / DNS; IP Routing; MPLS  Internet-Anwendungen: Beispiel http-Protokoll  Ausgewählte Mechanismen in IP Netzen: Quality of Service (QoS) Mechanismen; Group Communication / Multicast; Mobility Mechanisms  Hot Topics: Software Defined Networking (SDN) and Network Functions Virtualization (NFV); Time Sensitive Networking (TSN) und Deterministic Networking (DetNet); Peer-to-Peer (P2P) Networks; Content Delivery Networks (CDNs)  Netzsicherheit: Einführung und Grundlagen; Kryptographische Verfahren; Authentifizierungsmechanismen, Schlüsselmanagement und Zertifikate, PKI- Infrastruktur; Protokolle für die gesicherte Datenübertragung auf Sicherungs- (L2), Netz- (L3) und Transportschicht (L4); Überblick und Beispiele zu Cyber- Angriffen im Internet; Methoden zur Cyber-Angriffserkennung und -abwehr</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCEmbeddedSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f78e19e1-e06f-11ee-912b-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243033-506(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computer Vision 1</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dieses Modul beinhaltet einen weitgehenden Überblick über Methoden der zweidimensionalen digitalen Signalverarbeitung sowie Grundlagen der Bildentstehung. Themengebiete sind im Einzelnen:  Grundlagen zweidimensionaler Filter  Segmentierung und Klassifizierung von Bilddaten  Morphologische Operationen  Histogramm und Punktoperationen  Machine Learning</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCEmbeddedSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f78e19e0-e06f-11ee-9d15-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243033-504(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital Signal Processing 1</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Abtastung und Rekonstruktion  Quantisierung A/D-Konverter o D/A-Konverter o Quantisierungsrauschen o Überabtastung o  Diskrete Systeme Linearität und Zeitinvarianz o Kausalität und Stabilität o  Digitale Filter Z-Transformation o FIR-Filter o IIR-Filter o</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCEmbeddedSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f78e433c-e06f-11ee-b94b-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">244038-506(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Advanced Embedded Systems</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Der Forschungsbereich der eingebetteten Systeme ist von ständigen Veränderungen und Weiterentwicklungen geprägt. Im Rahmen dieses Moduls werden aktuelle Entwicklungen auf diesem Gebiet aufgegriffen und den Studenten vorgestellt werden.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCEmbeddedSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f78e4336-e06f-11ee-9986-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243033-507(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computer Vision 2</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Grundlagen der Abbildungsgeometrie  Grundlagen und Anwendungen verschiedener Kameramodelle (Perspektivische Modelle, Omnidirektionale Modelle)  Grundlagen des stereoskopischen Sehens  3D-Rekonstruktion von zweidimensionalen Bilddaten</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCEmbeddedSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f78fb8c2-e06f-11ee-b207-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">261033-310(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Resource Efficiency from an Economic Perspective</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Modul gibt zunächst einen Überblick über die Verankerung von Ressourcen und Ressourceneffizienz in der Betriebswirtschaftslehre. Ausgehend von den disziplinspezifischen Ressourcen- bzw. Effizienzbegriffen werden anschließend Methoden der internen Unternehmensrechnung vorgestellt, mit deren Hilfe sich Ressourcenbedarfe und -verbräuche erfassen und analysieren lassen und die somit auch zu einer Bewertung und Steuerung der Ressourceneffizienz beitragen. Einzelthemen sind u. a.:  Ressourcen und Ressourceneffizienz in der Betriebswirtschaftslehre  Produktions- und Kostentheorie  Kostenrechnung  Investitionsrechnung  Ausgewählte Ansätze des Kostenmanagements</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCEmbeddedSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f78e432f-e06f-11ee-9692-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243031-509(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Applied Circuit Design and Testing</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Entwurfsprozess und -werkzeuge für digitale ICs (Integrated Circuits), insbesondere FPGAs (Field Programmable Gate Arrays)  Vorstellung der Anwendungsfelder (u.a. Rapid Prototyping, Signal-, Daten- und Bildverarbeitung)  Testwerkzeuge, Testmaschinen  Erstellung von Testfällen, Durchführung von Tests  Bearbeitung komplexer Entwurfsaufgaben</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCEmbeddedSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f78e4335-e06f-11ee-b5f9-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243033-505(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital Signal Processing 2</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Interpolation und Dezimation Lineare Interpolation und nichtlineare Interpolation o Sample Rate Konverter o Entwurfsbeispiele o  Methoden der digitalen Signalverarbeitung Diskrete Fouriertransformation (DFT) o Diskrete Kosinustransformation (DCT) o Anwendung von Windowing o Digitale Signalgeneratoren o  Anwendungen der Digitalen Signalverarbeitung</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCEmbeddedSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f78e433b-e06f-11ee-8550-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243035-505(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Advanced Mobile Networks</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Grundlagen der Mobilkommunikation  Details zu 2G, 3G und 4G Mobilfunksystemen: Einführung; Systemarchitektur; Funkschnittstelle; Protokollarchitektur; Verbindungs- und Mobilitätsmanagement; Sicherheitskonzept; Dienstgüteunterstützung  Mobilfunksysteme der 5. Generation (5G): 5G Anforderungen; Low-latency Radio Interface; C-RAN / Flexible RAN Split Optionen; Network Slicing; Mobile Edge Computing; Ausblick (6G)  WLAN / Wi-Fi (IEEE 802.11 Familie): Einführung, System- und Protokollarchitektur; Funkschnittstelle: PHY- und MAC-Schicht; Dienstgüteunterstützung; Sicherheitskonzept; Unterstützung von Mobilität und Roaming; Netzmanagementaspekte; WLAN-Mesh; Ausblick (WiFi-7)  Mobile Ad-Hoc-Netze (MANETs): Einführung (Definition, Klassifikation, Anwendungsszenarien); Routingverfahren für MANETs</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCEmbeddedSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f78fb8c6-e06f-11ee-8ee3-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">240100-831(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Master Thesis</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Modul beinhaltet die Erstellung der Masterarbeit zu einer ingenieurwissenschaftlichen Aufgabe, deren schriftliche Darstellung und eine mündliche Prüfung. Das Thema der Masterarbeit soll auf dem Gebiet der Embedded Systems liegen. Der Student wird dabei von einem wissenschaftlichen Betreuer der Fakultät unterstützt.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">900</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCEmbeddedSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f78e433d-e06f-11ee-8df7-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">220000-605(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Optimierung für Nichtmathematiker</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die mathematische Optimierung beschäftigt sich mit der Aufgabe, eine Zielfunktion über einer gegebenen zulässigen Menge zu minimieren. Das Modul ist für nichtmathematische Studiengänge entworfen und gibt einen groben Überblick über Verfahren und Techniken zur Formulierung und Lösung von Klassen grundlegender Optimierungsprobleme sowie zur kritischen Interpretation der Lösungsinformation.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCEmbeddedSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f78e432b-e06f-11ee-8eca-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">255050-003(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hardware/Software-Codesign I</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einblick in verschiedene Entwurfsmethodiken und -strukturierungen für Eingebettete Systeme  Überblick und Vergleich von Zielarchitekturen und -komponenten für Hardware/Software-Systeme  Ausgewählte Probleme der Hardware- und Softwaresynthese  Allgemeine Partitionierungsverfahren  Hardware/Software-Bipartitionierung</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCEmbeddedSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f78fb8c5-e06f-11ee-85ec-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">240100-631(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Research Project</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Der Student erarbeitet an einer Professur der Fakultät für Elektrotechnik und Informationstechnik selbständig die Lösung zu einer praktisch orientierten Aufgabe aus dem Bereich Embedded Systems. Das Modul ist entsprechend der Aufgabenstellung selbständig zu bearbeiten. Der wissenschaftliche Betreuer des Research Projects ist regelmäßig zu konsultieren. Das Modul gliedert sich in 3 Meilensteine:  MS1: Ausgabe des Themas (1. Woche)  MS2: Vorstellen der Lösungskonzeption (4. Woche)  MS3: Abgabe der schriftlichen Ausarbeitung, Präsentation der Ergebnisse (15. Woche) Das Thema der Projektarbeit ist vor dem Beginn der Bearbeitung von der betreuenden Professur schriftlich zu bestätigen.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCEmbeddedSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f78e4328-e06f-11ee-8304-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">255010-003(Version02)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Design of Software for Embedded Systems</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Vorlesung beschäftigt sich mit Entwicklungsmethoden für Software in eingebetteten Systemen. Dabei werden insbesondere folgende Aspekte behandelt:  Merkmale von nicht-eingebetteten und eingebetteten Systemen  Funktionale und nicht-funktionale Anforderungen an eingebettete Software (Zeitverhalten, Effizienz, Zuverlässigkeit, Wartbarkeit, Portabilität etc.)  Programmierparadigmen für eingebettete Systeme (synchrone, zeitgesteuerte und schedulingbasierte Programmiersprachen)  Unterstützung durch Middleware und Betriebssystem  Trends und Beispiele aus der Praxis</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCEmbeddedSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f78e432e-e06f-11ee-a31a-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243031-508(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Test of Digital and Mixed-Signal Circuits</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Grundlagen des Tests, Fehlerarten  Teststrategien  Generierung von digitalen Testmustern  Testfreundlicher Entwurf  Testhardware und -software, Testautomatisierung  Besonderheiten des Mixed-Signal-Tests</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCEmbeddedSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f78e4338-e06f-11ee-b967-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243033-509(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Programming and Data Analysis</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Im Rahmen des Moduls werden grundlegende Fähigkeiten zu einschlägigen Programmier- und Analysewerkzeugen des Scientific Computing vermittelt. Anhand von praxisnahen Beispielen werden Problemstellungen aus dem Bereich der Informationstechnik bearbeitet. Neben der Vermittlung von theoretischen Kenntnissen liegt der Fokus auf praxisnahen Implementierungen aus den Bereichen:  Daten I/O  Datenvisualisierung  Matrizenrechnung</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCEmbeddedSystems"/>
+  </rdf:Description>
+</rdf:RDF>

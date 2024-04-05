@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://tuc.web.engineering/module#"
+   xmlns:ns2="http://across/university#"
+   xmlns:ns3="http://tuc/course#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f2fee6e7-e06e-11ee-a3e4-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">244033-015(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mess- und Prüftechnik für MST</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Grundlagen der Längen- und Profilmesstechnik  Prüf- und Messverfahren zum berührungslosen Messen von mikromechanischen Komponenten, Messtechnik zur Erfassung geometrischer Strukturdaten  Lichtoptische Messverfahren und hochauflösende Messverfahren (Mikroskopie, Fokussierungsmessverfahren, Interferenzmessverfahren, Rasterkraftmikroskopie)  Messtechnik zur Erfassung statischer und dynamischer Systemkennwerte (Auslenkung, Amplitude, Eigenfrequenz, Frequenzgang, Güte, Übertragungsfaktor, Zweikanalanalyse, FFT, Modalanalyse)  Schwingungsmesstechnik für Mikrostrukturen  Simulation der Systemeigenschaften auf der Grundlage von Messwerten mittels Modalanalyse  Modifikation und Simulation am modalen dynamischen Modell  Praktika zu Messverfahren in der Mikrosystemtechnik (MST)</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCMikrosystemeundMikroelektronik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f2fe49ff-e06e-11ee-bd93-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">244034-006(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lithografie für Nanosysteme</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Optische Lithografieverfahren  Tricks zur Erhöhung der Auflösung optischer Lithografieverfahren  Elektronenstrahllithografie und Ionenstrahllithografie  Röntgenstrahllithografie  Nano-Imprint-Techniken  AFM-Lithografie  Maskenlose Verfahren zur Strukturerzeugung</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCMikrosystemeundMikroelektronik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f2fe4a09-e06e-11ee-80eb-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">244033-013(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gerätetechnik</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Konstruktionsmethodik (Analysieren und Gestalten von Geräten)  Funktionsgruppen der Gerätetechnik (Lager und Führungen, Achsen und Wellen, Gehemme und Gesperre, Anschläge, Bremsen und Dämpfer, Kupplungen, Getriebe und Energiewandler)  Praktika zu Funktionsgruppen der Gerätetechnik</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCMikrosystemeundMikroelektronik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f2fe4a03-e06e-11ee-a80f-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">244036-507(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Failure Analytical Methods for Micro and Nano Systems</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Motivation und Anknüpfung an die Herausforderungen der System- integration: Mikro- und Nanosysteme, Zuverlässigkeit, Fehlermodi, Industrie- relevanz; Methoden: Optische Mikroskopie und Probenpräparation, Ultraschallmikroskopie (SAM), Rasterelektronenmikroskopie (REM) und Fokussierte Ionenstrahltechni (FIB), Transmissionselektronenmikroskopie (TEM), energiedispersive Röntgenspektroskopie (EDX), Elektronenrückstreubeugung (EBSD), Röntgendiffraktometrie (XRD) und Röntgentomographie (XCT), Ramanspektroskopie, Atomkraftmikroskopie (AFM), Infrarot--Thermographie und Anregungsquellen, Thermoreflektanz, Röntgenphotonelektronespektroskopie (XPS), Charakterisierung bei kryogenen Temperaturen (Flüssigstickstoff und Flüssighelium).</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCMikrosystemeundMikroelektronik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f2fe49fd-e06e-11ee-a9a7-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243031-003(Version02)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Schaltkreisentwurf</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einführung: Stand und Tendenzen der Mikroelektronik; Entwurfsprozess  Überblick über ASICs: anwenderprogrammierbare (PLDs, FPGAs); maskenprogrammierbare (Gate-Arrays, Standardzellen-Schaltkreise); Systems-on-Chip  Entwurfsmethoden: Spezifikation; Synthese; Simulation; Verifikation; Layout  Test: Bedeutung; Strategien; testfreundlicher Entwurf</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCMikrosystemeundMikroelektronik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f2fe4a00-e06e-11ee-8fe9-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">244034-007(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Integrierte analoge Schaltungstechnik</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Besonderheiten der integrierten analogen CMOS-Schaltungstechnik  Grundschaltungen für Differenzverstärker  Referenzquellen  Operationsverstärkerschaltungen  Besonderheiten von mixed-signal Schaltungen  Switched Capacitor Grundschaltungen  Sonderschaltungen</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCMikrosystemeundMikroelektronik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f2ff06bb-e06e-11ee-853f-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">241031-006(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nichtlineare Regelung / Nonlinear Control</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einführung und Allgemeine Eigenschaften nichtlinearer Systeme  Lyapunov-Theorie basierter Reglerentwurf  Singuläre Störtheorie  Dissipativität und Passivität  Differentialgeometrische Methoden  Moderne Verfahren der nichtlinearen Regelung</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCMikrosystemeundMikroelektronik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f2fd3f5e-e06e-11ee-9fcc-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">244032-003(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Technologien für Mikro- und Nanosysteme</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Prozessschritte für Si MEMS/NEMS  Prozessschritte für nicht-Si MEMS/NEMS  Si-basierte Technologien  Technologien für alternative Materialien  Packaging und 3D Integrationstechnologien  Messtechnik für MEMS/NEMS  Beispiele für Si MEMS  Beispiele für nicht-Si MEMS  Beispiele für Nanokomponenten und NEMS  Trends und Roadmaps</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCMikrosystemeundMikroelektronik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f2fe49fc-e06e-11ee-bf05-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">242032-003(Version02)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bauelemente der Leistungselektronik / Power Semiconductor Devices</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1. Besonderheiten leistungselektronischer Bauelemente 2. Halbleiterphysikalische Grundlagen 2.1 Eigenschaften der Halbleiter, physikalische Grundlagen 2.2 pn-Übergänge 2.3 Einführung in die Herstellungstechnologie 3. Halbleiterbauelemente 3.1 pin Dioden 3.2 Schottky-Dioden 3.3 Bipolare Transistoren 3.4 Thyristoren 3.5 MOS-Transistoren 3.6 IGBTs 4. Einführung in die Aufbau- und Verbindungstechnik</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">270</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCMikrosystemeundMikroelektronik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f2fe4a0a-e06e-11ee-a332-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">244033-014(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Klein- und Mikroantriebe</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einsatzgebiete, Forderungen, Entwicklungstendenzen  Gleich- und Wechselstrommagnete, Schwingankermotoren  Gleichstrommotoren, Gleichstromlinearmotoren, Mehrkoordinatenantriebe, Elektronikmotoren, Kleininduktionsmotoren  Schrittmotoren: Bauformen, Momente, Kräfte, Lageabweichungen, Mikroschrittbetrieb, Ansteuerung, Leistungswandler, Linearschrittmotoren, Dynamik  Unkonventionelle Antriebe: Piezoelektrische Antriebe, Fluidtechnische Aktoren, Thermobimetalle, Memory-Legierungen, Magnetostriktive Aktoren  Praktika zu Parametern und Einsatzkriterien von Klein- und Mikroantrieben</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCMikrosystemeundMikroelektronik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f2fe4a08-e06e-11ee-aeaa-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">241031-103(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Regelungstechnik 2</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Lineare Mehrgrößensysteme und -regelungen  Beobachterentwurf  erweiterte Konzepte der Regelung linearer Systeme  Modellreduktion</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCMikrosystemeundMikroelektronik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f2fe4a01-e06e-11ee-ad0e-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">244034-008(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Integrierte Schaltungstechnik</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Besonderheiten der integrierten Schaltungstechnik  Logikfamilien (xTL, CMOS, TG, CML, dynamische Logikschaltungen)  Dynamische Schaltungstechniken  Bussysteme  Grundlagen des integrierten digitalen Entwurfs (ASIC, FPGA)  Digitale Filter  Grundlagen zu mixed-signal Schaltungen (ADC, DAC)</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCMikrosystemeundMikroelektronik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f2ff06c1-e06e-11ee-bd89-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">281500-001(Version03)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kommunikation und Führung / Communication and Leadership</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Modul beschäftigt sich mit der Kommunikation im Führungskontext. Behandelt werden Führungsstile, Verhandlungsgespräche mit Geschäftspartnern sowie Mitarbeitergespräche (Zielvereinbarungen, Leistungsrückmeldungen, Konfliktklärung, Motivation etc.). Themen sind dabei: Kommunikationsmodelle, Gesprächsplanung und -steuerung, aktives Zuhören und Fragetechniken sowie Stile der Selbstpräsentation. Theoretische Hintergrundinformationen werden durch praktische Übungen ergänzt.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCMikrosystemeundMikroelektronik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f2ff06bd-e06e-11ee-ad1e-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">244033-020(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mikrosysteme für die Medizin</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einsatzmöglichkeiten von Mikrosystemen (MEMS) in der Medizin und Medizintechnik  Anforderungen / Besonderheiten beim Einsatz von Mikrosystemen im medizinischen Umfeld  Aufbau und Wirkprinzipien medizinischer MEMS  Entwurf / Simulation</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCMikrosystemeundMikroelektronik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f2fee6e8-e06e-11ee-9c19-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">244033-016(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Angewandte Optik</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Grundlagen der Strahlen- und Wellenoptik  Physikalische und lichttechnische Größen und Kennwerte der technischen Optik  Bilderzeugung, Lichtführung und Abbildungsfehler  Aufbau und Funktionsweise optischer Komponenten und Systeme</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCMikrosystemeundMikroelektronik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f2ff06c3-e06e-11ee-a077-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">240100-824(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Master-Arbeit</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gegenstand des Moduls ist die Erstellung der Masterarbeit zu einer ingenieurwissenschaftlichen Aufgabe, deren schriftliche Darstellung und eine mündliche Prüfung. Das Thema der Masterarbeit soll auf dem Gebiet der Mikrosystemtechnik, Gerätetechnik oder Mikroelektronik liegen. Der Student wird dabei von einem wissenschaftlichen Betreuer der Fakultät unterstützt.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">900</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCMikrosystemeundMikroelektronik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f2fe4a05-e06e-11ee-8d26-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">244037-501(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Materials in Micro and Nano Technologies</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> allgemeine Methodologien der Nanotechnologie: Einordnung und Klassifizierung  Herstellung von Nanomaterialien  Charakterisierung von Nanomaterialien  anorganische Nanostrukturen  organische Nanostrukturen  selbstorganisierende Mikro- und Nanostrukturen  hybride Mikro- und Nanotechnologien  Struktur-Funktion Zusammenhang in Nano- und Mikroarchitekturen</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCMikrosystemeundMikroelektronik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f2ff06c0-e06e-11ee-ad8a-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">261033-101(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Investitionsrechnung</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Investitionen als Gegenstand der Unternehmensführung  Modelle zur Vorteilhaftigkeitsbeurteilung bei einer monetären Zielgröße  Modelle für Vorteilhaftigkeitsentscheidungen bei mehreren Zielgrößen  Modelle für Nutzungsdauer-, Ersatzzeitpunkt- und Investitionszeitpunkt- entscheidungen  Modelle für Programmentscheidungen bei Sicherheit  Modelle für Einzelentscheidungen bei Unsicherheit</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCMikrosystemeundMikroelektronik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f2ff06bc-e06e-11ee-ac2c-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243034-006(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hochfrequenztechnik und Photonik</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Wellenausbreitung entlang belasteter Übertragungsleitungen, Leitungsparameter  Leitungstransformation (Impedanz-Transformation)  Grundlagen und Anwendungen des Smith-Diagramms  Anpassungs-Methoden und -Schaltungen; CAD Anwendungen  Dimensionierung verschiedener Übertragungsleitungen: Mikrostreifenleitungen, Streifenleitungen, koplanare Leitungen, geschirmte Schlitzleitungen, Hohlleiter, Lichtwellenleiter; CAD Anwendungen  Matrixdarstellung von linearen Komponenten und Systemen: Z-Matrix, Y- Matrix, S-Parameter-Matrix, ABCD-Matrix; CAD Anwendungen  HF-Grundkomponenten und ihre Schaltungen</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCMikrosystemeundMikroelektronik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f2fd3f60-e06e-11ee-bbba-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">244034-004(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bauelemente der Mikro- und Nanotechnik</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> MOS-Transistoren mit Abmessungen im Sub-100 nm-Bereich  Neue MOS-Transistorkonzepte (Multi-Gate-Transistoren, FinFETs etc.)  Single-Electron-Transistoren  Quantenbauelemente (Resonanz-Tunnel-Dioden, RTDs usw.)  Bipolartransistoren mit Abmessungen im Sub-1 µm-Bereich  Carbon-Nanoröhren</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCMikrosystemeundMikroelektronik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f2fe49fe-e06e-11ee-b406-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">244032-505(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Advanced Integrated Circuit Technology</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Anforderungen und Trends Semiconductor Technology Roadmap  Prozesse der Mikro- und Nanoelektronik (Schichtabscheidung, Ionenimplantation, fortgeschrittene Lithographie, Ätzen/Strukturierung, chemisch-mechanisches Polieren, fortschrittliche Reinigungsverfahren) einschließlich neuer Prozessschritte  CMOS- / Bipolar- / BiCMOS-Technologie  CMOS-Prozessmodule für moderne IC-Technologien (STI, Gate, Source/Drain, Interconnect Module, Packaging etc.)  spezifische Aspekte der sub 100 nm CMOS-Technologie  neue Transistor- und Speicherkonzepte; potenzielle Post-CMOS- Technologien  3D-Technologie zur Erhöhung der Integrationsdichte  numerische Methoden für die Halbleiterprozess- und Equipment-Simulation  Modelle und Programmierung für fortschrittliche Abscheideverfahren (Monte Carlo und molekulardynamische Berechnungen)  Parameteroptimierungsmethoden</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCMikrosystemeundMikroelektronik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f2fee6e9-e06e-11ee-8249-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">241031-004(Version02)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Modellbildung und Identifikation dynamischer Systeme</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Modellbegriff und Methoden der Modellbildung  Einführung in die Systemidentifikation (Grundbegriffe, Definitionen, u.a.)  Einführung in Identifikationsverfahren (Bezeichnungen, Bias, Konsistenz, Ausgleichsrechnung, u.a.)  Identifikationsverfahren für dynamische Systeme</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCMikrosystemeundMikroelektronik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f2ff06bf-e06e-11ee-9055-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">261033-100(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kosten- und Erlösrechnung</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Grundlegende Begriffe der Kosten- und Erlösrechnung  Aufgaben und Verfahren der Kosten- und Erlösrechnung in den Bereichen Kostenartenrechnung, Kostenstellenrechnung und Kostenträgerrechnung  Einführung in die Systeme der Kosten- und Erlösrechnung (Teil- und Vollkostenrechnung, Ist- und Plankostenrechnung)</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCMikrosystemeundMikroelektronik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f2fe49fb-e06e-11ee-bf99-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">244038-003(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Intelligente Sensorsysteme</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Grundlagen intelligenter Sensorsysteme  Sensoreigenschaften  Strukturen von Sensorsystemen  Störeinflüsse und Schutzmaßnahmen  Sensorsignale  Messdatenerfassung  Sensorschnittstellen und Messdatenerfassung  Reale Verstärker und Verstärkerschaltungen  Fortgeschrittene Verfahren der Analog-Digital-Umsetzung  Impedanzspektroskopie  Ausgewählte Sensoranwendungen</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">210</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCMikrosystemeundMikroelektronik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f2fe4a06-e06e-11ee-a684-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">244038-007(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sensorsignalverarbeitung</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Anforderungen an Sensoren und Messsysteme  Messsignale, Störeinflüsse und Schutzmaßnahmen  Modellieren von Sensorkennlinien  Parameterextraktionsverfahren  Kompensation von Einflusseffekten und Querempfindlichkeiten  Methoden der Selbstüberwachung und Selbstkalibrierung  Digitale Signalanalyse  Digitale Signalverarbeitung  Korrelationsmesstechnik</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCMikrosystemeundMikroelektronik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f2fe4a02-e06e-11ee-ac8e-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">244036-506(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Numerical Methods for Materials and Reliability of Micro and Nano Systems</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Vermittlung von Grundlagen zur FEM (theoretisch und praktisch)  Modellierung, Netzbildung, Randbedingungen und Lösungsalgorithmen  Thermomechanische Effekte wie Biegung, thermische Ausdehnung, Eigenspannungen; chemischer Schrumpf, Diffusion und Wärmeleitung  Modellierung von elastischem, elastisch-plastischem, visko-elastischem sowie visko-plastischem Materialverhalten  Ermittlung von schädigungsmechanischen Fehlerparametern  Statische und transiente Problemstellungen  Grundzüge der Rissbeschreibung durch die Bruchmechanik  Neuronale Netze: Grundlagen, Training und Validierung, Bewertungskriterien  Beispiele aus der Zuverlässigkeitsprognostik</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCMikrosystemeundMikroelektronik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f2ff06c2-e06e-11ee-b004-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">240100-624(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Projektarbeit</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Der Student erarbeitet an einer Professur der Fakultät für Elektrotechnik und Informationstechnik selbständig die Lösung zu einer praktisch orientierten Aufgabe aus dem Bereich der Mikrosystemtechnik, Gerätetechnik oder Mikroelektronik. Das Modul ist entsprechend der Aufgabenstellung selbständig zu bearbeiten. Der wissenschaftliche Betreuer des Research Projects ist regelmäßig zu konsultieren. Das Thema der Projektarbeit ist vor dem Beginn der Bearbeitung von der betreuenden Professur schriftlich zu bestätigen.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">600</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCMikrosystemeundMikroelektronik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f2fd3f5f-e06e-11ee-adc0-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">244033-011(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mikrosystementwurf</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Entwurfsmethoden und Werkzeuge für die Mikrosystemtechnik (MST)  Modellierung heterogener Systeme mit konzentrierten Parametern  Verhaltensanalyse technischer Feldprobleme mit FEM  Makromodellierung komplexer Systeme durch Ordnungsreduktion  Verbindung von Komponenten- und Systementwurf Schwerpunkt ist die ganzheitliche Betrachtung verschiedener physikalischer Domänen während der einzelnen Phasen des Entwurfsprozesses. Anwendung finden kommerzielle Entwurfssysteme wie ANSYS/Multiphysics, Matlab/Simulink und Sprachen wie VHDL-A bzw. Verilog-A.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCMikrosystemeundMikroelektronik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f2ff06be-e06e-11ee-8200-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">261032-100(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marketing</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Ziele und Aufgaben des Marketings im 21. Jahrhundert  Ausgewählte Marketingansätze  Grundlagen Neuromarketing  Grundlagen der Marktforschung  Marketing und Marketingstrategien  Markenführung  Ausgewählte Marketinginstrumente im Marketingmix  Messung des Marketingerfolgs</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCMikrosystemeundMikroelektronik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f2fe4a07-e06e-11ee-becd-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">231534-015(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Präzisionsfertigungstechnik I</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Modul adressiert die Vermittlung fundierter Grundlagenkenntnisse zur Präzisions- und Mikrofertigungstechnik. Hierfür erfolgt zunächst eine Einführung zur Einordnung wesentlicher Begrifflichkeiten, eine Darstellung möglicher Prozessketten und relevanter Prozessrandbedingungen. Nachfolgend werden ausgewählte spanende und kraftgebundene Verfahren sowie Grundlagen der Umformtechnik vorgestellt. Allgemeine Grundlagen der Zerspanung und der Mikrozerspanung adressieren Verfahren mit geometrisch bestimmter und unbestimmter Schneide. Abschließend werden ausgewählte abtragende Verfahren auf Grundlage ihrer physikalischen und chemischen Wirkprinzipien eingeführt und die hierfür wesentlichen Grundlagen thematisiert.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCMikrosystemeundMikroelektronik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f2fd3f61-e06e-11ee-81b8-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">244036-005(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zuverlässigkeit von Mikro- und Nanosystemen</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einführung und Motivation Zuverlässigkeit  Einführung Werkstoffe und Fertigungsprozesse in der Aufbau- und Verbindungstechnik  Grundlagen der Werkstoffe und ihres Deformations- und Ausfallverhaltens unter thermo-mechanischer Belastung  Mathematische Beschreibung mittels Vektoranalysis  Grundlagen der Zuverlässigkeitsbewertung  Grundlagen der Schadensmechanik  Bruchmechanik und Risskonzepte  Experimentelle Zuverlässigkeitsuntersuchungen und statistische Auswertung  Fehleranalytische Verfahren  Anwendungsbeispiele zur Zuverlässigkeit von Mikro- und Nanosystemen</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCMikrosystemeundMikroelektronik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#f2fe4a04-e06e-11ee-b076-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">244037-002(Version01)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Flexible Elektronik</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Modul Flexible Elektronik vermittelt die Grundlagen zur Herstellung und Verwendung von flexibler Elektronik. Die Basis bilden organische und anorganische Funktionsmaterialien, die für die Sensorik, Aktorik, Elektronik und mechanische Verformung geeignet sind. Grundlagen der Materialeigenschaften und der Synthese relevanter Materialien werden vermittelt. Fragen zur technologischen Prozesskompatibilität werden adressiert und Methoden zur Charakterisierung von flexiblen elektronischen Bauelementen vorgestellt. Dazu gehören die elektrische Kontaktierung, die mechanische und elektrische Prüfung sowie die optische und magnetische Untersuchung.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCMikrosystemeundMikroelektronik"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://tuc/course#"
+   xmlns:ns2="http://tuc.web.engineering/module#"
+   xmlns:ns3="http://across/university#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56ed9a8-d9b5-11ee-a720-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00055</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Probabilistic Methods and Statistics</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: random events, random variables, probability distributions, parameterization of probability distributions, correlation and regression, sampling, estimation, testing of hypotheses. Exercises: combinatorics, random events, discrete and continuous random variables, numerical characteristics of random variables, functions of random variables, two-dimensional random variables. Sw: descriptive statistics, estimators, hypothesis testing, analysis of variance, regression analysis.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56872c3-d9b5-11ee-b316-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00082</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Advanced Human-Computer Interaction and Application Usability</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lectures: 1. Speech-to-text systems. 2. VoiceXML 3. Virtual Reality 4. Augmented Reality 5. UX techniques related to colour 6. Advanced input controllers. Classes: 1. Implement system that is controlled by speech. 2. Implement simple VR test project. 3. Test various input controllers.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56aa17d-d9b5-11ee-a75b-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00072</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Embedded Systems</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lectures: Basic concepts related to the control and embedded systems. Types of architectures of microcontrollers, logic diagram of the microcontroller and its features, architecture, addressing modes, interrupt systems, power reduction. PIC microcontrollers family. Input-output ports, LED and LCD displays, timers, switches. CPLD and FPGA as a base for embedded systems. Hardware description languages \u200b\u200bwith Verilog language for example. Real-time operating systems. Methodology for the design of embedded systems. Designing reliable embedded systems. Specialization wokshops: Design of combinational circuits in hardware description language: multiplexers, decoders, arithmetic circuits. Design of sequential circuits in hardware description language: registers, counters, timers, finite state machines, memories. Design of processors in hardware description language. Hardware implementation of algorithms. Design of simple filters.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56f4e5e-d9b5-11ee-900b-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00086</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Recommender Systems</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: 1. Overview of recommenders systems on the Internet. 2. Types of recommenders systems: non-personalised, collaborative filtering, content-based and knowledge-based. 3. CF systems: user-based and item-based. Similarity measure. 4. Content-based systems. Application of VSM. 5. Examples of content-based systems, SRC. 6. Evaluation of recommender systems. Measures of precision, recall, MAE, RMSE. 7. Problems in the field of recommenders systems. 8. Application of groupping algorithms in order to improve time efficiency in recommender systems. 9. Examples of systems based on the groupping. RecTree, IBCF, CBIBCF. 10. Summary. Project: 1. Analysis of recommender systems working in real environment 2. Recommender systems' frameworks (collaborative filtering and content-based) for own project implementation 3. Similarity calculation and neighbourhood identification. 4. Recommender systems' evaluation with assessment indices.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a5699da0-d9b5-11ee-abc9-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00026</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computer Networks</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Network classification. Data transmission model. The concept of a communication protocol. Encapsulating Data Units. Methods of bit transmission. Types and properties of the transmission medium. The concept of physical addressing. Types of concentrators and switches. Framing in Data Link Layer. Physical link access algorithms. Logical addressing and its implementation in IPv4 and IPv6 protocols. Routing mechanisms in IP networks. The general structure of the Internet. Internal and external routing protocols. DNS system: structure and principle of operation. Transport layer and its tasks. Selected application layer protocols. Other layered models. Introduction to wide area network technology. Network packet analysis. Fundamentals of computer network security. Lab: - network cable, - VLAN configuration, - network packet analyzer, - configuration of the client and DHCP server, - routing protocol configuration, - firewall configuration with NAT, port forwarding, address mapping, - web server configuration, - design and implementation of a computer network.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56deff7-d9b5-11ee-ad61-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00022</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Methods of Optimization</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1. Linear programming: simplex method, duality. 2. Nonlinear programming: necessary and sufficient optimality conditions for problems without constraints; gradient methods for optimizations without constraints; non-gradient methods for optimizations without constraints; necessary and sufficient optimality conditions for problems with constraints; duality; constrained optimization methods. 3. Calculus of variations: the fundamental problem of the calculus of variations, the Euler—Lagrange equation; variational problems with several variables, the isoperometric problem; the Lagrange problem. 4. Optimal control: formulation of the problem and the Pontryagin Maximum Principle.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56e64d6-d9b5-11ee-8153-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00019</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open Source Frameworks for Rapid Application Dvelopment</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Introduction to web frameworks Ruby on Rails and Django; Fundamentals of Ruby language; Fundamentals of Python language; Construction and operation of applications built using Ruby on Rails and Django; Administration of application; Application security; Additional modules extend the application; Application performance; Deploying applications; Testing the applications Laboratories: Exercises in Python language; Exercises in Ruby language; Implementation (design, implementation, testing, implementation) of a selected web application using Django or Ruby on Rails frameworks.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56c003c-d9b5-11ee-a372-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00096</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Introduction to Machine Audition</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lectures 1. Machine audition – Key concepts and topic overview 2. Speech and speaker recognition 3. Music information retrieval: music genre recognition, harmony, rhythm, and timbre characterization; pitch detection 4. Automatic audio classification 5. Computational audio scene analysis, blind audio signals separation 6. Auditory cognition, emotions recognition 7. Automatic audio event localization Specialization workshop 1. Implementation of algorithms for conditioning and pre-processing of speech and audio signals 2. Implementation of an algorithm for audio feature extraction 3. Implementation of a selected algorithm from the domain of speech recognition, audio classification, music information retrieval, or emotions recognition 4. Implementation of a simple real-time audio analysis method</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56a395b-d9b5-11ee-aa16-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00056</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital Circuit Engineering</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Information processing. Axioms of Boolean algebra. Logic gates NOT, AND, OR. NAND gate. Classification of digital circuits. Combinational circuits. Truth table. Minimization of logic functions. Karnaugh charts. Realisation of the logic function using logic gates. Minimization of functions with Quine-McCluskey method. Race hazard. Design of multi-output circuits. Standard MSI blocks performing Boolean functions: multiplexer, demultiplexer, decoder, ROM, RAM. The concept of a programmable device. Structures PLD, CPLD and FPGA. Synchronous systems. System clocking. Model of Moore and Mealy machine. Table of transitions and outputs. Minimizing the number of states. Synthesis of synchronous circuits. Encoding states. Flip-flops: D, JK, SR and T. Synthesis of synchronous circuits. The structure of asynchronous circuits. Simple SR Trigger. Synthesis of asynchronous circuits. Master-slave flip-flop. Realization of sequential circuits in the medium and large scale of integration. Functional blocks. Control circuits. Flowchart as a way to describe the control system. Microprogrammed systems. Structure of microprogrammed system. Basic microcodes. Specialist workshop: 1. Getting to know MultiSim and Max + Plus II software. 2. Combinational circuits 3. Testing of combinational circuits 4. Iterative systems 5. Synchronous systems 6. Asynchronous systems 7. Complex systems</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56fc335-d9b5-11ee-92f9-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00097</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wireless Networks</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Electromagnetic waves, Maxwell's equations. The spectrum of electromagnetic waves. The propagation of electromagnetic waves. Polarization of electromagnetic waves. Modulation, modulation types, modulation characteristics. Antennas, operational parameters. The units. 802.11 wireless standards. BSS, ESS. Configuration of network devices. Security in wireless networks, WEP, WPA, WPS.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a568b3ec-d9b5-11ee-9e3c-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00098</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Algorithmics - Selected Issues</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Graph browsing algorithms. BFS and DFS methods and their applications. Effective path algorithms for graphs with weights. Strategies: label-setting and label-corecting. The problem of maximum flow in the network and effective methods of its determination. The problem of the cheapest flow in the network - effective algorithms and examples of application. Graph and network problems difficult to solve. Examples of approximate solutions for graph problems of the NPC class. The traveling salesman problem and its variants. Examples of applications of various types of traveling salesman problems in information systems in the field of logistics and e-tourism class systems. Effective aprokysmation algorithms for different varieties of the traveling salesman problem. The problem of routing in transport networks. Specialist workshop: A problem task that requires the development of an algorithm based on BFS and DFS graph searching methods A problem task that requires the development of an algorithm based on the use of path algorithms A problem task that requires the development of an algorithm based on the use of networkflow algorithms A problem task that requires the development of an algorithm based on the use of approximation algorithms.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56901e6-d9b5-11ee-a9a3-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00020</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Algorithms and Data Structures</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture 1) Basic concepts regarding algorithms (corectness, complexity) 2) Recursion as a technique of programming 3) Techniques of developing algorithms: "divide and conquer", greedy and dynamic programming 4) Implementations of dictionary structure (trees and hashtables) 6) Graph data structures and graph algorithms 7) Complexity classes (P, NP, NPC, NP-hard), examples of computationally hard problems 8) Approximate algorithms and heuristics Excersises: 1) Determining time complexity of computer programs, developing effective solutions for basic computational problems 2) Practice regarding recursion and "divide and conquer (desing of algorithms, computing time complexity) 3) Solving computational problems with greedy and dynamic programming techniques. 4) Effective data structures (heaps, trees, hashtables) 5) Solving graph problems 6) Recognition of computationally hard problems and applying approximate/heuristic solutions. Computer labs: 1) Basic computational problems, optimization of algorithms in terms of time complexity (comparison, design and implemantation) 2) Solving computational problems with recursion/"divide and conquer" techniques. 3) Design and implementation of efficient algorithms (greedy and dynamic programming techniques) solving combinatorial optimization problems. 4) Implementation of tree data structures 5) Solving graph problems.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56d46d7-d9b5-11ee-ae67-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00058</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Logic and Set Theory</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: 1. Algebra of sets. 2. Propositional calculus and methods of proving. 3. First-order predicate calculus. 4. Relations and their properties. 5. Equivalence relations. Abstraction classes. 6. Ordering relations and their types. 7. Functions as unambiguous relations. Classes: 1. Determining the properties of sets. Performing operations on sets. 2. Examining of tautology and satisfiability of propositional calculus formulas. Verification of the correctness of selected reasoning. 3. Examining of tautology and satisfiability of predicate calculus formulas in selected models. 4. Determining the properties of relations. Performing operations on relations. 5. Determining classes of abstraction and division of a set for selected equivalence relations. 6. Finding special elements of posets (upper and lower bound, the largest, the smallest, a maximal, a minimal element). 7. Determining the properties of functions. Performing operations on functions.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56eb2a5-d9b5-11ee-9b0f-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00017</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Operating Systems</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Introduction. Elements of a computer system architecture. Processes and threads. Concurrency. Fundamental synchronization problems. Semaphores and monitors. Deadlocks and starvation. CPU and disk scheduling. Memory management and virtual memory. Protection and Security. File systems. Operating systems for parallel and distributed computers. Real-time and multimedia operating systems. Workshop: System programming with Linux API. Concurrent programming with the POSIX Threads standard.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a568b3eb-d9b5-11ee-80eb-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00028</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Advanced Database Systems and Data Warehouses</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: 1. Procedural SQL. 2. Advanced database objects: functions, packages, triggers. 3. Optimizing queries in practice. 4. Data models in data warehouses. 5. Data warehouse architecture. 6. Advanced SQL: Grouping. 7. Advanced SQL: Analytical functions. 8. Data integration. 9. NoSQL databases. 11. Data analysis with Bayesian network models. Specialistic workshop: 1. Procedural SQL. 2. Advanced database objects: functions, packages, triggers. 3. Data models in data warehouses. 4. Advanced SQL: Grouping. 5. Advanced SQL: Analytical functions. 6. Data integration. 7. NoSQL databases. 8. Data analysis with Bayesian network models.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56b3d6e-d9b5-11ee-9f95-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">INF2IWR</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Informatics in Robotics</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lectures: Basics of robotics: simple and inverse kinematics. Sensors and motors in robotics. PID control. Navigation algorithms. Programming mobile robots to perform navigation tasks: avoiding obstacles, location, mapping, SLAM. Intelligent Robots. Practical classes: Not eXactly C (NXC). Testing various sensors and engines. Conditions, loops, threads in parallel. Mindstorms NXT programming. Real robot control - avoiding obstacles. Covering the distance with many obstacles of unknown dimensions. Graphic information recognition. Implementation of space orientation algorithms.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a5694fc3-d9b5-11ee-9b26-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00070</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Calculus 2</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: 1. Functional series, pointwise and uniform convergence. 2. Power and trigonometric series. 3. Derivatives of functions of several variables: gradient, Jacobi matrix. 4. Extremes of functions of several variables. 5. Theorem on inverse function and implicit function. 6. Multiple integrals. 7. Applications of multiple integrals. Exercises: 1. Functional series, pointwise and uniform convergence. 2. Power and trigonometric series. 3. Derivatives of functions of several variables: gradient, Jacobi matrix. 4. Extremes of functions of several variables. 5. Theorem on inverse function and implicit function. 6. Multiple integrals. 7. Applications of multiple integrals. Labs: 1. Drawing graphs, domains and level curves of functions of several variables. 2. Visualization of differential calculus of many variables. 3. Drawing spatial surfaces needed in multiple integration. 4. Computer support in solving optimization problems.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56d7b16-d9b5-11ee-86f8-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">INF1LDI</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Logic for Computer Scientists</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Algebra of sets. Propositional calculus. Logic of predicates. Axioms and inference rules. Satisfiability. Tautologies. The notion of formal proof. Relations. Equivalence relations. Ordered sets. Functions.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a569eb86-d9b5-11ee-9e7d-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00042</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Database Security</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Legal aspects of database security. Basic definitions and problems. User authentication methods. Confidentiality and security control in the Oracle environment. Creating roles, synonyms, perspectives. Possibilities of securing the user account. Security related to programming in PL / SQL. Transparent coding. Setting access rights at the level of a single table row. Information systems security policy. Specialist workshop: Installation of the Oracle 10g-12g server. Create a sample database. Creating user accounts and assigning permissions. Create and assign roles. Create synonyms and perspectives. Create profiles. Wrapping PL / SQL code. Transparent coding. Setting access rights at the level of a single table row.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56b1679-d9b5-11ee-988c-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">INF2ICM</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Human-Machine Interaction</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lectures: 1. Introduction to human-machine interaction. 2. Interfaces and methodology for the evaluation of human-machine interfaces. 3. Basic interaction technologies: optical, acoustic, tactile, movement and biometric. 4. Selected input devices and ways of interaction. Practical classes: 1. Motion detection using selected sensors. 2. Face detection in human-machine systems. 3. Practical tasks related to human-machine interfaces. 4. Sample topics: voice control, hand gestures etc. 5. Implementation of human-machine interaction algorithms.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56c74db-d9b5-11ee-97f7-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00069</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Linear Control Theory</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Stability and asymptotic stability of linear continuous-time and discrete-time systems. Different representations of control systems. Controllability. Criteria of controllability. Observability. Ctriteria of observability. Realization problem for continuous-time and discrete-time systems. Different variants of realization problem. Realization of input-output map. Realization of transfer matrix and equation of higher order. Minimal realizations. Uniqueness. Isomorphic realizations. Feedback. Stabilization and stabilizability of continuous-time and discrete-time systems. Relations between controllability and stabilizability. Detectability and observers. Canonical forms and transformations of control systems. Systems on time scales. Positive systems. Classes: Linear homogeneous systems of differential and difference equations of first order. Stability and asymptotic stability of linear continuous-time and discrete-time systems. Different representations of control systems. Controllability. Criteria of controllability. Observability. Ctriteria of observability. Realization problem for continuous-time and discrete-time systems. Different variants of realization problem. Realization of input-output map. Realization of transfer matrix and equation of higher order. Minimal realizations. Uniqueness. Isomorphic realizations. Feedback. Stabilization and stabilizability of continuous-time and discrete-time systems. Relations between controllability and stabilizability. Detectability and observers. Canonical forms and transformations of control systems. Systems on time scales.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56ccd4d-d9b5-11ee-bb36-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00060</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Linear Algebra and Analytic Geometry 2</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Classes and lectures: Direct sum of linear spaces, quotient spaces. Linear endomorphisms, eigenvalues and eigenvectors, Jordan normal form. Dual vector space, dual basis, dual linear map. Bilinear forms. Quadratic forms, Lagrange reduction method, real quadratic forms, Jacobi method and Sylvester criterion. Euclidean spaces, Gram–Schmidt process. Inner product spaces. Affine spaces. Conic sections and quadric surfaces. Applications of Linear Algebra. Specialization workshop: Eigenvalues and eigenvectors of linear endomorphisms, Jordan form of a matrix, bilinear forms, quadratic forms, Conic sections and quadric surfaces</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56f4e5f-d9b5-11ee-b358-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00014</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Software Engineering</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: objectives of software engineering (SE), reason of creating SE, methods and methodology, CASE tools; introduction to UML: use cases diagrams, activity diagrams, classes and objects diagrams, packages, interaction and state diagrams, physical diagrams: components and deployment; life cycle of the software (models: waterfall, spiral, COTS, ...); requirements engineering for information systems (methods of gathering information, the functional and non-functional requirements); modeling and design of systems, system implementation, testing, verification and validation of software (dynamic and static tests); ensuring software quality and software metrics; documentation, installation, deployment and maintenance of software; reliability of information systems, management of development projects, risk management in projects. Specialization workshop: sample CASE tools; tasks: use case diagram, describing use cases, class diagram, activity diagram, state diagram, interaction diagrams, physical diagrams (components and deployment); project: discussion on the topic of the group task, specifying the objectives and scope of the designed system and benefits of its implementation, creating and describing use case diagrams, designing the user interface, creating a class diagram, identifying attributes and methods, use cases realization, interaction diagrams, state diagrams, specifying non-functional requirements and technology suggestions, work plan, risk analysis, presenting the project.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56a1270-d9b5-11ee-9fd6-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00064</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Differential and Difference Equations</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lectures: Differential equations of first order, field of directions, existence and uniqueness of solutions. Integrable types of equations of first order. Linear equations of higher orders, homogeneous and nonhomogeneous. Fundamental matrix, exponential matrix. Variation of constant method. Laplace transformation. Linear difference equations and systems. Selected types of partial differential equations. Applications of differential and difference equations. Classes: Differential equations of first order, field of directions, existence and uniqueness of solutions. Integrable types of equations of first order. Linear equations of higher orders, homogeneous and nonhomogeneous. Fundamental matrix, exponential matrix. Variation of constant method. Laplace transformation. Linear difference equations and systems. Applications of differential and difference equations. Specialistic workshop: Differential equations of first order, field of directions, existence and uniqueness of solutions. Integrable types of equations of first order. Linear equations of higher orders, homogeneous and nonhomogeneous. Fundamental matrix, exponential matrix. Laplace transformation. Linear difference equations and systems. Applications of differential and difference equations. Numerical methods of solving differential equations.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a569eb87-d9b5-11ee-9a7e-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00091</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Data Exploration</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">L: Data preprocessing. Selection of variables for analysis. Principal components method. Methods of classification (linear and nonlinear decision rules, Bayesian decision rules), regression, clustering. Evaluation of classifiers. Classification and regression trees. Methods of discovering associations in data, sequence patterns. Survival analysis. Multidimensional scaling. Linear separability of multidimensional datasets, linearization of datasets by rank layers of binary classifiers. Application of selected methods and algorithms for detecting regularities (patterns) in large data sets will also be analyzed. SW: Preparing data for analysis (normalization, standardization, discretization). Selected algorithms for data classification. Selected cluster analysis algorithms. Decision tree. Association rules. Random forests. Bagging and boosting. Evaluation of obtained models.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a5699da1-d9b5-11ee-b22d-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00011</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computer Organization and Architecture</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lectures History of Calculation and Computer Architecture. Harvard-Princeton Architecture. Complex Instruction Set: programming model and Stack, GPR Architectures. CISC, RISC and x86 family. Simple Instruction Pipelining. Pipeline Hazards Advanced Superscalar Architectures Multilevel Memories - Technology Cache (Memory) Performance Optimization, Cache Coherence and (MPP, UMA, NUMA, MP, SMP). Virtual Memory. I/O and interrupts. VLIW/EPIC: Intel IA-64 Hands-on exercises Principles of using watchdog functionality, programing of alphanumeric LCD display, programing of timers (timers), programing of uart serial communication, programing of ADC, programing of 1-wire serial communication</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56da221-d9b5-11ee-b296-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00065</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mathematical Statistics</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Elements of descriptive statistics, probability distributions occurring in the statistics, point estimates and compartments, confidence intervals, hypothesis verification parametric compatibility tests, tests of independence, ANOVA, estimators of the correlation coefficient and the regression coefficient.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56f7546-d9b5-11ee-931c-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00071</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Software Development Tools</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Joel's test, integrated development environments (IDEs), code and changes management (software versioning and revision control systems), dynamic (run-time) software testing, software profiling/software performance testing, source code documentation, functional tests, bug management, requirement management, GUI prototyping tools, software distribution - instalators Specialization workshop: integrated development environments (IDEs) (e.g., MS VS, Eclipse, NetBeans, Jupyter), revision control systems (SVN, GIT), debugging, run-time software testing in unmanaged and managed code, time and memory profiling, source code documention, bug manangement, requirement management, GUI prototyping tools, software distribution - instalators</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56dc907-d9b5-11ee-afd7-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00022</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Methods of Optimization</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1. Linear programming: simplex method, duality. 2. Nonlinear programming: necessary and sufficient optimality conditions for problems without constraints; gradient methods for optimizations without constraints; non-gradient methods for optimizations without constraints; necessary and sufficient optimality conditions for problems with constraints; duality; constrained optimization methods. 3. Calculus of variations: the fundamental problem of the calculus of variations, the Euler—Lagrange equation; variational problems with several variables, the isoperometric problem; the Lagrange problem. 4. Optimal control: formulation of the problem and the Pontryagin Maximum Principle.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56e16f3-d9b5-11ee-a634-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00037</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mobile Systems</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Mobile devices - architectures, components, limitations. Android: System Architecture. Construction of the application. Activity - the main element of the application. Life cycle. Starting an Activity, using an Intent. Application manifest. Fragments and their use in the construction of the user interface. Application resources. Services, content providers, broadcast recipients. Adaptation of the application to different devices. Using sensors. Communication. iOS: Ability to properly manage memory (retain, autorelease etc.), correct use of ARC (Automatic Reference Counting). User interface, creating new views and controllers (UIView and UIViewController), notifications using NSNotificationCenter, creating application settings for Settings.app, communication using high-level protocols (http, ftp) using CFNetwork API, processes and threads using the NSOperationQueue class, using resources in multiple languages \u200b\u200b(texts, views), configuring the Info.plist manifest, CoreAnimations, data contributors using CoreData. Classes: Project structure. Controls and views. Application programming interface. Objective-C. Application program resources. Internationalization of the application. Hardware resources of the mobile system. Selected hardware resources of the iOS application. Data storage. Network resources</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56d1b80-d9b5-11ee-91ba-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00039</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Linux Administration</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture and specialist workshop: I. System Architecture 1. Determine and configure hardware settings 2. Boot the system 3. Change runlevels / boot targets and shutdown or reboot system II. Linux Installation and Package Management 1. Design hard disk layout 2. Install a boot manager 3. Manage shared libraries 4. Use Debian package management 5. Use RPM and YUM package management 6. Linux as a virtualization guest III. GNU and Unix Commands 1. Work on the command line 2. Process text streams using filters 3. Perform basic file management 4. Use streams, pipes and redirects 5. Create, monitor and kill processes 6. Modify process execution priorities 7. Search text files using regular expressions 8. Basic file editing IV. Devices, Linux Filesystems, Filesystem Hierarchy Standard 1. Create partitions and filesystems 2. Maintain the integrity of filesystems 3. Control mounting and unmounting of filesystems 4. Manage file permissions and ownership 5. Create and change hard and symbolic links 6. Find system files and place files in the correct location</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a568a03c-d9b5-11ee-9a05-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00090</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Advanced Object-Oriented Programming Techniques</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Classes: Notion of the design pattern. Classification of the design patterns. Patterns: Singleton, Factory Method, Prototype, Abstract Factory, Builder, Proxy, Adapter, Decorator, Composite, Flyweight, Facade, Bridge, Command, Strategy, Template Method, Iterator, State, Mediator, Observer, Visitor. Specialization workshop: Writing/refactoring short program using chosen design patterns.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56976ae-d9b5-11ee-bdd4-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00010</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computer Graphics</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: 1. Introduction. A window application that draws primitives. PPM file format. 2. Color models. RGB, CMYK, HSV. RGB cube, HSV cone. 3. Methods of improving the quality of images. Point operations, histogram, filters, thresholding and automatic threshold selection algorithms. 4. Bezier curves. 5. Geometric transformations on the 2D plane. Translation, rotation, scaling. 6. Composition of elementary transformations. 7. Mathematical morphology in image processing. Structuring element, hit-or-miss, dilatation, erosion, opening, closing. 8. Basic raster algorithms. Bresenham line drawing, line clipping, scanline algorithm. 9. Computer animation. 10. JPEG compression standard. 11. JPEG 2000 compression standard. 12. Basic principles of 3D graphics. 13. Lighting modeling and realistic visualization. Specialist workshop: 1. Graphic primitives and the canvas. 2. Graphic file formats. 3. Color spaces. 4. Point transformations. 5. Methods of improving the quality of images. 6. Histogram. 7. Binarization. 8. Bézier curve. 9. 2D transformations. 10. Morphological operators. 11. Analysis and recognition of images.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56928d4-d9b5-11ee-8ff2-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00045</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bussiness Application Programming in Java</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Introduction to application architecture on the Java EE/Jakarta EE platform. Data access: JDBC, DAO/DTO design patterns, Object Relational Mapping, programmatic and declarative transaction handling. Business (logic) layer: components and services in the logic layer, elements of aspect programming. Presentation layer: solutions based on MVC pattern in Java EE platform. Application security models. Practice laboratory: Introduction to tools for developing applications on the Java EE platform. Introduction to application servers. Implementation of access to relational databases, creating components realizing application logic and implementation of the presentation layer using Java EE/Jakarta EE platform technologies.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56b6461-d9b5-11ee-aa1e-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00061</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Information Technologies</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Special workshop: Tags language LaTeX: template usage, insertion of formulae, tables and graphics, structure document creation, automatic numeration, page formatting, presentation creation, use of additional packages. Office software package LibreOffice (or MS Office). Text processor LibreOffice Writer (or MS Office Word): basic edition commands, formatting, paragraph styles, character styles, automation. Spreadsheet LibreOffice Calc (or MS Office Excel): formulae creation, built-in functions usage, graphs creation. Presentation graphic program LibreOffice Impress (lub MS Office PowerPoint): preparation of a presentation and its formatting, animation.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a569c4a4-d9b5-11ee-aa3d-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00005</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computer Graphics</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: 1. Introduction. A window application that draws primitives. PPM file format. 2. Color models. RGB, CMYK, HSV. RGB cube, HSV cone. 3. Methods of improving the quality of images. Point operations, histogram, filters, thresholding and automatic threshold selection algorithms. 4. Bezier curves. 5. Geometric transformations on the 2D plane. Translation, rotation, scaling. 6. Composition of elementary transformations. 7. Mathematical morphology in image processing. Structuring element, hit-or-miss, dilatation, erosion, opening, closing. 8. Basic raster algorithms. Bresenham line drawing, line clipping, scanline algorithm. 9. Computer animation. 10. JPEG compression standard. 11. JPEG 2000 compression standard. 12. Basic principles of 3D graphics. 13. Lighting modeling and realistic visualization. Specialist workshop: 1. Graphic primitives and the canvas. 2. Graphic file formats. 3. Color spaces. 4. Point transformations. 5. Methods of improving the quality of images. 6. Histogram. 7. Binarization. 8. Bézier curve. 9. 2D transformations. 10. Morphological operators. 11. Analysis and recognition of images.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56aefa6-d9b5-11ee-8a7d-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00038</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Human-Computer Interaction</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: 1. Principles of designing human-computer interfaces, rules of the UX Design. 2. Review of the development of human-computer interfaces in the historical context. 3. Discussion of text interfaces (LCD screens, text consoles). 4. Discussion of sound interfaces, the basics of psychoacoustics, processing, synthesis and speech recognition. 5. Discussion of graphic user interfaces. 6. Elements of 2D and 3D graphics, principles of GUI creation in window applications. 7. Review of non-traditional interfaces (touch, intercepting gestures and movement, brain). 8. Virtual reality interfaces. Classes: 1. Analysis of text interfaces on the basis of examples of ready-made applications. 2. Project preparation and application implementation using the text-mode interface. 3. Adaptation of the project according to the Model View Controller scheme enabling the exchange of the human-computer communication interface. 4. Preparation of the project and implementation of the application with the use of the graphical mode interface (GUI). 5. Wireframes of an advanced multi-window application, data flow diagram.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56aca56-d9b5-11ee-a18d-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00085</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Geographic Information System</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lectures: 1. Basic data models used in GIS techniques. 2. Definitions of the coordinate systems 3. Algebra of the map. 4. Representation of the map. 5. Pathing algorithms. 6. Representation of GIS data. Classes: 1. Implement application that consumes GIS API 2. Calculation of paths in map (e.g. using A* algorithm). 3. Representation of GIS data.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56bb31a-d9b5-11ee-8542-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00096</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Introduction to Databases</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Introduction to databases; Relational algebra; Integrity constraints; SQL queries; Stages of designing a relational database. Normalization of relations; Entity-relationship diagrams; Creating the relational database scheme from E/R diagrams; Defining views; The physical organization of data in the database; Indexes. DDL and DML; Query optimization; Transactions. Sw: 1. Normalization of a relational database. 2. SQL queries: simple queries, subqueries, grouping queries, correlated queries, subqueries after FROM and SELECT. 3. Views. 4. DDL and DML commands.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56901e7-d9b5-11ee-8a7c-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00005</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Artificial Intelligence</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Introduction to artificial intelligence. Discussion of notions about the Alan M. Turing test. Knowledge representation using rough set methods – Polish School of Artificial Intelligence. Basic methods for searching state space. Knowledge representation using neural networks, decision trees, evolutionary algorithms, and logic language. Selected applications of artificial intelligence systems for solving engineering and scientific problems. Design and implementation of computer applications that use artificial intelligence methods.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56f9c3c-d9b5-11ee-95ae-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00046</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Web Applications Development in Java</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: 1. Web applications in Java. Servlets, application context, cookies, session. Events model. JSP. 2. Managing of servlet container. Security of applications. 3. Servlet Container. XML (eXtended Markup Language). Concepts of structurally and semantically correct document. Namespaces. Syntax Description Document (XML Schema). 4. Architecture REST (Representational state transfer) Web 5. Servlet based frameworks: Spring MVC+Thymeleaf. Laboratory: 1. Preparation of developer and production environment of applications. Managing of servlet container. 2. Implementation o Java based web application. Data exchange among the application components. Application context, cookies, session. Events model. JSP. 3. Processing and validation of documents and XML schemes. 4. MVC pattern. Rest interface, databases. 5. Web application development based on frameworks: Spring. Spring Boot, annotations, dependency injection.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56b6460-d9b5-11ee-8850-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00008</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Informatics in Robotics</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lectures: Basics of robotics: simple and inverse kinematics. Sensors and motors in robotics. PID control. Navigation algorithms. Programming mobile robots to perform navigation tasks: avoiding obstacles, location, mapping, SLAM. Intelligent Robots. Practical classes: Not eXactly C (NXC). Testing various sensors and engines. Conditions, loops, threads in parallel. Mindstorms NXT programming. Real robot control - avoiding obstacles. Covering the distance with many obstacles of unknown dimensions. Graphic information recognition. Implementation of space orientation algorithms.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56a63a3-d9b5-11ee-9380-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00054</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Discrete Mathematics</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Mathematical induction; recursion and chosen methods of its solving. Basics of arithmetics of integers; modular arithmetics. Basic notions and objects of combinatorics, their properties and techniques of counting, in particular the Pigeon Hole Principle and the Principle of Inclusion - Exclusion Principle. Generating functions. Basic notions and theorems of graph theory, in particular, a characterization of Euler and Hamiltonian graphs, properties of connected graphs, planar graphs and trees, counting of spanning trees, colourings of graphs. Classes: Induction and recurtion Arthmetic of integers Modular arithmetics, Permutation, combination, variation, Graph theory problems: Euler and Hamilton graph, connected graph, planar graph, colouring of graphs</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a568daf6-d9b5-11ee-ab9d-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00098</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Algorithmics - Selected Issues</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Graph browsing algorithms. BFS and DFS methods and their applications. Effective path algorithms for graphs with weights. Strategies: label-setting and label-corecting. The problem of maximum flow in the network and effective methods of its determination. The problem of the cheapest flow in the network - effective algorithms and examples of application. Graph and network problems difficult to solve. Examples of approximate solutions for graph problems of the NPC class. The traveling salesman problem and its variants. Examples of applications of various types of traveling salesman problems in information systems in the field of logistics and e-tourism class systems. Effective aprokysmation algorithms for different varieties of the traveling salesman problem. The problem of routing in transport networks. Specialist workshop: A problem task that requires the development of an algorithm based on BFS and DFS graph searching methods A problem task that requires the development of an algorithm based on the use of path algorithms A problem task that requires the development of an algorithm based on the use of networkflow algorithms A problem task that requires the development of an algorithm based on the use of approximation algorithms.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56e3de1-d9b5-11ee-af56-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00012</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Object Oriented Programming</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Concept of classes, objects, fields, methods. Preparing the class diagram from the text specification. Creation and destruction of objects. Interface and implementation of classes, encapsulation. Static class components. Composition and inheritance as the methods for the class reusability. Polymorphism. Inner classes. Runtime errors, exceptions. Generic classes - dependent on the type. Specialization workshop: Construction and destruction of objects. Writing new classes. Application of encapsulation. Using composition and inheritance to create new classes. Run-time type identification. Calling virtual methods. Using exceptions to handle run-time errors. Using interface types. Writing generic classes. Designing classes based on text system description.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a5694fc4-d9b5-11ee-8b73-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00062</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Calculus 3</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Notion of arc, its length, curvature and torsion. Undirected and directed arc integral. Surface, its area and orientation. Unoriented and oriented surface integral. Rotation and divergence of vector field. Theorems of Gauss-Ostrogradski, Stokes and Green. Independence of path integral from the path. Applications of arc and surface integrals. Complex functions, differentiability, integrals, singular points. Applications of complex functions. Banach and Hilbert spaces and its applications. Classes: Notion of arc, its length, curvature and torsion. Undirected and directed arc integral. Surface, its area and orientation. Unoriented and oriented surface integral. Rotation and divergence of vector field. Theorems of Gauss-Ostrogradski, Stokes and Green. Independence of path integral from the path. Applications of arc and surface integrals. Complex functions, differentiability, integrals, singular points. Applications of complex functions. Specialistic workshop: Length, curvature and torsion of arc. Undirected and directed arc integral. Surface, its area and orientation. Unoriented and oriented surface integral. Rotation and divergence of vector field. Applications of arc and surface integrals. Complex functions, differentiability, integrals, singular points. Applications of complex functions.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56a63a4-d9b5-11ee-b243-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00036</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Electronic Circuits and Measurements</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Preparation of active elements on a silicon substrate. MOS and bipolar transistors. Technologies of realisation of TTL and CMOS integrated digital circuits . TTL ICs. NAND gate. Static and dynamic parameters of gates. TTL series chips. MOS digital circuits. NMOS gates. Digital signal transmission through the MOS transistor. CMOS circuits. Dynamic logic. Disadvantages of CMOS circuits. Family of CMOS digital circuits. BiCMOS families digital circuits. Orocess of analog-to-digital conversion. The basic structural components of AD and DA conferters. DACs. ADCs. Construction and operation of SRAM cell. Construction and operation of the DRAM cell. Organization of memory. Timing diagrams. Fast dynamic memory. ROM memory. General organization of ROM memory. Mask ROM, PROM, EPROM, EEPROM, FLASH. Programmable logic devices. Laboratory exercises: 1. Static and dynamic parameters of gates and flip-flops 2. Combinational blocks: multiplexers, demultiplexers and decoders 3. Arithmetic and logic blocks 4. Sequential blocks: registers and counters</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56f0160-d9b5-11ee-a3b3-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00031</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Programming Basics</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Algorithm. Programming: algorithmization, coding. Flowcharts. Systems and programming aids. Structured programming. Symbols basic, basic data structures: constants, standard scalar types. Operators. Expressions. Defining variables, basic instructions. Structural instructions. Iterations. Defining types. Arrays. Scalar types, flow of control. Functions. Passing parameters. Side effects. Recursion. The structure of the program, structural types: structure, strings. Files. Formatting output. Pointers. Dynamic variables. Memory management. Dynamic data structures. Lists.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56fea18-d9b5-11ee-83de-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00003</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Web Applications Development in .NET technology</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ASP .NET architecture. HTML controls. Life-cycle of web page. Session management. Data validation. Mechanisms and controls supporting web applications design. Databases access methods.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56c2708-d9b5-11ee-840d-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00057</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Introduction to Linux</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Introduction to the Linux operating system. License free software, open source, GPL, etc. Installation of the system. Basic commands executed based on the text interface. Bash shell programming. Constructing regular expressions. Configuring network interfaces. Using SSH to connect to remote devices.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a569c4a5-d9b5-11ee-a1cd-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00092</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Data Visualization and Communication</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: 1. Basic concepts of data visualisation 2. Design and colours 3. CSV format for data exchange 4. Basic tools and techniques to create charts 5. Multidimensional Data 6. Trees, and Hierarchies 7. Networks and geographic data 8. Heat map representation 9. More advanced techniques and modern data representations Classes 1. Implement CSV parser and storage 2. Present data as table, allow user to edit values and export data. 3. Implement line chart 4. Implement pie chart 5. Implement heat map 6. Final project</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56e3de0-d9b5-11ee-bbb9-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00102</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Numerical Methods</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Newton and Hermite interpolation. Splines. Mean-square approximation. Numerical methods to solve: nonlinear equations (bisection, secant and Newton methods), systems of linear equations (Gauss and Cholesky methods) and nonlinear equations (Newton method). Deriving matrix eigenvalues and eigenvectors. Numerical integration: definite and multiple integral computing (Gaussian and Newton-Cotes quadratures). Numerical methods for initial value and boundary value problem solving for ordinary differential equations (difference methods and the Runge-Kutta type methods). Examples of numerical methods applications. Special workshop: Newton and Hermite interpolation. Splines. Mean-square approximation. Numerical methods to solve: nonlinear equations (bisection, secant and Newton methods), systems of linear equations (Gauss and Cholesky methods) and nonlinear equations (Newton method). Deriving matrix eigenvalues and eigenvectors. Numerical integration: definite and multiple integral computing (Gaussian and Newton-Cotes quadratures). Numerical methods for initial value and boundary value problem solving for ordinary differential equations (difference methods and the Runge-Kutta type methods). Examples of numerical methods applications.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56928d5-d9b5-11ee-9a3b-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00002</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Calculus</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: 1. Sets and their bounds. 2. Real functions of one variable and n-variables, properties of these functions. 3. Limit of a sequences, convergence of number series, continuity and derivatives of real functions of one variable. 4. Limit of a sequences, convergence of number series, continuity and derivatives of real functions of n-variables, indefinite. 5. Definite integrals of functions of one variable, applications of derivatives and integrals. 6. Fourier Series. Exercises: 1. Sets and their bounds. 2. Real functions of one variable and n-variables, properties of these functions. 3. Limit of a sequences, convergence of number series, continuity and derivatives of real functions of one variable. 4. Limit of a sequences, convergence of number series, continuity and derivatives of real functions of n-variables, indefinite. 5. Definite integrals of functions of one variable, applications of derivatives and integrals. 6. Fourier Series.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56c4df1-d9b5-11ee-95ec-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00030</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Linear Algebra</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: The concept of a group, a group of permutations. Field of complex numbers, Matrices, rank of matrices. Systems of linear equations and the Gaussian elimination method. Determinants and their applications. Linear spaces, subspace of a linear space, Base and dimension of a linear space, Linear transformations, Kernel and image of a linear transformation, Eigenvalues and eigenvectors of a linear transformation. Classes: Operations in the group of permutation, Operations in the field of complex numbers, Operations in the set of matrices, inverse of matrix, rank of matrix, Solving systems of equations by Gaussian elimination method, Calculation of determinants, Applications of determinants, Base and dimension of a linear space, Linear transformations, Kernel and range of a linear transformation, Eigenvalues and eigenvectors of a linear transformation.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a56b8b5b-d9b5-11ee-89da-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCS-00095</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Internet of Things</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: The concept of the "Internet of Things". IoT platforms and environments used. Standards. Testing and self-testing. Wired interfaces. Wireless interfaces. Low power design. Laboratory: IoT platforms. Development environments. Preparation for operation and first start-up. Basic testing and self-testing. Communication with peripheral devices. Remote communication. Practical use of methods of reducing energy consumption. Design and implementation of an IoT system. Translated with www.DeepL.com/Translator (free version)</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#BUComputerScience"/>
+  </rdf:Description>
+</rdf:RDF>

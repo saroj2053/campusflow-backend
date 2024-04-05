@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://tuc.web.engineering/module#"
+   xmlns:ns2="http://across/university#"
+   xmlns:ns3="http://tuc/course#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#73008aec-da26-11ee-b476-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Theoretical materials in the form of an English-language digital textbook for independent analysis - introduce the theory and practical issues of shaping a sustainable multifamily housing environment. They present the ideological, program-spatial and structural shaping of multi-family residential buildings of various types. They provide practical knowledge on taking into account different housing standards and utility programs of apartments. Practical project consists of two parts: (1) An urban design of a multi-family housing complex, taking into account technical, communication and social infrastructure, a variety of building types, sun exposure, access to recreational areas and services, while maintaining a clear division of the complex's space into public, semi-public and private. (2) Architectural design of a multi-family residential building selected from the complex, taking into account the variety of apartment types, parking lots or underground garages, storage rooms, technical rooms, utility rooms, and the commercial part - when this function results from the urban concept. Flats designed in accordance with the principle of zoning for the living and night areas.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">336</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUArchitecture"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:course="http://tuc/course#"
+         xmlns:university="http://across/university#"
+         >
+
+  <rdf:Description rdf:about="http://tuc/course#BUMSCS">
+    <rdf:type rdf:resource="http://tuc/course#"/>
+    <course:hasCourseNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">91</course:hasCourseNumber>
+    <course:hasCourseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computer Science</course:hasCourseName>
+    <course:belongsToProgram rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Master</course:belongsToProgram>
+    <course:hasLanguage rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</course:hasLanguage>
+    <course:belongsToDepartment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computer Science</course:belongsToDepartment>
+    <university:belongsToUniversity rdf:resource="http://across/university#BU"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://tuc/course#BUMA">
+    <rdf:type rdf:resource="http://tuc/course#"/>
+    <course:hasCourseNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">92</course:hasCourseNumber>
+    <course:hasCourseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Architecture</course:hasCourseName>
+    <course:belongsToProgram rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Master</course:belongsToProgram>
+    <course:hasLanguage rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</course:hasLanguage>
+    <course:belongsToDepartment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Architecture</course:belongsToDepartment>
+    <university:belongsToUniversity rdf:resource="http://across/university#BU"/>
+  </rdf:Description>
+
+   <rdf:Description rdf:about="http://tuc/course#BUME">
+    <rdf:type rdf:resource="http://tuc/course#"/>
+    <course:hasCourseNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">93</course:hasCourseNumber>
+    <course:hasCourseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Electrical Engineering</course:hasCourseName>
+    <course:belongsToProgram rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Master</course:belongsToProgram>
+    <course:hasLanguage rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</course:hasLanguage>
+    <course:belongsToDepartment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Electrical Engineering</course:belongsToDepartment>
+    <university:belongsToUniversity rdf:resource="http://across/university#BU"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://tuc/course#BUMM"> 
+    <rdf:type rdf:resource="http://tuc/course#"/>
+    <course:hasCourseNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">94</course:hasCourseNumber>
+    <course:hasCourseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mechanical Engineering</course:hasCourseName>
+    <course:belongsToProgram rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Master</course:belongsToProgram>
+    <course:hasLanguage rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</course:hasLanguage>
+    <course:belongsToDepartment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mechanical Engineering</course:belongsToDepartment>
+    <university:belongsToUniversity rdf:resource="http://across/university#BU"/>
+  </rdf:Description>
+
+   <rdf:Description rdf:about="http://tuc/course#BUCE"> 
+    <rdf:type rdf:resource="http://tuc/course#"/>
+    <course:hasCourseNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">95</course:hasCourseNumber>
+    <course:hasCourseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Civil Engineering and Environmental Sciences</course:hasCourseName>
+    <course:belongsToProgram rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Master</course:belongsToProgram>
+    <course:hasLanguage rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</course:hasLanguage>
+    <course:belongsToDepartment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Civil Engineering and Environmental Sciences</course:belongsToDepartment>
+    <university:belongsToUniversity rdf:resource="http://across/university#BU"/>
+  </rdf:Description>
+
+ <rdf:Description rdf:about="http://tuc/course#BUEM"> 
+    <rdf:type rdf:resource="http://tuc/course#"/>
+    <course:hasCourseNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">95</course:hasCourseNumber>
+    <course:hasCourseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Engineering Management</course:hasCourseName>
+    <course:belongsToProgram rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Master</course:belongsToProgram>
+    <course:hasLanguage rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</course:hasLanguage>
+    <course:belongsToDepartment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Engineering Management</course:belongsToDepartment>
+    <university:belongsToUniversity rdf:resource="http://across/university#BU"/>
+  </rdf:Description>
+
+   <rdf:Description rdf:about="http://tuc/course#BUCES"> 
+    <rdf:type rdf:resource="http://tuc/course#"/>
+    <course:hasCourseNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">96</course:hasCourseNumber>
+    <course:hasCourseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Civil and Earth Sciences</course:hasCourseName>
+    <course:belongsToProgram rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Master</course:belongsToProgram>
+    <course:hasLanguage rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</course:hasLanguage>
+    <course:belongsToDepartment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Civil and Earth Sciences</course:belongsToDepartment>
+    <university:belongsToUniversity rdf:resource="http://across/university#BU"/>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://tuc/course#BUCBE"> 
+    <rdf:type rdf:resource="http://tuc/course#"/>
+    <course:hasCourseNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</course:hasCourseNumber>
+    <course:hasCourseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biomedical Engineering</course:hasCourseName>
+    <course:belongsToProgram rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Master</course:belongsToProgram>
+    <course:hasLanguage rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</course:hasLanguage>
+    <course:belongsToDepartment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biomedical Engineering</course:belongsToDepartment>
+    <university:belongsToUniversity rdf:resource="http://across/university#BU"/>
+  </rdf:Description>
+
+</rdf:RDF>

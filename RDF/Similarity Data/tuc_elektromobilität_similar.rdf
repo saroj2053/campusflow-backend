@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://across/university#"
+   xmlns:ns2="http://tuc.web.engineering/module#"
+   xmlns:ns3="http://tuc/course#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cdb7-e070-11ee-a3d6-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">244038-003(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Intelligente Sensorsysteme</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Grundlagen intelligenter Sensorsysteme  Sensoreigenschaften  Strukturen von Sensorsystemen  Störeinflüsse und Schutzmaßnahmen  Sensorsignale  Messdatenerfassung  Sensorschnittstellen und Messdatenerfassung  Reale Verstärker und Verstärkerschaltungen  Fortgeschrittene Verfahren der Analog-Digital-Umsetzung  Impedanzspektroskopie  Ausgewählte Sensoranwendungen</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">210</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cda1-e070-11ee-bf14-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">242033-010(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Energiespeicher und Energiewandlungssysteme</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> systemanalytische Aspekte der Energiespeicherung und Energiewandlung in einem nachhaltigen Energiesystem mit hohem Anteil erneuerbarer Energien  Begriff, Typen, Klassifizierung, physikalische Grundprinzipien und wichtige technische Kennwerte von Energiespeichern und Energiewandlern  physikalisch-chemische Grundlagen von elektrochemischen Energie- speichern  technische Batteriespeicher (z. B. Blei, Lithium-Ionen; Kennwerte, Ladeverfahren)  chemische Energiespeicherkonzepte (Wasserstoff, synthetisches Methan, Elektrolyse und Brennstoffzelle)  mechanische Energiespeicher (Pumpspeicher, Schwungradspeicher und Druckluftspeicher)  thermische Energiespeicher  Auslegung und Regelung von Multispeicher-Hybridsystemen (Kopplungs- und Steuerungskonzepte, Maximierung von Gesamteffizienz und Lebensdauer)</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">60</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cda8-e070-11ee-a5ff-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">232034-004(Version04)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fahrzeugdynamik</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Vertikaldynamik Federung und Dämpfung o Komponenten im Detail o Mess-/Beurteilungsgrößen o Messmethodik o Auslegungs- und Berechnungsregeln o Regelsysteme: Algorithmen, Aufbau, Funktionsweise o Noise, Vibration, Harshness (NVH) o Fahrbahnanregung (Formen, Berechnungen) o Fahrzeugmodelle (Theorie, Simulations-/Berechnungsmodelle) o Komfort (menschliche Wahrnehmung etc.) o Praktische Simulation am PC o  Querdynamik Eigenlenkverhalten o Regelung Fahrdynamik o Reifenverhalten o Handling o Theorie und Simulation (am PC) o</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cd9f-e070-11ee-80b3-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">232033-010(Version05)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Simulation von Brennstoffzellensystemen</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Funktionsweise einer Brennstoffzelle basiert auf einem komplexen System von thermodynamischen Zuständen und elektrochemischen Reaktionen. Für die Simulation eines solchen Systems werden die einzelnen Komponenten abgebildet und deren Zusammenwirken beschrieben. Dabei werden die Grundlagen zur numerischen Simulation für komplexe Systeme in den Bereichen Thermodynamik, Elektrochemie und Massentransport erarbeitet und im Bezug zur Brennstoffzelle angewendet. Darüber hinaus geht es um die Modellierung ganzer Brennstoffzellensysteme mit Hilfe professioneller Werkzeuge.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cdb0-e070-11ee-98bd-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">241031-009(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dynamik und Regelung vernetzter Systeme /</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Modellierung vernetzter Systeme  Graphentheoretische Charakterisierung  Systemtheoretische und regelungstechnische Methoden für vernetzte Systeme  Synchronisation und Konsensus  Anwendungen</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cdbc-e070-11ee-b191-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243032-008(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Seminar Intelligent Transport Systems</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zu vorgegebenen aktuellen Themen im wissenschaftlichen und technischen Umfeld intelligenter Verkehrssysteme werden durch die Studenten Seminararbeiten in Form eines Survey oder Tutorial Artikels im IEEE Stil verfasst und die Ergebnisse in einer abschließenden Präsentation einschließlich Diskussion vorgestellt. Die Themen sollen von allen Professuren des Instituts für Informationstechnik mit erstellt und betreut werden und einen möglichst breiten Querschnitt des Wissensgebietes repräsentieren.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cdba-e070-11ee-bc3c-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243032-007(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mobile Localization and Navigation</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Geschichtliche Entwicklung  Ortungssysteme  Mobiles Radar  Radarprinzip, Radargleichung  Auflösungsprinzipien  Parameterschätzverfahren, Stochastische Modelle  Navigationssysteme, Einführung in das Global Positioning System (GPS)  Ausbreitungseffekte und Schätzgenauigkeit  Rangingverfahren auf der Basis drahtloser Netztechnologien  Localization in Mobilen/Funknetzen  In-door Localization  Ausblick auf künftige Systeme  Techniken zur Navigation und Routenplanung</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cdbf-e070-11ee-aeb5-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">264031-209(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grundlagen des Energierechts</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Allgemeiner Teil Einteilung: Schnittstellen von Energie- und Umweltrecht o Begriffe, Konzepte, Prinzipien des Umweltschutzes o Rechtsquellen des Umwelt(schutz)- und Energierechts o Umweltschutz in Bundes- und Landes(verfassungs)recht o Instrumente/Verfahren des Umweltschutzes mit Bezug zu Energie o Haftung für Umweltschäden und Sanktionen o Umwelt-Information o Rechtsschutz o  Besonderes Umweltrecht Immissionsschutzrecht mit Bezug zum Energierecht o Atomrecht mit Bezug zum Energierecht o Abfallrecht o Wasser-, Boden-, Naturschutzrecht mit Bezug zum Energierecht o  Allgemeines Umweltrecht (Systematik, Allgemeine Prinzipien des Umweltschutzes, Rechtsquellen des Umweltschutzrechts international/europäisch/national, Umweltschutz in Bundes- und Landes[verfassungs]recht, Instrumente des staatlichen Umweltschutzes, Haftung für Umweltschäden, Sanktionen bei Verstößen), Besonderes Umweltrecht (Fokus auf Immissionsschutzrecht, Abfall- und Bodenschutzrecht, Wasserrecht)  Einzelthemen sind u.a.: Verursacher-/Vorsorgeprinzip, o Umweltverträglichkeit, o Verbandsklagen, o Ökoaudit, o integrierte Verfahren, o Kontrollerlaubnis, o Planfeststellung/-genehmigung inkl. Öffentlichkeits-/Behördenbeteiligung, o Kreislaufwirtschaftsmodelle, „Eingriff“ in Natur und Landschaft o</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cdc1-e070-11ee-9b33-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">T28024-003(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Human Factors</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> kognitive Ergonomie  Arbeitsplatz- und Arbeitsmittelgestaltung  Produktdesign  Mensch-Maschinesysteme  Automatisierung</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cda9-e070-11ee-9fb8-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">232033-002(Version04)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fahrzeugenergietechnik</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aufbauend auf dem Fahrzeugantriebsstrang wird in diesem Modul die energieseitige Modellierung und Bilanzierung verschiedener Antriebssysteme vermittelt. Beginnend mit den Energieformen und Komponenten im Kraftfahrzeug sowie dem Aufbau hybrider Fahrzeugsysteme liegt der Fokus des Moduls auf den Energieflüssen vom Energiespeicher bis zum Rad und dessen Optimierung. Dabei stehen folgende Schwerpunkte im Mittelpunkt:  Energie-/ Kraftstoffverbrauch und dessen Berechnung  Energetische Optimierung  Flüssige und gasförmige Energiespeicher und Batterietechnologien  Energiemanagement in hybriden Antriebssystemen</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cda5-e070-11ee-bc43-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">231432-002(Version02)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Maschinendynamik diskreter Systeme</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aufgabe der Maschinendynamik diskreter Systeme ist die Erarbeitung und Anwendung von Kenntnissen aus der Dynamik diskret-modellierter Probleme im Maschinenbauingenieurwesen. In diesem Modul werden Kenntnisse, Fähigkeiten und Fertigkeiten vermittelt, die unabhängig von einer speziellen Maschinenart oder von einem technischen Objekt sind und auf beliebige Maschinen (Antriebs- und Tragsysteme) angewandt werden können. Die Maschinendynamik diskreter Systeme behandelt die Ermittlung dynamischer Kenngrößen und Eigenschaften sowie die mathematische Beschreibung und physikalische Erklärung dynamischer Erscheinungen und Effekte an Maschinen mit analytisch-rechnerischen Methoden. Die Grundlagen des Fachgebietes werden in den Vorlesungen vermittelt, während in den Übungen die allgemeinen Zusammenhänge anhand konkreter Übungsaufgaben umgesetzt und vertieft werden.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cdaa-e070-11ee-b0da-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">242032-004(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zuverlässigkeit und Robustheit leistungselektronischer Systeme</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Aufbau- und Verbindungstechnik sowie thermo-mechanische Probleme von leistungselektronischen Systemen  Berechnung, Design, Realisierung eines Leistungshalbleiterbauelements, Auslegung, Qualitätsanforderungen, Projektmanagement  Zerstörungsmechanismen in Leistungsbauelementen, charakteristische Ausfallbilder  Schaltnetzteile und Gleichspannungswandler: Topologien, exemplarische Auslegung  Ausgewählte Themen der elektromagnetischen Verträglichkeit  Integration leistungselektronischer Systeme: monolithische Integration, Integration auf Leiterplattenbasis, hybride Integration  Simulation von ausgewählten dynamischen Schalt- und Überlastfällen</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cda7-e070-11ee-93ad-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">231032-013(Version03)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grundlagen und Trends im Strukturleichtbau</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Vorlesung vermittelt grundlegende Rechenmethoden des Leichtbaus, die auf der linearen Elastizitätstheorie und weiteren einfachen Ingenieurtheorien aufbauen. Dabei stehen vor allem Methoden für dünnwandige Stab- und Flächentragwerke, die im Leichtbau sehr häufig eingesetzt werden, im Vordergrund. Auf die Berechnung und Auslegung von Schubfeldkonstruktionen wird im Rahmen der Veranstaltung besonders eingegangen. Des Weiteren werden Instabilitätsformen an den genannten Tragwerken vertieft behandelt, da diese oftmals die versagenskritischen Problemfälle bei Leichtbaustrukturen darstellen. Im Seminar wird den Studenten der aktuelle Stand der Wissenschaft für ausgewählte Trends auf dem Gebiet des Leichtbaus aufgezeigt, an den die Studenten mit eigenen wissenschaftlichen Überlegungen anknüpfen. Dies erfolgt durch die praktische sowie wissenschaftliche Umsetzung einer vorgegebenen Problemstellung.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cda2-e070-11ee-b929-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">T21024-002(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Elektrochemische Energiespeicher</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vorlesung „Grundlagen und Systeme elektrochemischer Energiespeicher“  Energieformen und -speicherung  Physik und Chemie der Energiewandlung und -speicherung  Komponenten und Funktionsprinzip elektrochemischer Zellen  Thermodynamik und Kinetik elektrochemischer Speicher und Wandler  Verfahren zur Untersuchung elektrochemischer Speicher  Batterien und Akkumulatoren  Supercaps  Wasserstoffelektrolyse und Brennstoffzellen Praktikum „Grundlagen elektrochemischer Energiespeicher“ Im Praktikum werden Versuche zu den in der Vorlesung behandelten Methoden vom Studenten durchgeführt.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cdb4-e070-11ee-a2ed-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">244038-007(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sensorsignalverarbeitung</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Anforderungen an Sensoren und Messsysteme  Messsignale, Störeinflüsse und Schutzmaßnahmen  Modellieren von Sensorkennlinien  Parameterextraktionsverfahren  Kompensation von Einflusseffekten und Querempfindlichkeiten  Methoden der Selbstüberwachung und Selbstkalibrierung  Digitale Signalanalyse  Digitale Signalverarbeitung  Korrelationsmesstechnik</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cdaf-e070-11ee-a0a8-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">241031-006(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nichtlineare Regelung / Nonlinear Control</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einführung und Allgemeine Eigenschaften nichtlinearer Systeme  Lyapunov-Theorie basierter Reglerentwurf  Dissipativität und Passivität  Differentialgeometrische Methoden  Moderne Verfahren der nichtlinearen Regelung</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cdc0-e070-11ee-96eb-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">264031-210(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Recht der erneuerbaren Energien</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Im Modul werden die Grundlagen des Rechts der erneuerbaren Energien im Allgemeinen behandelt – vorrangig die Darstellung der rechtlichen Zusammenhänge am Beispiel der Windenergie als der derzeit dominierenden Form der Energieerzeugung aus regenerativen Energieträgern.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cd9c-e070-11ee-bb12-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">232033-004(Version05)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brennstoffzellen und Brennstoffzellensysteme I</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einführung in die Brennstoffzellen- und Wasserstofftechnologie (Energieproblematik, Historie, Typen und Einsatzbereiche, Wasserstoffeigenschaften)  Wasserstofftechnologie (Erzeugung, Speicherung, Energetische Gesamtbetrachtung)  Physikalisch-chemische Grundlagen der Brennstoffzellen (chemische Reaktionen, Thermodynamik)  Brennstoffzellensysteme (Aufbau, Modulkomponenten, Wirkungsgrade)</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cdc5-e070-11ee-8c93-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">240100-423(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forschungs-/Auslandspraktikum</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Modul dient der praktischen Ausbildung im Bereich der Elektrotechnik, Informationstechnik und artverwandter Industriezweige im In- oder Ausland. Diese wird im Rahmen einer 20-wöchigen Tätigkeit in einem Unternehmen oder in einer Forschungs- und Entwicklungseinrichtung durchgeführt. Hauptziel ist es, die nationale und internationale Mobilität zu ermöglichen bzw. zu fördern. Dabei sollen die Kontakte der Professuren zur Industrie und zu Forschungszentren im In- und Ausland genutzt werden, um den Studenten anspruchsvolle und forschungsnahe Praktikumsaufenthalte zu vermitteln. Die Aufgabenstellung ist vor Beginn des Praktikums von einer Professur der Fakultät für Elektrotechnik und Informationstechnik schriftlich zu bestätigen.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">900</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cda3-e070-11ee-bd2a-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">231232-001(Version04)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fabrikorganisation</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Bedeutung der industriellen Produktion, Arten von Produkten, grundsätzliche Unternehmenstypen, Branchen  Systemtheoretische Grundlagen zur Beschreibung von Unternehmen  Aufbauorganisation, Ablauforganisation  Grundtypen der Produktionsorganisation  Lebenszyklusmodelle: Produktlebenszyklus, Fabriklebenszyklus  Funktionen zur Leistungserbringung: Produktentwicklung, Planung/ Arbeitsvorbereitung, Fertigung und Montage, Materialfluss/Logistik, Qualitätssicherung, Instandhaltung  Fabrikplanung  Fabrikbetrieb – Auftragsabwicklung  Fabrik-/Produktionsnetze  Trends: ökologische Aspekte, Industrie 4.0</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">90</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cdb3-e070-11ee-a17e-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">241031-012(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Praktikum fortgeschrittene Regelungstechnik</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Praktikum zu modernen Verfahren der Regelungstechnik, die in den Lehrveranstaltungen Fortgeschrittene Methoden der Regelungstechnik sowie Dynamik und Regelung vernetzter Systeme behandelt werden. Dabei werden auch Aspekte aus der Nichtlinearen Regelung, der Optimalen Regelung sowie der Modellbildung und Identifikation dynamischer Systeme mit einbezogen. Die Studenten wählen zu Beginn des Semesters, welche konkreten Versuche bzw. Miniprojekte (etwas komplexere Versuche) bearbeitet werden.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cd98-e070-11ee-8694-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">242031-006(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Theorie elektrischer Maschinen</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Kraft- und Drehmomentbildung, Raumzeigertheorie, Koordinatentransformationen  Dynamisches Verhalten von Wicklungsanordnungen  Dynamisches Verhalten und Untersuchung spezieller Betriebszustände von Asynchron- und Synchronmaschinen  Beschreibung des dynamischen Verhaltens der Gleichstrommaschine mit Hilfe von Zustandsgleichungen  Signalflusspläne der wichtigsten elektrischen Maschinen</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cda6-e070-11ee-a40b-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">232034-001(Version05)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fahrwerktechnik I</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fahrwiderstände Anforderungen an das Fahrwerk für Straßenfahrzeuge und mobile Arbeitsmaschinen Fahrwerk mit Aufbau und Funktionsweise Rad/Reifen o Achsbauweisen o Lenkung o Bremsen o Federung/Dämpfung o Erprobung (Komponentenerprobung, Fahrversuch)</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cdb6-e070-11ee-bebc-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">244038-009(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Praxisseminar Mess- und Sensortechnik</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Grundlagen der Sensorik  Messsysteme und Sensorik in Medizin und Biologie  Messverfahren und Sensorik in der Umwelttechnik  Messsysteme und Sensorik in der Verkehrstechnik  Energieversorgung von Sensorsystemen  Impedanzspektroskopie  Trends der Mess- und Sensortechnik  Einsatz neuer Materialien und Technologien in der Sensortechnik</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cdad-e070-11ee-833c-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">241032-008(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Prozessdatenkommunikation</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Automatisierung ist heute gekennzeichnet durch hochgradig dezentrale Systeme, wobei z.T. Hunderte von Rechnern und Tausende von Sensoren und Aktoren in einer Anlage verteilt sind. Dies erfordert die Vernetzung aller Komponenten durch sogenannte Feldbussysteme. In der Vorlesung werden zunächst die Grundlagen der Datenkommunikation behandelt und anschließend die Techniken und Einsatzgebiete verschiedener Feldbusse erläutert. Da das Internet bzw. das Internetworking eine zunehmende Bedeutung für die Automatisierung erlangen, werden die grundlegenden Funktionsweisen ebenfalls behandelt. Gliederung:  Strukturen von Kommunikationssystemen, Topologien lokaler Netze  Philosophie des OSI-Referenzmodells  Protokolle der Bitübertragungsschicht  Protokolle der Sicherungsschicht  Gegenüberstellung von Feldbussystemen: Profibus, Interbus, CAN, Bitbus  Internet und Internetworking in der Automatisierung  Protokolle der TCP/IP Familie</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">90</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cd9a-e070-11ee-8efa-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">242032-003(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bauelemente der Leistungselektronik / Power Semiconductor Devices</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1. Besonderheiten leistungselektronischer Bauelemente 2. Halbleiterphysikalische Grundlagen 2.1 Eigenschaften der Halbleiter, physikalische Grundlagen 2.2 pn-Übergänge 2.3 Einführung in die Herstellungstechnologie 3. Halbleiterbauelemente 3.1 pin Dioden 3.2 Schottky-Dioden 3.3 Bipolare Transistoren 3.4 Thyristoren 3.5 MOS-Transistoren 3.6 IGBTs 4. Einführung in die Aufbau- und Verbindungstechnik</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">270</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cd9e-e070-11ee-9329-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">232033-003(Version04)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fahrzeuggetriebe</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Es wird der Leistungsbedarf eines Fahrzeugs geklärt und in Bedarfskennfeldern dargestellt. Aus dem Vergleich dieser Bedarfskennfelder mit dem Lieferkennfeld einer Antriebsmaschine ergeben sich vielfältige Anforderungen an die Kennungswandler. Fahrzeuggetriebe sind Ausprägungen solcher Kennungswandler mit verschiedenen Einzelkomponenten für Teilfunktionen, wie z. B. Anfahren mit und ohne Drehmomentwandlung, Wählen und Einlegen einer Getriebestufe, Gangwechsel mit oder ohne Zugkraftunterbrechung, Drehmomentverteilung zwischen mehreren Antrieben und Abtrieben, regeneratives Bremsen und Boosten über mindestens eine über das Getriebe mit dem Antriebsstrang verbundene E-Maschine.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cdb2-e070-11ee-b6bb-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">241031-011(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Regelungstechnisches Praktikum</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Praktikum zu den Inhalten der Lehrveranstaltungen Nichtlineare Regelung, Optimale Regelung, Modellbildung und Identifikation dynamischer Systeme 1 sowie Modellbildung und Identifikation dynamischer Systeme 2. Die Studenten wählen zu Beginn des Semesters, welche konkreten Versuche bzw. Miniprojekte bearbeitet werden.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cd9d-e070-11ee-87b6-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">232033-009(Version06)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brennstoffzellen und Brennstoffzellensysteme II</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Brennstoffzellenderivate  Elektrotechnik der Brennstoffzelle  Tests für die Brennstoffzelle  Brennstoffzellenantriebssysteme  Brennstoffzellenfahrzeuge  Hybridisierung von Brennstoffzellen-Fahrzeugen  mobile Wasserstoffspeicherung  Wasserstofferzeugung, Transport und Betankung (Infrastruktur)</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cdac-e070-11ee-a8d5-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">241031-005(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Modellbildung und Identifikation dynamischer Systeme 2</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einführung in die Systemidentifikation  Parametrische dynamische Modelle  Schätzverfahren (Bezeichnungen, Bias, Konsistenz, Ausgleichsrechnung, mengenbasierte Verfahren, Zustandsschätzverfahren, u.a.)  Optimierungsverfahren und -algorithmen  erweiterte Konzepte</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cd99-e070-11ee-8446-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">241031-007(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Optimale Regelung / Optimal Control</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Endlich dimensionale Optimierung Statische Optimierung Dynamische Optimierung Variationsprobleme mit endlichem Zeithorizont, LQ-Regelung Modelprädiktive Regelung Numerische Verfahren Anwendungen aus verschiedenen Bereichen</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cdc3-e070-11ee-89d6-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">231232-011(Version04)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fabrikökologie</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Im Modul werden Grundkenntnisse über ökologische Zusammenhänge beim Planen und Betreiben von Fabrikanlagen erworben. Die ökologische, wirtschaftliche und soziale Verantwortung des Ingenieurs wird im Rahmen der Gestaltung nachhaltiger Produktionsprozesse herausgestellt. An Beispielen werden typische betriebliche Umweltschutzmaßnahmen aufgezeigt und deren planerische Umsetzung behandelt. Einzelthemen sind u.a.: Umweltsystemwissenschaftliche Grundlagen Umweltproblemfelder im Industrieunternehmen Energieeffizienz und Ressourceneffizienz Umweltmanagementsystem (ISO bzw. EMAS) Prozess- und produktintegrierter Umweltschutz ökologieorientierte Fabrikplanung</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">90</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cdab-e070-11ee-adc0-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">241031-004(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Modellbildung und Identifikation dynamischer Systeme 1</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Modellbegriff  Methoden der Modellbildung  Blackbox- und Whitebox-Modelle  Modellvalidierung  Konkrete Beispiele aus Elektrotechnik, Mechanik, Thermodynamik, Biologie, Chemie</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cdc4-e070-11ee-a6f7-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">231231-002(Version03)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Erfolgsfaktor Mensch</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Arbeitsphysiologische Grundlagen  Methoden zur Ermittlung physiologischer Belastungen und Beanspruchungen  Ausgewählte Fähigkeitsänderungen durch Altern, Behinderung und Krankheit  Gesundheit im Arbeitsleben  Betriebliches Kompetenzmanagement  Ausgewählte Methoden und Instrumente zur Entwicklung von Selbst-, Sozial- und Methodenkompetenzen (z. B. Kommunikation, Führungskompetenz, Selbstmanagement)  Veränderungsprozesse</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cdbd-e070-11ee-be14-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">241033-104(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roboter-Sehen</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">In Vorlesung und Übung werden Inhalte des Roboter-Sehens behandelt. Zunächst werden Grundlagen der Bildverarbeitung und der Kamera-Kalibrierung sowie der Hand-Auge-Kalibrierung besprochen. Es folgen Signalverarbeitungsverfahren der Bildaufbereitung und Bildverbesserung. Anschließend werden Methoden der Merkmalserkennung thematisiert. Im zweiten Teil des Moduls werden Methoden des 3-dimensionalen Computer- Sehens vorgestellt. Dieses beinhaltet das Stereo-Sehen, den codierten Lichtansatz und weitere Verfahren zum Tiefensehen. Außerdem werden Algorithmen für die Segmentierung von Bildern und zur Klassifikation erörtert. Die Lageschätzung von Objekten zur Interaktion mit Robotern ist ein weiteres Thema der Vorlesung.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cdb9-e070-11ee-96db-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">241032-004(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zuverlässigkeit und funktionale Sicherheit</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zuverlässigkeit (Auftreten von Störungen ohne Gefährdung) und Sicherheit (Störungen mit Gefährdungspotential) spielen in der Automatisierung eine wichtige Rolle. Die Szenarien reichen vom Flugzeugabsturz und GAU im Kernkraftwerk bis zum Ausfall einer Fertigungsstraße oder der Qualitätsendkontrolle in der Produktion. Bei Rechnersystemen muss zwischen Hardware- und Softwarezuverlässigkeit unterschieden werden. Daneben spielt menschliches Versagen eine immer bedeutendere Rolle. Diese Aspekte werden in der Vorlesung qualitativ und quantitativ erörtert, wobei zur mathematischen Beschreibung Methoden der Wahrscheinlichkeitstheorie eingeführt und verwendet werden. Gliederung:  Begriffsdefinitionen von Zuverlässigkeit und Sicherheit  Mathematische Methoden zur Analyse von Zuverlässigkeit und Sicherheit  Berechnung der Zuverlässigkeit von Systemen anhand ihrer Komponenten  Failure Mode, Effect and Criticality Analysis  Besondere Aspekte der Softwarezuverlässigkeit  Maßnahmen zur Erhöhung der Zuverlässigkeit, redundante Systeme  Human Error: Menschliches Versagen, Ursachen und Gegenmaßnahmen</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cdb1-e070-11ee-9672-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">241031-010(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Seminar komplexe Systeme / Complex Systems Seminar</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Methoden der Analyse, Regelung und Identifikation komplexer vernetzter Systeme aus ausgewählten Anwendungsbereichen, z.B. Energiesysteme, Verfahrenstechnik, Automatisierungssysteme, Agrartechnik und Mechatronik</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cd9b-e070-11ee-9528-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">242031-007(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Traktions- und Magnetlagertechnik</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Traktionstechnik:  Spurführung, Rad-Schiene-Kontakt  Fahrwiderstände, Zugkraft, Antriebsleistung  Bahnstromversorgung  Fahrmotoren und deren Steuerung  Stromrichtertechnik Magnetlagertechnik:  Physikalische Grundlagen, Technische Anwendungen, Trends  Aufbau und Wirkungsweise aktiver Magnetlagerungen für Rotoren  Aufbau und Wirkungsweise aktiver Magnetlagerungen  Regelung aktiver Magnetlagerungen  Dynamik magnetgelagerter Rotoren  Lagerlose Motoren</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cdc6-e070-11ee-9867-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">240100-823(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Master-Arbeit</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gegenstand des Moduls ist die Erstellung der Masterarbeit zu einer ingenieurwissenschaftlichen Aufgabe, deren schriftliche Darstellung und eine mündliche Prüfung. Das Thema der Masterarbeit soll auf dem Gebiet der Elektromobilität liegen. Der Student wird dabei von einem wissenschaftlichen Betreuer der Fakultät unterstützt.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">900</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cdc2-e070-11ee-89c8-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">231232-003(Version06)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Projektmanagement (MB)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Projekte und Projektmanagement  Vorgehensmodelle und Projektdesign, Erfolgsfaktoren  Umfeld- und Stakeholderanalyse, Zieldefinition  Risikomanagement in Projekten  Projektorganisation  Projektstrukturierung, Leistungsobjekte  Projektplanung: Abläufe, Zeiten, Ressourcen, Kosten  Projektsteuerung  Information, Kommunikation, Dokumentation  Softwareunterstützung Die Veranstaltung baut auf einem international anerkannten Standard zum Projektmanagement, der International Competence Baseline (ICB) der IPMA/ GPM, auf.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cdae-e070-11ee-bfa7-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">241032-007(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Echtzeitverarbeitung</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Von den Programmen zur Steuerung und Regelung in der Automatisierung wird erwartet, dass sie viele Aufgaben gleichzeitig erledigen und die Ergebnisse rechtzeitig liefern. Diese softwaretechnische Problematik wird in dieser Vorlesung ausführlich behandelt. Eng damit verknüpft sind das Konzept nebenläufiger Tasks und die damit verbundenen Probleme der Synchronisation, die ebenfalls in der Vorlesung behandelt werden. Stichworte zum Inhalt: Probleme nebenläufiger, verteilter und echtzeitabhängiger Systeme; Task Konzepte; zeitgerechte Einplanung in Ein- und Mehrprozessorsystemen; Synchronisationsprobleme; Synchronisation von Prozessen mit Hilfe von Semaphoren, Monitoren und anderen Verfahren</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">90</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cd97-e070-11ee-9b05-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">242031-005(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Automatisierte Antriebe</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Modellierung elektromechanischer Systeme  Antriebskomponenten und -systeme  Hard- und Softwarekomponenten der Signalverarbeitung des Antriebssystems  Umrichterspeisung frequenzgesteuerter Antriebe  Pulssteuerverfahren zur Umrichterspeisung  Feldorientierte Regelung von Drehstrommaschinen  Wechselwirkungen von Stellglied und Motor</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">210</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cdbe-e070-11ee-9838-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">264032-207(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Recht und Technik (Technikrecht)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Technikrecht/Technologierecht/Recht neuer Technologien  Aufzeigen der Schnittstellen von Recht und Technik  Produktverantwortung/-haftung (zivil- und strafrechtliche Grundlagen – auch rechtsvergleichend)  Normung, Zertifizierung und Akkreditierung  Europäische und nationale Marktüberwachung  Aktuelle Themen mit technikrechtlichem Bezug (je nach Teilnehmerkreis), z. B. Cloud-Computing, E-Commerce, Elektromobilität, Industrie 4.0, Künstliche Intelligenz</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cda0-e070-11ee-bb00-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">244038-010(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Seminar Energiespeichersysteme</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Lehrveranstaltung vermittelt vertiefende Inhalte zu Energiespeichersystemen. Folgende Themenkomplexe sind Gegenstand der Lehrveranstaltungen:  Übersicht zu Energiespeicher und -wandler-Mechanismen und deren Anwendungen  Elektrochemische Grundlagen  Batterie: Zellaufbau, Zellmodul, Batteriesystem  Systemsicherheit  Simulation des elektrischen und thermischen Verhaltens  Diagnoseverfahren für elektrochemische Systeme  Alternative Speicher und Wandler: Doppelschichtkondensatoren, Brennstoffzellen, Redox-Flow Batterien, Hybride Zellkonzepte  Powermanagement Systeme</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cdb5-e070-11ee-978b-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">244038-005(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sensoren im Automobil</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Allgemeine Aspekte zum Einsatz von Sensoren im Automobil  Sensoren für das Motormanagement  Sensoren für das Fahrwerk  Sensoren für die aktive und passive Sicherheit (z. B. ABS, ESP)  Fahrerassistenzsysteme  Sensoren für die Luftgüteüberwachung  Abgassensoren  Sensoren für Beschleunigung, Kraft, Druck, Drehzahl  Selbstüberwachung und Selbstkalibrierung für Robustheit</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cdbb-e070-11ee-ada6-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243032-006(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Advanced Mobile and V2X Communication</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1. Zellulare Mobilfunksysteme Struktur von Mobilfunknetzen und grundlegende Probleme o zellularer Netzaufbau, Netzplanung o zellulare Handover (Verbindungsübergabe) Methoden o Aspekte des Mobilfunksystems der 3. Generation (UMTS) o Technologien für die Mobilfunkstandards LTE und 5G NR o 2. Lokale Funknetze für mobile Anwendungen und V2X Kommunikation Der Standard IEEE 802.11p/bd für mobile Anwendungen o Spezielle Ausbreitungsbedingungen und Netzorganisation o Anwendungsbeispiele o 3. Moderne Verfahren in drahtloser Nachrichtentechnik Ausbreitungsbedingungen o Eigenschaften des Fading-Kanals o Mehrträgerverfahren und Orthogonal Frequency Division Multiplexing o (OFDM) Fehlerschutzverfahren o Grundlagen der Schätztheorie o Fortgeschrittene Verfahren zur Kanalschätzung o MIMO-Systeme o Simulationsmethoden für Datenübertragungssysteme o</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">210</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cda4-e070-11ee-8e71-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">231232-012(Version04)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fabrikbetrieb im Automobilbau</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Modul vermittelt Wissen über wertschöpfende und nichtwertschöpfende Systemeinheiten im Automobilbau und deren komplexes Zusammenwirken. Untersetzt mit Beiträgen aus Forschung und Praxis werden schwerpunktmäßig die folgenden Themenbereiche bearbeitet:  Hauptprozesse im Automobilbau und Informationsprozesse  Produktentstehungsprozess und Anlaufmanagement  Best Practices  Wertschöpfungsnetzwerke und Cluster  Lieferantenmanagement  Geschäftsprozesse im Automobilbau  Ressourceneffiziente Produktionsprozesse</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">90</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#3d09cdb8-e070-11ee-bab2-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243031-003(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Schaltkreisentwurf 1</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einführung: Stand und Tendenzen der Mikroelektronik; Entwurfsprozess  Überblick über ASICs: anwenderprogrammierbare (PLDs, FPGAs); maskenprogrammierbare (Gate-Arrays, Standardzellen-Schaltkreise); Systems-on-Chip  Entwurfsmethoden: Spezifikation; Synthese; Simulation; Verifikation; Layout  Test: Bedeutung; Strategien; testfreundlicher Entwurf</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCElektromobilität"/>
+  </rdf:Description>
+</rdf:RDF>

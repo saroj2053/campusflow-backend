@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://tuc.web.engineering/module#"
+   xmlns:ns2="http://across/university#"
+   xmlns:ns3="http://tuc/course#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98e06d54-e070-11ee-bafe-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.1.2(571050)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computergraphik I</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Einführung in das Gebiet der generativen Computergraphik unter Bearbeitung folgender Themen:  Aufbau und Funktionsweise computergrafischer Systeme  Technische und ituiutive Farbmodelle  Rasterisierung  Mathematische Grundlagen  Clipping, Windowing und Sichtbarkeitsalgorithmen  Raumunterteilungsverfahren  Beleuchtungsmodelle In der Übung implementieren die Studierenden die wichtigsten Stufen einer Renderpipeline in einer Hochsprache (C++).</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98df809d-e070-11ee-857a-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.1.2</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hochfrequenztechnik und Photonik 1</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Wellenausbreitung entlang belasteter Übertragungsleitungen, Leitungsparamater  Leitungstransformation (Impedanz-Transformation)  Grundlagen und Anwendungen des Smith-Diagramms  Anpassungsmethoden und -schaltungen; CAD-Anwendungen  Dimensionierung verschiedener Übertragungsleitungen: Mikrostreifen- leitungen, Streifenleitungen, koplanare Leitungen, geschirmte Schlitzleitungen, Hohlleiter, Lichtwellenleiter; CAD-Anwendungen  Matrixdarstellung von linearen Komponenten und Systemen: Z-Matrix, Y- Matrix, S-Parameter-Matrix, ABCD-Matrix; CAD-Anwendungen  HF-Grundkomponenten und ihre Schaltungen</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">90</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98e06d4e-e070-11ee-b685-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.2.11</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Technologien für Mikro- und Nanosysteme</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Prozessschritte für Si MEMS/NEMS (Dotierung, Schichtabscheidung, Lithografie, 3D-Strukturierung, Abdünnen, Waferbonden)  Prozessschritte für Nicht-Si NEMS/MEMS (Schichtabscheidung, Spritzguss, Abformen, Montage)  Si-basierte Technologien (Volumentechnologie, Oberflächentechnologie, Technologien mit hohem Aspektverhältnis, Dünnschichtverkapselung)  Technologien für alternative Materialien (LIGA, Polymer-basierte Prozessabläufe)  Packaging und 3D-Integrationstechnologien  Messtechnik für MEMS/NEMS  Beispiele für Si MEMS (Spektrometer, Inertialsensoren, RF MEMS, Aktoren)  Beispiele für Nicht-Si MEMS (großflächige Arrays, fluidische Systeme, Lab on Chip)  Beispiele für Nanokomponenten und NEMS (Nanoresonatoren, Oberflächen- Plasmonen-Resonanz, Gitter im Sub-wavelength Bereich, Beispiele für intelligente Systeme)  Trends und Roadmaps</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98e06d5f-e070-11ee-9d14-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.1</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Master-Arbeit</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Modul beinhaltet die Erstellung der Masterarbeit zu einer ingenieurwissenschaftlichen Aufgabe, deren schriftliche Darstellung und eine mündliche Prüfung. Das Thema der Masterarbeit soll im inhaltlichen Zusammenhang mit einer der beiden Vertiefungsrichtungen Medizingerätetechnik und medizinische Mikrosysteme bzw. Bildverarbeitung und Telemedizin stehen. Der Student wird dabei von einem wissenschaftlichen Betreuer der Fakultät für Elektrotechnik und Informationstechnik oder der Fakultät für Informatik unterstützt.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">900</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98df809f-e070-11ee-9635-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.2.1</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Klein- und Mikroantriebe</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einsatzgebiete, Forderungen, Entwicklungstendenzen  Gleich- und Wechselstrommagnete, Schwingankermotoren  Gleichstrommotoren, Gleichstromlinearmotoren, Mehrkoordinatenantriebe, Elektronikmotoren, Kleininduktionsmotoren  Schrittmotoren: Bauformen, Momente, Kräfte, Lageabweichungen, Mikroschrittbetrieb, Ansteuerung, Leistungswandler, Linearschrittmotoren, Dynamik  Unkonventionelle Antriebe: Piezoelektrische Antriebe, Fluidtechnische Aktoren, Thermobimetalle, Memory-Legierungen, Magnetostriktive Aktoren  Praktika zu Parametern und Einsatzkriterien von Klein- und Mikroantrieben</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98e06d5e-e070-11ee-b3e6-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.2.15(565050)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Design of Software for Embedded Systems</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Vorlesung beschäftigt sich mit Entwicklungsmethoden für Software in eingebetteten Systemen. Dabei werden insbesondere folgende Aspekte behandelt:  Merkmale von nicht-eingebetteten und eingebetteten Systemen  Funktionale und nicht-funktionale Anforderungen an eingebettete Software (Zeitverhalten, Effizienz, Zuverlässigkeit, Wartbarkeit, Portabilität, etc.)  Programmierparadigmen für eingebettete Systeme (synchrone, zeitgesteuerte und schedulingbasierte Programmiersprachen)  Unterstützung durch Middleware und Betriebssystem Trends und Beispiele aus der Praxis</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98df80a3-e070-11ee-b050-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.2.5</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Präzisionsfertigung</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einführung in die Präzisionsfertigung: Einordnung, Prozessketten und Besonderheiten  Abtragende Verfahren: Einordnung, Elektrochemische Verfahren, Funkenerosion, Lasermaterial- bearbeitung  Spanende Verfahren: Einordnung, allgemeine Grundlagen und Grundlagen der Mikro- und Höchstpräzisionszerspanung, Zerspanung mit geometrisch bestimmter und unbestimmter Schneide</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98e06d53-e070-11ee-9e14-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.2.16,3.2.16</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forschungsseminar Medizintechnik/Medizininformatik</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Im Rahmen des Moduls werden zu einem vorgegebenen Forschungsfeld selbständig Einzelaspekte identifiziert und bearbeitet. Das Seminar orientiert sich dabei an den Schwerpunkten des Masterstudienganges Biomedizinische Technik. Die Studenten erarbeiten eigenständig ein Thema, stellen es in einer Präsentation zur Diskussion und verfassen anschließend eine Seminararbeit, welche den Kriterien einer wissenschaftlichen Arbeit entspricht.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98df80a1-e070-11ee-b76a-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.2.3</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sensorsignalverarbeitung</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Anforderungen an Sensoren und Messsysteme  Messsignale, Störeinflüsse und Schutzmaßnahmen  Modellieren von Sensorkennlinien  Parameterextraktionsverfahren  Kompensation von Einflusseffekten und Querempfindlichkeiten  Methoden der Selbstüberwachung und Selbstkalibrierung  Digitale Signalanalyse  Digitale Signalverarbeitung  Korrelationsmesstechnik</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98e06d50-e070-11ee-b3f6-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.2.13</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mess- und Prüftechnik für MST</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Grundlagen der Längen- und Profilmesstechnik  Prüf- und Messverfahren zum berührungslosen Messen von mikromechanischen Komponenten, Messtechnik zur Erfassung geometrischer Strukturdaten  Lichtoptische Messverfahren und hochauflösende Messverfahren (Mikroskopie, Fokussierungsmessverfahren, Interferenzmessverfahren, Rasterkraftmikroskopie)  Messtechnik zur Erfassung statischer und dynamischer Systemkennwerte (Auslenkung, Amplitude, Eigenfrequenz, Frequenzgang, Güte, Übertragungsfaktor, Zweikanalanalyse, FFT, Modalanalyse)  Schwingungsmesstechnik für Mikrostrukturen  Simulation der Systemeigenschaften auf der Grundlage von Messwerten mittels Modalanalyse  Modifikation und Simulation am modalen dynamischen Modell  Praktika zu Messverfahren in der Mikrosystemtechnik</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98df591b-e070-11ee-ba4b-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.4</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Monitoring von Vitalfunktionen</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Medizinische Notwendigkeit des Monitorings  Anforderungen an das Monitoring (medizinisch und technisch)  Arten von Monitoring (Anwendungen, Vor- und Nachteile)  Technische Umsetzung des Monitorings (Messmethoden, Aufbau der Systeme, Elektronik, Schirmung, EMV)  Praktische Untersuchungen an ausgewählten Monitoringsystemen, elektrische Messungen innerhalb der jeweiligen Schaltungen (z.B. bei EKG- Systemen)</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98e06d5a-e070-11ee-9090-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.2.6(578070)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mensch-Computer-Interaktion II</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Modul vertieft die Konzepte der Mensch-Computer-Interaktion I mit besonderem Fokus auf:  Ideation  Serious Games  Informationsvisualisierung  Ästhetik  Post-WIMP-Interfaces</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98e06d5c-e070-11ee-911c-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.2.11(573070)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neurokognition I</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Neurokognition ist ein neuer Zweig der Kognitionswissenschaft, in der die Konsequenzen aus den in der neurowissenschaftlichen Forschung der letzten Jahre gewonnenen Erkenntnissen für die Kognition gezogen werden. Diese Erkenntnisse stellen die Kognitionswissenschaft auf eine neue Grundlage. In der Vorlesung wird dargestellt, wie realistische neuronale Modelle generiert werden und für die Erforschung der Funktionsweise des menschlichen Gehirns genutzt werden können. Es wird gezeigt, wie typische intelligente Tätigkeiten wie Lernen, Aufmerksamkeitsausrichtung, Objekterkennung usw. als Operationen in Neuronennetzen erklärt werden können. Zum tieferen Verständnis erfordern die Übungen auch praktische Aufgaben am Rechner.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98df809e-e070-11ee-8f18-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.1.3</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zuverlässigkeit von Mikro- und Nanosystemen</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einführung und Motivation Zuverlässigkeit  Einführung Werkstoffe und Fertigungsprozesse in der Aufbau- und Verbindungstechnik  Grundlagen der Werkstoffe und ihres Deformations- und Ausfallverhaltens unter thermo-mechanischer Belastung  Mathematische Beschreibung mittels Vektoranalysis  Grundlagen der Zuverlässigkeitsbewertung  Grundlagen der Schadensmechanik  Bruchmechanik und Risskonzepte  Experimentelle Zuverlässigkeitsuntersuchungen und statistische Auswertung  Fehleranalytische Verfahren  Anwendungsbeispiele zur Zuverlässigkeit von Mikro- und Nanosystemen</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98df7b50-e070-11ee-950a-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.5(577070)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Softwareengineering</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Software beeinflusst unser tägliches Leben nachhaltig: Wir arbeiten am PC, benutzen unser Handy, sogar Autos und Waschmaschinen haben eine erstaunlich große Menge an Software zur Steuerung. Doch wie kann man sicherstellen, dass man gute Software baut? Wie kann man systematisch alle Kundenwünsche erfassen? Wie kann man sicherstellen, dass die Software möglichst reibungslos läuft? In diesem Modul werden systematisch die Phasen des Softwarelebenszyklus diskutiert. Dazu gehören Anforderungsanalyse, Modellierung, Implementierung, Testen sowie Wartung von Software. Dazu werden anhand von praktischen Beispielen und Diskussionen Herausforderungen und Lösungsansätze einzelner Phasen erarbeitet.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98e06d57-e070-11ee-9a76-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.2.3(565030)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Echtzeitsysteme</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Theorie und Praxis von Rechensystemen, die zur Lösung zeitkritischer Probleme eingesetzt werden. Folgende Themenkreise werden angesprochen: Zeitverwaltung, -standards, Uhren; Schedulingverfahren periodischer und aperiodischer Anforderungen; Ressourcenverwaltung, (priority inversion, ~ inheritance, ~ ceiling); Verwaltung von Massenspeichern; Caching und Hauptspeicherverwaltung; Fehlertoleranz in Echtzeitsystemen; echtzeitgeeignete Kommunikationsmechanismen und –protokolle; Prozessorarchitekturen für Echtzeitsysteme; Echtzeit-Betriebssysteme</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98df80a5-e070-11ee-b2b9-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.2.7,3.2.9</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kosten- und Erlösrechnung</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grundlagen der Kosten- und Erlösrechnung (Aufgaben, Aufbau und Systeme der Kosten- und Erlösrechnung); Bereiche der Kostenrechnung (Kostenarten-, Kostenstellen- und Kostenträgerrechnung); Systeme der Kosten- und Erlösrechnung (Teilkostenrechnung, Plankostenrechnungen)</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">90</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98e06d52-e070-11ee-824a-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.2.15(573180),3.1.1(573180)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neurocomputing</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neurocomputing behandelt Grundlagen bis hin zu anspruchsvollen Methoden der neuronalen Verarbeitung. Dafür werden mathematische Kenntnisse der linearen Algebra und der Statistik vertieft. Neurocomputing fokussiert sich im Gegensatz zu Neurokognition eher auf Neuronale Netze zur Lösung von Anwendungen, als denn der Erklärung der Funktion des Gehirns. Dabei können die behandelten Ansätze allerdings durchaus biologisch inspiriert sein. Themen des Moduls sind unterschiedliche Neuronenmodelle, Methoden des Lernens wie Deep Learning, Reservoir Computing, Self-Organizing Maps, Autoencoder und weitere aktuelle Methoden.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98e06d56-e070-11ee-b8bf-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.2.2(563050)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Datenbanken und Web-Techniken</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Basistechniken der Internetprogrammierung zum Zugriff auf Datenbanken, Datenbankabstraktionsschichten, semistrukturierte Daten, Web-Services</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98e06d4c-e070-11ee-8df4-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.2.9</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Integrierte analoge Schaltungstechnik</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Besonderheiten der integrierten analogen CMOS-Schaltungstechnik  Single-ended Verstärker  Referenzquellen  Operationsverstärkerschaltungen  Besonderheiten von mixed-signal Schaltungen  Switched Capacitor Grundschaltungen  Sonderschaltungen</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98df80a0-e070-11ee-901e-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.2.2</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gerätetechnik</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Konstruktionsmethodik (Analysieren und Gestalten von Geräten)  Funktionsgruppen der Gerätetechnik (Lager und Führungen, Achsen und Wellen, Gehemme und Gesperre, Anschläge, Bremsen und Dämpfer, Kupplungen, Getriebe und Energiewandler)  Praktika zu Funktionsgruppen der Gerätetechnik</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98df80a6-e070-11ee-83e6-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.2.8</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bauelemente der Mikro- und Nanotechnik</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> MOS-Transistoren mit Abmessungen im Sub-100 nm-Bereich  Neue MOS-Transistorkonzepte (Multi-Gate-Transistoren, FinFETs, etc.)  Single-Electron-Transistoren  Quantenbauelemente (Resonanz-Tunnel-Dioden RTDs usw.)  Bipolartransistoren mit Abmessungen im Sub-1 μm-Bereich  Carbon-Nanoröhren</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98e06d59-e070-11ee-b409-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.2.5(555070)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hardware/Software-Codesign I</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einblick in verschiedene Entwurfsmethodiken und -strukturierungen für Eingebettete Systeme  Überblick und Vergleich von Zielarchitekturen und -komponenten für Hardware/Software-Systeme  Ausgewählte Probleme der Hardware- und Softwaresynthese  Allgemeine Partitionierungsverfahren  Hardware/Software-Bipartitionierung</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98df8099-e070-11ee-a489-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.6(573030)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Einführung in die Künstliche Intelligenz</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Einführung in das Gebiet der Künstlichen Intelligenz unter Bearbeitung folgender Themen:  Intelligente Agenten  Problemformulierung und Problemtypen  Problemlösen durch Suchen  Problemlösen durch Optimieren  Logik erster Ordnung, Inferenzen und Planen  Probabilistische Methoden  Neuronale Netze  Informationstheorie  Lernen von Entscheidungsbäumen</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98df809a-e070-11ee-9872-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.7</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Techniken und Verfahren der Bildgebung</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Ultraschall, Röntgen, CT, MRT  Physikalische Grundlagen der Messverfahren  Nuklearmedizinische Grundlagen  Anwendungen der Bildgebung (Vor- und Nachteile der einzelnen Verfahren)  Auflösungsvermögen, Reproduzierbarkeit  Strahlenschutz  Aufarbeitung der Daten mittels Software, Darstellung der Messdaten</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98e06d51-e070-11ee-a609-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.2.14(573010),3.2.1(573010)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bildverstehen</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Modul gibt eine Einführung in das Bildverstehen, wobei besonders Mittel und Methoden der Künstlichen Intelligenz betrachtet werden. Schwerpunkt ist das Verstehen von Bildern.  Überblick zum Bildverstehen  Grundlagen der digitalen Bildverarbeitung  Bildvorverarbeitung  Bildsegmentierung  Merkmale von Objekten  Objekterkennung  Dreidimensionale Bildinterpretation  Bewegungsanalyse; Optischer Fluss</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98df591a-e070-11ee-976b-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.3</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mikrosystementwurf</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Entwurfsmethoden und Werkzeuge für die Mikrosystemtechnik (MST)  Modellierung heterogener Systeme mit konzentrierten Parametern  Verhaltensanalyse technischer Feldprobleme mit FEM  Makromodellierung komplexer Systeme durch Ordnungsreduktion  Verbindung von Komponenten- und Systementwurf Schwerpunkt ist die ganzheitliche Betrachtung verschiedener physikalischer Domänen während der einzelnen Phasen des Entwurfsprozesses. Anwendung finden kommerzielle Entwurfssysteme wie ANSYS/Multiphysics, Matlab/Simulink und Sprachen wie VHDL-AMS bzw. Verilog-A.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98e06d4d-e070-11ee-892d-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.2.10,3.2.14</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Robotersteuerungen A</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Grundlagen der Steuerung von Robotern: Regelung im Gelenkraum, im kartesischen Raum  Roboterdynamik  Robotersteuerungsarchitekturen (zentrale und dezentrale Steuerungen)  Computed-Torque-Ansätze  Gravitationskompensation  Active und Passive Compliance  Impedanz basierte Regelung  Hybride Robotersteuerungen, Kraft, Weg, Geschwindigkeit  Aktionsprimitive  Sichere Mensch-Roboter-Interaktion, Roboterbahnplanung</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98deeabe-e070-11ee-8798-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.1</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Angewandte Optik</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Grundlagen der Strahlen- und Wellenoptik  Physikalische und lichttechnische Größen und Kennwerte der technischen Optik  Bilderzeugung, Lichtführung und Abbildungsfehler  Aufbau und Funktionsweise optischer Komponenten und Systeme</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98e06d5d-e070-11ee-a6d8-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.2.12(571110)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computergraphik II</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fortsetzung der Einführung in die Computergraphik:  Echtzeitrendering,  fortgeschrittene Texturierungsverfahren, Multi-Texturing,  Generierung von Schatten,  Volumenvisualisierung,  globale Beleuchtungsverfahren und -effekte, physikalisch basiertes Rendering,  spezielle Modellierungstechniken. Die Übung vertieft das erworbene Wissen durch das Implementieren ausgewählter Verfahren unter Verwendung eines zeitgemäßen graphischen Interfaces, z.B. OpenGL.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98df809b-e070-11ee-b741-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.8</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Medizinrecht und Ethik</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Medizinproduktegesetz, Medizinprodukte-Betreiberverordnung, Medizin- geräteverordnung  Richtlinien für klinische Studien  Bestimmungen und Verfahren zur Einführung neuer Medizingeräte  Prüfarztbroschüre, Zertifizierung  Ethische Aspekte bei der Entwicklung und dem Einsatz von Medizintechnik sowie der Durchführung medizinischer Studien</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98e06d55-e070-11ee-b93d-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.1.3(578170)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Medienretrieval</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Medienretrieval beschäftigt sich mit der Suche in multimedialen Datenbeständen mit besonderem Fokus auf:  Retrieval-Prozess  Retrieval-Modelle  Metadaten  Evaluation von Retrieval-Systemen  Metadatengenerierung</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98e06d5b-e070-11ee-b4f4-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.2.10(565130)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Verlässliche Systeme</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Begriffe und Metriken der Verlässlichkeit  Störverhalten  Entwurfsmuster für Fehlertoleranz  Analyse von Verlässlichkeitseigenschaften  Diagnose  Ansätze zur Erhöhung der Verlässlichkeit in Hard- und Softwareware</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98df809c-e070-11ee-86cd-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.1.1</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mikrosysteme für die Medizin</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einsatzmöglichkeiten von Mikrosystemen (MEMS) in der Medizin und Medizintechnik  Anforderungen / Besonderheiten beim Einsatz von Mikrosystemen im medizinischen Umfeld  Aufbau und Wirkprinzipien medizinischer MEMS  Entwurf / Simulation</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98df80a2-e070-11ee-b7be-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.2.4(578050),3.2.7(578050)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mediencodierung</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Es werden zentrale Aspekte der Informationstheorie, Codierung medialer Daten und Kompressionsalgorithmen besprochen. Ferner wird diskutiert, wie diese bei der Codierung einzelner Medientypen Verwendung finden.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98e06d58-e070-11ee-9795-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.2.4(571250)</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Virtuelle Realität</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Einführung in das Gebiet der Virtuellen Realität (VR) unter Bearbeitung folgender Themen:  Grundbegriffe, Historie und Anwendungsfelder,  Aufbau und Funktionsweise von VR-Systemen,  Modellierung und Implementation Virtueller Welten, ihre Bestandteile, Struktur und Schnittstellen,  Stereoskopische Bilderzeugung und technische Separationsverfahren,  Paralleles und verteiltes Rendern,  Mehrsegmentprojektionen und immersive Systeme,  3DoF und 6DoF-Tracking,  Haptik- und Force-Feedback. In der Übung implementieren die Studenten die wichtigsten Verfahren und Algorithmen in einer Hochsprache.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98e06d4f-e070-11ee-8646-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.2.12,3.2.13</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HF-Abbildungssysteme in der Medizin</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grundlagen der Abbildungsverfahren:  Generierung und Beschreibung diverser Hochfrequenz-Wellen  Modellierung von RF-Wellen und Ultraschallwellen  Wellenausbreitung in der Materie  Prinzip des Streuungsverfahrens und der Wellenimpedanz und ihre Anwendungen  Fourier-Darstellung von Abbildungssystemen  Inverse-Verfahren zur Bildgenerierung Technik der Abbildungssysteme:  Systemtechnik der MRI (Magnetic Resonance Imaging) Systeme  Verarbeitung von MRI-Signalen  MRI-Abbildungsverfahren – Beispiele aus der Praxis  Systemtechnik der Ultraschall-Abbildungssysteme  Verarbeitung von Ultraschall-Signalen  Ultraschall-Abbildungsverfahren – Beispiele aus der Praxis  Sensor-Fusion in der Medizin</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98df80a4-e070-11ee-92ff-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.2.6,3.2.8</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Produktergonomie</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Benutzerfreundlichkeit, intuitives Bedienen, Selbsterklärend sind Schlagworte, mit denen Produkte gerne beworben werden, und wie Kunden sich vorwiegend neue Erzeugnisse wünschen. In der Praxis sieht es meist anders aus: dicke Gebrauchsanleitungen nutzen nur dem, der sie liest. Es gibt eine Vielzahl an Regeln zur Produktgestaltung – häufig sind diese nicht ausreichend bekannt oder sie werden hinten angestellt und gar nicht beachtet. Ebenso existiert hier weiterhin Forschungsbedarf. In einer semesterbegleitenden Projektarbeit werden die Analyse spezieller Bedienaufgaben sowie die Gestaltung einer Mensch-Maschine-Schnittstelle durchgeführt. Schwerpunkte der Lehrveranstaltung sind:  Systemergonomie, Gestaltung von ergonomischen Produkten  Menschliche Zuverlässigkeit  Versuchsdesign und statistische Auswertung  Usability Engineering</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#98df4a9d-e070-11ee-81cb-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.2</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Intelligente Sensorsysteme</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Grundlagen intelligenter Sensorsysteme  Sensoreigenschaften  Strukturen von Sensorsystemen  Störeinflüsse und Schutzmaßnahmen  Sensorsignale  Messdatenerfassung  Sensorschnittstellen und Messdatenerfassung  Reale Verstärker und Verstärkerschaltungen  Fortgeschrittene Verfahren der Analog-Digital-Umsetzung  Impedanzspektroskopie  Ausgewählte Sensoranwendungen</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">210</ns1:hasWorkLoad>
+    <ns2:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCBiomedizinischeTechnik"/>
+  </rdf:Description>
+</rdf:RDF>

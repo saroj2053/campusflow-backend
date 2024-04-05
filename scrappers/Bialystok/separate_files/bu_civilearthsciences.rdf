@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://tuc.web.engineering/module#"
+   xmlns:ns2="http://tuc/dept#"
+   xmlns:ns3="http://across/university#"
+   xmlns:ns4="http://tuc/course#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#ISFCEE00213W">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Technology and organization of sanitary works</ns1:hasName>
+    <ns1:hasLanguage rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</ns1:hasLanguage>
+    <ns1:hasProgrammeType rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns1:hasProgrammeType>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100</ns1:hasWorkLoad>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00213W</ns1:hasModuleNumber>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Technology of works and their scope in sanitary engineering. Technical conditions for the performance and acceptance of sanitary works. Earthworks. Types, execution, drainage of excavations. Work organization methods. Construction site development. Specialist workshop: Bill of quantities. Basics of costing. Bill of quantities and cost estimate for the selected internal sanitary installation and selected sanitary network. Ground mass balance using the squares method.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</ns1:hasCreditPoints>
+    <ns4:hasCourse rdf:resource="http://tuc/course#BUCES"/>
+    <ns2:hasDept rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Civil and Earth Sciences</ns2:hasDept>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns1:hasName>
+    <ns1:hasLanguage rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</ns1:hasLanguage>
+    <ns1:hasProgrammeType rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns1:hasProgrammeType>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100</ns1:hasWorkLoad>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns1:hasModuleNumber>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: types of sanitary installations and networks, materials used for their construction, methods of pipe connections, metals and alloys of materials, and plastics used in environmental engineering Specialist workshop: Practical knowledge of materials used in the construction of sanitary networks and installations, pipe connections, elements of selected sanitary installations.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</ns1:hasCreditPoints>
+    <ns4:hasCourse rdf:resource="http://tuc/course#BUCES"/>
+    <ns2:hasDept rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Civil and Earth Sciences</ns2:hasDept>
+    <ns3:hasUniversity rdf:resource="http://across/university#BU"/>
+  </rdf:Description>
+</rdf:RDF>

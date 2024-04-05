@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://tuc.web.engineering/module#"
+   xmlns:ns2="http://tuc/course#"
+   xmlns:ns3="http://across/university#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e789c136-e070-11ee-b7d5-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.3.4</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sustainability Management/Environmental Management Accounting</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Modul gibt zunächst eine allgemeine Einführung zum Themengebiet Nachhaltigkeit. Anschließend werden dessen Verankerung im Unternehmen, insbesondere im Management näher untersucht und geeignete Instrumente und Methoden vertiefend dargestellt. Einzelthemen sind u. a.:  Nachhaltigkeit – Notwendigkeit, Begriffe und Modelle  Nachhaltigkeitsmanagement und seine Verankerung in (bestehende) betriebliche Managementsysteme  Instrumente und Methoden des Nachhaltigkeitsmanagements, insbesondere aus dem Bereich des Environmental Management Accounting</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e7875792-e070-11ee-b0f7-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.8</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Englisch in Studien- und Fachkommunikation V (Niveau C1)</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vermittlung erweiterter Kenntnisse und Fertigkeiten in der wissenschaftlich- fachsprachlichen Anwendung der englischen Sprache mit Fokus auf den linguistisch-stilistischen Anforderungen einer fachsprachlichen Arbeitsumgebung; Die Ausbildung orientiert sich an der Sprachkompetenzstufe C1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GER) und beinhaltet eine fachsprachliche Komponente.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e7875795-e070-11ee-8d33-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.11</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Französisch II (Niveau A2)</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Erweiterung und Festigung der Lexik und Grammatik  Landeskundliche/kulturelle Besonderheiten  Lexik: Ausbildung, Familie, Hobbys, Freizeit und Beruf  Grammatische Strukturen: (un)regelmäßige Verben, Komparativ des Adjektivs und Adverbs, Modalverben, reflexive Verben, Possessivpronomen, Demonstrativbegleiter, direkte und indirekte Objektpronomen, Adverbialpronomen y und en, Relativpronomen, futur composé, Gegenüberstellung von imparfait und passé composé  Kommunikationsstrukturen: über Gewohnheiten reden, Vorschläge machen, Pläne machen, über Erfahrungen berichten und diese bewerten Die Ausbildung orientiert sich an der Sprachkompetenzstufe A2 des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GER).</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e787578e-e070-11ee-a77c-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.4</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Deutsch als Fremdsprache III (Niveau B1)</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Übungen zur Erweiterung der Lexik und Verbesserung der Sprechfertigkeit  Kommunikative Situationen und Aufgaben zu Themen wie Zeit und Zeitverschwendung, Freizeit, Tagesablauf, Studium, Arbeit und Beruf, moderne Medien  Wiederholung und Festigung der Basisgrammatik und Vermittlung weiterer grammatischer Strukturen, u.a. Passiv, Nebensätze Die Ausbildung orientiert sich an der Sprachkompetenzstufe B1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GER).</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e787578d-e070-11ee-acd3-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.3</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Deutsch als Fremdsprache II (Niveau A2)</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Erweiterung und Festigung der Lexik u.a. zu Themen wie Ausbildung, Tätigkeiten, Hobbys, Freizeit und Beruf  Entdeckung und Übung neuer grammatischer Strukturen, z.B. trennbare und untrennbare Verben, reflexive Verben, Festigung der Zeitformen, Übungen zur Wortstellung in verschiedenen Satzkonstruktionen  Übungen zur deutschen Phonetik Die Ausbildung orientiert sich an der Sprachkompetenzstufe A2 des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GER).</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e789c139-e070-11ee-a0bf-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.3.7</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital Ergonomics</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Um Arbeit produktiv sowie gesund, motivierend und förderlich zu gestalten, gilt es, Arbeitsbedingungen an die physiologischen, psychischen und kognitiven Voraussetzungen und Fähigkeiten des Menschen anzupassen. Die Lehrveranstaltung stellt dazu über Selbstlernmaterial arbeitswissenschaftlich begründete Analyse- und Gestaltungskonzepte vor und vermittelt in Seminar und Praktikum Fach- und Methodenkompetenzen, um die ergonomischen Konzepte mit Hilfe fortgeschrittener digitaler Werkzeuge anzuwenden. Schwerpunkte sind  grundlegende Konzepte der ergonomischen Arbeitsanalyse und -gestaltung  ausgewählte Methoden der ergonomischen Arbeitsanalyse und -gestaltung (z. B. in den Bereichen Anthropometrie, Körperkräfte, Körperhaltung, Vorgabezeiten)  3D-Modellierung von Arbeitssystemen  Modellierung mit Digitalen Mensch-Modellen  ergonomische Analysen mit Digitalen Mensch-Modellen  Ableiten ergonomischer Verbesserungsmaßnahmen an einem Fallbeispiel</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#5d5e2513-d9b6-11ee-83c4-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e787579d-e070-11ee-9f67-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.1.6,3.4.7</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Composite-based Hybrid Technologies</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">In den Vorlesungen werden die Grundlagen zur Anwendung der faserverstärkten Kunststoffe vermittelt. Aufbauend auf den Grundprinzipien der Faserverbunde werden die einzelnen Komponenten Faser, Matrix und Interface näher erläutert. Über Halbzeugformen, Faserverbundbauweisen und einer werkstoffmechanischen Charakterisierung werden die Grundlagen zur Strukturanalyse von anisotropen Verbunden sowie die Auslegung von Schichtverbunden erklärt. Dem schließen sich Ausführungen zu Entwurf und Auslegung, Verbindungs- und Krafteinleitungstechniken sowie die grundlegenden Fertigungstechnologien von Faserverbunden an. Die Lehrveranstaltung wird abgerundet mit dem Thema Naturfaserverbunde und Recycling. Eine Übung ergänzt die Lehrinhalte.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#5d5fbec2-d9b6-11ee-b638-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e789c13a-e070-11ee-9bc7-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.3.8</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Instrumentation</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Vorlesung Instrumentation vermittelt die Vorgehensweise und die speziellen Anforderungen der Erfassung der Mensch-Umwelt-Interaktion mit messtechnischen Einrichtungen. Es wird das prinzipielle Vorgehen zur Auswahl geeigneter Hardware, Software und Methoden für unterschiedliche Messaufgaben sowie der entsprechende Entwurf und Aufbau geeigneter Messketten vermittelt.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#5d5e2513-d9b6-11ee-83c4-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e7875790-e070-11ee-9da3-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.6</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Deutsch als Fremdsprache V (Niveau C1)</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Kommunikative Situationen und Aufgaben zu interkulturellen Themen und zu studien- und berufsorientierten Sachverhalten und Situationen  Vermittlung von Unterschieden mündlicher und schriftlicher Kommunikation  Festigung der grammatikalischen Formen von Konjunktiv I und Konjunktiv II, Funktionsverbgefügen, Angabesätzen und nominalen Angaben der deutschen Sprache, von Varianten des subjektiven Gebrauchs der Modalverben Die Ausbildung orientiert sich an der Sprachkompetenzstufe C1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GER).</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e789c130-e070-11ee-93d3-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.2.6</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Media Physics</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Lehrveranstaltung gibt einen tieferen Einblick in die Zusammenhänge von Information und physikalischen Medien im Allgemeinen. Die Vorlesung beinhaltet: Strukturen und deren Herstellung, Charakterisierung und Eigenschaften, Information und Modulation, Rauschen und Rauigkeit, Kodierung, Skalen, Komplexität und Emergenz, Definitionen von Information, Entropie, Ordnung, u.a.m. Im Seminar erarbeiten die Studenten mit Hilfe von aktuellen wissenschaftlichen Veröffentlichungen aus dem Themenfeld der Vorlesung Einzelthemen und präsentieren und diskutieren die Ergebnisse in Seminarbeiträgen.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e789c13d-e070-11ee-becf-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.4.4</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Efficient Process Chains</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Modul vermittelt Grundlagen und Vorgehensweisen zur Gestaltung ressourceneffizienter Prozesse und Prozessketten. Nach einem Überblick über Methoden zur Strukturierung von Fertigungsprozessen sowie der Technologie- und Fertigungsplanung werden technologische Grundlagen zu ausgewählten spanenden, abtragenden und umformenden Fertigungsverfahren mit Beispielen aus den Bereichen Gewindeherstellung, Hart- und Unrundbearbeitung, Tieflochbohren, Trockenbearbeitung, Entgraten, Gratvermeidung u. a. vermittelt. Diese werden hinsichtlich ihrer Ressourceneffizienz im Kontext der gesamten Prozesskette bewertet und verglichen. Anschließend werden Prozessketten und Betriebsmittel zur Herstellung rotationssymmetrischer und prismatischer Bauteile aus den Bereichen Maschinenbau und Automobilproduktion erläutert und an konkreten Beispielen vertieft.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#5d56b2dd-d9b6-11ee-b9dd-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e789c12d-e070-11ee-893e-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.2.2</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Printed Electronics &amp; Special Topics of Functional Printing</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Lehrveranstaltung Printed Electronics gibt eine Übersicht über die spezifischen Grundlagen der gedruckten Elektronik vom Material über das Bauteil bis zum System. Die Vorlesung beinhaltet: Materialien der gedruckten Elektronik, z. B. Nanomaterialien, Polymere, Small molecules, für leitende, halbleitende, sensorische u.a. Funktionen, Schichtaufbau, Devicefunktion und -charakterisierung, verschiedene Devices wie Transistoren, Solarzellen, Lautsprecher, Dioden, Sensoren, Batterien, Schalter, u.a., Interconnects &amp; Vias. Im Seminar Special Topics of Functional Printing werden spezielle aktuelle Themen der Wissenschaft und Technik aus dem Gebiet der Printed Functionalities in studentischen Seminarvorträgen sowie Gastvorträgen interner und externer wissenschaftlicher Referenten vorgetragen.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e7875799-e070-11ee-9e63-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.1.2</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Applied Modelling and Simulation in Solid Mechanics I</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Im Modul werden zunächst die Grundlagen der linearen Kontinuumsmechanik und der Materialmodellierung behandelt. Darauf aufbauend erfolgt eine Einführung in die lineare Finite- Elemente-Methode, wobei der Schwerpunkt auf der Anwendung kommerzieller FEM-Programme liegt.  Darstellungsweise und Rechenregeln von Tensoren  Invarianten, Eigenwerte und Eigenvektoren  Verzerrungs- und Spannungstensoren  Rheologische Ersatzmodelle, Elastizität, Viskoelastizität  Lösungsalgorithmus der linearen FEM  Elementtypen und numerische Integration</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e7875791-e070-11ee-8bfa-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.7</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Englisch in Studien- und Fachkommunikation III (Niveau C1)</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vertiefung des Fachwortschatzes in ausgewählten Teilgebieten und systematische Erweiterung des allgemeinen Wortschatzes mit Bezug auf studien- und berufsorientierte sowie interkulturelle Sachverhalte, Leiten von Beratungen und Diskussionen, Halten von Vorträgen; Die Ausbildung orientiert sich an der Sprachkompetenzstufe C1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GER) und beinhaltet eine fachsprachliche Komponente.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e789c13c-e070-11ee-a033-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.4.3</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Machining Technologies</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vermittelt werden fortgeschrittene Kenntnisse zur spanenden Bearbeitung. Aufbauend auf den Verfahrensgrundlagen wird insbesondere auf die Gestaltung effizienter Prozesse eingegangen. Hierbei stehen die zielorientierte Auswahl der entscheidenden Systemgrößen und die Ermittlung der Prozesseinstellgrößen im Mittelpunkt. Die Werkzeugauswahl und die spezifische Festlegung der Schnittparameter sind dabei die Schwerpunkte. Die Methoden der CNC Bearbeitung werden anhand von Verfahrensbeispielen anwendungsbezogen gelehrt. Ziel ist die selbstständige Prozessauslegung von Dreh,- Fräs- und Wasserstrahlprozessen einschließlich Umsetzung. Abschließend werden die Trends in der spanenden Bearbeitung diskutiert. Qualifizierungs: Nach Abschluss des Moduls sind die Studenten in der Lage,  spanende Verfahren hinsichtlich der zu fertigenden Formelemente auszuwählen,  Systemgrößen wie beispielsweise Werkzeuge und Spanntechnik bauteilbezogen auszuwählen,  Prozesseinstellgrößen zielorientiert zu ermitteln,  NC-Bearbeitungsprogramme mit verschiedenen Methoden selbst zu erstellen,  Fräsprozesse hinsichtlich der Kriterien Kosten und Qualität zu optimieren,  die aktuellen Trends in der Zerspanung zu beurteilen. Lehrformen Lehrformen des Moduls sind Vorlesung, Übung und Praktikum.  V: Machining Technologies (1 LVS)  Ü: Machining Technologies (1 LVS)  P: Machining Technologies (2 LVS) Voraussetzungen für die Kenntnisse zu Fertigungsverfahren Teilnahme (empfohlene Kenntnisse und Fähigkeiten) Verwendbarkeit des Moduls --- Voraussetzungen für die Die Erfüllung der Zulassungsvoraussetzung für die Prüfungsleistung und die erfolgreiche Vergabe von Ablegung der Modulprüfung sind Voraussetzungen für die Vergabe von Leistungspunkten. Leistungspunkten Zulassungsvoraussetzung ist:  Modul 1.1 Mathematics for Engineering Science Modulprüfung Die Modulprüfung besteht aus einer Prüfungsleistung:  120-minütige Klausur zu Machining Technologies (Prüfungsnummer: 33641) Leistungspunkte und Noten In dem Modul werden 5 Leistungspunkte erworben. Die Bewertung der Prüfungsleistung und die Bildung der Modulnote sind in § 10 der Prüfungsordnung geregelt. Häufigkeit des Angebots Das Modul wird in jedem Studienjahr im Wintersemester angeboten. Arbeitsaufwand Das Modul umfasst einen Gesamtarbeitsaufwand der Studenten von 150 AS. Dauer des Moduls Bei regulärem Studienverlauf erstreckt sich das Modul auf ein Semester. 1857</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#5d5e2513-d9b6-11ee-83c4-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e7875793-e070-11ee-b696-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.9</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Englisch in Studien- und Fachkommunikation VI (Niveau C1)</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Selbstständige Recherche, Lesen und sprachliche Auswertung fachspezifischer Texte sowie Anwendung in der fachlichen Diskussion. Vertiefung des akademischen/berufsspezifischen Wortschatzes im Fachgebiet, Leiten von Beratungen und Diskussionen in einer fachsprachlichen Arbeitsumgebung; Die Ausbildung orientiert sich an der Sprachkompetenzstufe C1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GER) und beinhaltet eine fachsprachliche Komponente.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e789c135-e070-11ee-b9a1-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.3.3</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Life Cycle-oriented Management</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Modul gibt zunächst einen Überblick über Lebenszyklusmodelle und -konzepte. Anschließend werden der strategischen Managementebene zuzuordnende lebenszyklusbezogene Gestaltungsaufgaben und bei diesen einsetzbare Instrumente vorgestellt. Einen Schwerpunkt bilden ausgewählte lebenszyklusbezogene Entscheidungsmodelle und Methoden wie:  Life Cycle Costing/Total Cost of Ownership  Dynamische Investitionsrechnung für Vorteilhaftigkeits-, Nutzungsdauer- und Ersatzzeitpunktentscheidungen  Ansätze zur Einbeziehung von Steuern  Flusskostenrechnung  Wertstromdesign  Life Cycle Assessment</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e789c13b-e070-11ee-bdff-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.4.1</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Joining Technologies and Strategies</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Modul vermittelt Grundlagen zu industriell eingesetzten Fügetechniken und deren Anwendungsmöglichkeiten. Behandelt werden kraft-, form- und stoffschlüssige Fügetechnologien, werkstofftechnische Aspekte von Fügevorgängen sowie Möglichkeiten zur Charakterisierung von Verbindungseigenschaften. Qualifizierungs: Die Studenten werden befähigt, Fügetechniken für verschiedene Anwendungsszenarien unter Berücksichtigung technologischer, werkstofftechnischer und gestalterischer Aspekte auszuwählen. Lehrformen Lehrformen des Moduls sind Vorlesung und Übung.  V: Joining Technologies and Strategies (2 LVS)  Ü: Joining Technologies and Strategies (1 LVS) Voraussetzungen für die keine Teilnahme (empfohlene Kenntnisse und Fähigkeiten) Verwendbarkeit des Moduls --- Voraussetzungen für die Die Erfüllung der Zulassungsvoraussetzungen für die Prüfungsleistung und die erfolgreiche Vergabe von Ablegung der Modulprüfung sind Voraussetzungen für die Vergabe von Leistungspunkten. Leistungspunkten Zulassungsvoraussetzung ist:  Modul 1.1 Mathematics for Engineering Science und folgende Prüfungsvorleistung (unbegrenzt wiederholbar):  bestandene Übungsaufgabe in der Übung Joining Technologies and Strategies. Bestanden bedeutet, dass mindestens 50 % der Bewertungspunkte erreicht wurden. Modulprüfung Die Modulprüfung besteht aus einer Prüfungsleistung:  90-minütige Klausur zu Joining Technologies and Strategies (Prüfungsnummer: 32715) Leistungspunkte und Noten In dem Modul werden 5 Leistungspunkte erworben. Die Bewertung der Prüfungsleistung und die Bildung der Modulnote sind in § 10 der Prüfungsordnung geregelt. Häufigkeit des Angebots Das Modul wird in jedem Studienjahr im Sommersemester angeboten. Arbeitsaufwand Das Modul umfasst einen Gesamtarbeitsaufwand der Studenten von 150 AS. Dauer des Moduls Bei regulärem Studienverlauf erstreckt sich das Modul auf ein Semester. 1856</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e789c133-e070-11ee-aac3-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.3.1</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Resource Management: Challenges for Political Processes</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Modul vermittelt Kenntnisse über die politische Auswirkung von Ressourcenverfügbarkeit und -bedarf. Darauf aufbauend werden Herausforderungen für die politischen Prozesse des Ressourcenmanagements analysiert.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e7875797-e070-11ee-99db-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.13</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Spanisch II (Niveau A2)</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Erweiterung und Festigung der Lexik und Grammatik  Landeskundliche/kulturelle Besonderheiten  Lexik: Ausbildung, Familie, Hobbys, Freizeit und Beruf  Grammatische Strukturen: (un)regelmäßige Verben, Modalverben, reflexive Verben, Possessivpronomen, direkte und indirekte Personalpronomen, Relativpronomen, Gegenüberstellung von pretérito indefinido und perfecto  Kommunikationsstrukturen: über Gewohnheiten reden, Vorschläge machen, Pläne machen, über Erfahrungen berichten und diese bewerten Die Ausbildung orientiert sich an der Sprachkompetenzstufe A2 des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GER).</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e787579a-e070-11ee-ba6e-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.1.3,3.2.3</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Surface and Interface Engineering</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Modul umfasst die Oberflächen- und Beschichtungstechnik sowie die Gestaltung von Grenzflächen in hybriden Verbunden. Dabei wird der Schwerpunkt auf das Verständnis von Prozess-Struktur-Eigenschaftsbeziehungen gelegt. Es werden Kenntnisse über alle wesentlichen Verfahren zur Erzeugung metallischer, anorganisch-nichtmetallischer und organischer Schichten bzw. Oberflächenstrukturen vermittelt. Ausgehend vom komplexen Anforderungsprofil an Oberflächen- und Grenzflächen durch mechanische, tribologische, korrosive und thermische Beanspruchung werden Strategien zu deren anforderungsgerechten Gestaltung behandelt.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e789c12a-e070-11ee-82c1-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.1.7</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Polymer-based Hybrid Structures</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Lehrveranstaltung vermittelt die Grundlagen von biobasierten Kunststoffen von der Rohstoffbasis und Synthese, der Verarbeitung bis hin zu deren Eigenschaften und Anwendungen. Darüber hinaus erfolgt die Wissensvermittlung zu biobasierenden Verbundwerkstoffen aufbauend auf der Naturfasergewinnung und deren Eigenschaften über Naturfaserhalbzeuge und -compounds, deren Verarbeitung zu Verbundbauteilen bis hin zu deren Entsorgung und Recycling. Des Weiteren werden den Studenten Grundlagen für die Gestaltung der Faser-Matrix-Grenzfläche, welche entscheidend für die Qualität und Eigenschaften der Faserkunststoffverbunde sind, vermittelt. Die Lehrveranstaltung bietet einen Überblick über die physikalischen und chemischen Eigenschaften textiler Oberflächen bzw. Matrix-Grenzflächen, die Möglichkeiten der gezielten Aktivierung, Funktionalisierung und Modifizierung der äußeren Materialschichten sowie Materialkombinationen und deren Kompatibilität. Praktika zur Verarbeitung von biobasierten Kunststoffen und Verbundwerkstoffen sowie zur beispielhaften Ermittlung der physikalischen und chemischen Oberflächeneigenschaften ergänzen den Lehrplan.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e789c141-e070-11ee-9154-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Master Project with colloquium</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Im Rahmen dieses Modules wird die Masterarbeit erstellt und in einem Kolloquium präsentiert und verteidigt. Die Lösungswege sind mit dem wissenschaftlichen Betreuer abzustimmen.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">900</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e789c138-e070-11ee-bff3-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.3.6</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Innovation and Value Creation</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nicht zuletzt durch die neuen Möglichkeiten des Internets, sozialer Netzwerke und einer zunehmenden Rechnerdurchdringung (Pervasive Computing) ändern sich Innovationsverhalten und Wertschöpfungsketten. Die Lehrveranstaltung stellt dazu insbesondere das Konzept der Interaktiven Wertschöpfung und verwandte Ansätze vor. Die Studierenden erhalten die Möglichkeit, die Auswirkungen solcher Konzepte auf das strategische und operative Management technologieorientierter Unternehmen und die Arbeitsorganisation der Zukunft zu reflektieren und zu diskutieren. Schwerpunkte sind  Innovation Management Processes  Collaborative Innovation  Interaktive Wertschöpfung  Open Innovation</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#5d5e2513-d9b6-11ee-83c4-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e787579c-e070-11ee-99eb-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.1.5</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Calculation of Anisotropic Composite Materials</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">In der Lehrveranstaltung werden im ersten Schritt die elastizitätstheoretischen Grundlagen für anisotropes Materialverhalten der Einzelschicht vermittelt, um darauf aufbauend die Mehrschichttheorie abzuleiten. Die Mehrschichtverbunde aus faserverstärkten Materialien stellen vor allem in der Luft- und Raumfahrt, im Fahrzeugbau und im Allgemeinen Maschinenbau zukunftsweisende Leichtbaulösungen dar. Mit der klassischen Laminattheorie als mathematisches Handwerkszeug erlernen die Studenten das komplexe Spannungs- und Verformungsverhalten ebener Flächentragwerke aus Faser-Kunststoff-Verbunden (FKV) infolge mechanischer, thermischer und medienbedingter Belastung zu erfassen. Im Weiteren werden pauschale sowie bruchtypbezogene Versagenshypothesen vermittelt, die in unterschiedlichen Auslegungskonzepten zur Anwendung kommen.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#5d5ce4a8-d9b6-11ee-ba2f-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e789c131-e070-11ee-95bb-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.2.7</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Research Lab</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Lehrveranstaltung bereitet auf das Research Project und die Masterarbeit vor: Im Praktikum erhalten Studentengruppen eine überschaubare Aufgabe aus dem Studiengebiet, die in einem kleinen Team unter Anleitung und Betreuung selbstständig erarbeitet werden soll. Dabei unternehmen die Studenten eigenständige Recherche, Versuche in den Laboren der Universität und Auswertungen der Versuchsergebnisse und stellen die Ergebnisse in einem abschließenden Bericht und einer Präsentation dar. Dabei müssen die einzelnen individuellen Beiträge jedes Studenten eindeutig erkennbar sein. In der Vorlesung werden allgemeine Hintergrundinformationen zu dem jeweiligen Projektthema, zu den verwendeten Laborgeräten und zur wissenschaftlichen Arbeit in dem Umfeld gegeben.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e7875789-e070-11ee-87d0-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.3</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Additive Manufacturing</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Lehrveranstaltung gibt eine Übersicht über die Technologien des Additive Manufacturing. Die Vorlesung beinhaltet: Systematik und Überblick über subtraktive und additive Verfahren, Beschichtung und Strukturierung, Schichtbildung, 2D/3D, Prozessketten, Funktionalisierung, Materialien und Anforderungen, Vergleich verschiedener Verfahren, Anwendungen. In dem Praktikum werden ausgewählte Beispielaufgaben aus dem Vorlesungsstoff vertieft. Das Seminar beinhaltet eine Patentrecherche zu vorgegebenen Fragestellungen aus dem Bereich Additive Manufacturing. Nach Anleitung und Einführung in die Patentdatenbanken und Suchstrategien erhält jeder Student eine Themenstellung zur eigenständigen Patentrecherche.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#5d5f97a9-d9b6-11ee-b3de-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e789c13f-e070-11ee-87d5-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.4.6</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Technologies for Machine Tools</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vermittelt werden das Vorgehen und Technologien moderner Maschinenentwicklung am Beispiel des mechatronischen Systems Werkzeugmaschine. Aufbauend auf einer detaillierten Beschreibung einzelner zentraler Komponenten wird auf das Zusammenwirken dieser im Betrieb der Maschine eingegangen. Das beinhaltet einen Überblick über die Automatisierung im Maschinenbau im Hinblick auf Aufbau, Wirkungsweise, Programmierung und Betrieb aktueller Steuerungen. Die Eigenschaftsanalyse von Werkzeugmaschinen, das Prozessmonitoring sowie das Datenmanagement in Prozess und Prozesskette werden in Grundlagen erörtert sowie an Fallbeispielen vertieft. Weiterhin wird die Erweiterung von Prozessgrenzen durch die Integration wirkstellennaher aktorischer und sensorischer Funktionalität behandelt.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#5d5e2513-d9b6-11ee-83c4-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e7875794-e070-11ee-ac4c-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.10</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Französisch I (Niveau A1)</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Vermittlung von Grundkenntnissen der französischen Sprache (Lexik, Grammatik, Phonetik) und landeskundlichen/kulturellen Besonderheiten  Lexik zu einfachen Themen: Familie und Freunde, Sprachkenntnisse, Tagesablauf, Essgewohnheiten, Freizeitbeschäftigungen, Wohnort/Unterkunft  Grammatische Strukturen: Artikel, Substantive, Adjektive, Adverbien, Zeitformen (présent und passé composé), Personalpronomen, Verneinung  Kommunikationsstrukturen: sich und andere vorstellen/beschreiben, Wege beschreiben/erfragen, einfache Ziele ausdrücken, über Vergangenes berichten Die Ausbildung orientiert sich an der Sprachkompetenzstufe A1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GER).</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e789c137-e070-11ee-aa8c-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.3.5</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IT-supported Evaluation of Material Flows and Process Chains</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disziplinübergreifende, in Kleingruppen zu bearbeitende Fallstudien, in denen eine Anwendung und Festigung des erworbenen Wissens bezüglich der Bewertung von Materialflüssen und Prozessketten erfolgt und die problembezogenen Kenntnisse und Kompetenzen sowie die Verwendung geeigneter Softwarewerkzeuge eigenständig vertieft werden.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e787578a-e070-11ee-a969-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.4</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Resource Efficiency from an Economic Perspective</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Modul gibt zunächst einen Überblick über die Verankerung von Ressourcen und Ressourceneffizienz in der Betriebswirtschaftslehre. Ausgehend von den disziplinspezifischen Ressourcen- bzw. Effizienzbegriffen werden anschließend Methoden der internen Unternehmensrechnung vorgestellt, mit deren Hilfe sich Ressourcenbedarfe/-verbräuche erfassen und analysieren lassen und die somit auch zu einer Bewertung und Steuerung der Ressourceneffizienz beitragen. Einzelthemen sind u.a.:  Ressourcen und Ressourceneffizienz in der Betriebswirtschaftslehre  Produktions- und Kostentheorie  Kostenrechnung  Investitionsrechnung  ausgewählte Ansätze des Kostenmanagements</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#5d5e2513-d9b6-11ee-83c4-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e789c12c-e070-11ee-b074-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.2.1</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Printing and Processes I</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Lehrveranstaltung gibt eine Übersicht über Prozesse im Umfeld von Druckverfahren. Die Vorlesung beinhaltet: Systematik und Überblick über die Prozessstufen und Prozessvarianten, Druckformherstellung, Bebilderung, konventionelle Druckverfahren, digitale Druckverfahren, Druckweiterverarbeitung, Trocknung und Schichtbildung, Druckqualität, Anwendungsszenarien und Anforderungen, Prozesscharakteristiken. Das Praktikum beinhaltet: Die Studenten machen praktische Versuche an Druckmaschinen. Es werden Druckmuster hergestellt und ausgewertet und der Einfluss der Prozesscharakteristiken untersucht.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#5d5f97a9-d9b6-11ee-b3de-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e789c132-e070-11ee-93ce-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.2.8</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Advanced Surfaces, Thin Films and Interfaces</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Vakuum Technologie  Methoden zur Filmherstellung  Grundlagen zur Kristallographie in zwei Dimensionen, Relaxation, Rekonstruktion  Elementare Prozesse auf der Oberfläche (Adsorption, Desorption, Diffusion)  Elektronische Oberflächenzustände, Bildzustände  Oberflächenanalyse I: Beugungsmethoden  Oberflächenanalyse II: Elektronen-Spektroskopie  Oberflächenanalyse III: Mikroskopie  Charakterisierung von dünnen Filmen mit Ionen  Grenzflächen, Quantum Well States</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e7875788-e070-11ee-9ecd-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.2</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital Manufacturing</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die moderne industrielle Produktion ist geprägt durch die intensive Anwendung von Informations- und Kommunikationstechnik. Grundlage hierfür sind intelligente und digital vernetzte Systeme. Im Modul werden das Basiswissen einer digitalisierten und vernetzten Produktion in der Wertschöpfungskette vermittelt und entsprechende Anwendungsfelder erläutert. Beginnend bei der Maschine (Grundlagen zu NC/CNC sowie zur CAD/CNC-Prozesskette, Produktionssysteme als cyber-physische Systeme, Steuerungsarten, MDE- und DNC-Systeme), über die Nutzung von Virtual und Augmented Reality in der Entwicklung und Produktion bis hin zu Modellen bzw. Methoden der digitalen Fabrik lernen die Studierenden die wesentlichen Grundbausteine einer digitalen Produktion kennen und es wird vorgestellt, wie diese im Rahmen von Industrie 4.0 zum Einsatz gebracht werden. Die theoretischen Kenntnisse werden in den einzelnen Bereichen durch Praktika ergänzt. Der Einblick in die praktische Anwendung digitalisierter und vernetzter Produktion wird durch Exkursionen zu innovativen industriellen Unternehmen gegeben.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#5d5e2513-d9b6-11ee-83c4-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e789c12e-e070-11ee-9445-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.2.4</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Automotive Sensor Systems</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Allgemeine Aspekte zum Einsatz von Sensoren im Automobil  Sensoren für das Motormanagement  Sensoren für das Fahrwerk  Sensoren für die aktive und passive Sicherheit (z.B. ABS, ESP)  Fahrerassistenzsysteme  Sensoren für die Luftgüteüberwachung  Abgassensoren  Sensoren für die Beschleunigung, Kraft, Druck, Drehzahl  Selbstüberwachung und Selbstkalibrierung für Robustheit</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e789c13e-e070-11ee-a2d1-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.4.5</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Geometrical Product Specification and Verification</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Geometrische Produktspezifikationen sind die Basis für die Entwicklung von Produkten, Simulationsanalysen, die Fertigung, Messung und mehr. Im Modul wird ein Überblick zu dem in internationalen Normen beschriebenen Konzept der Geometrischen Produktspezifikation und Verifikation (GPS) präsentiert. Es werden Methoden zur nonverbalen Kommunikation mit Symbolen und Regeln zur vollständigen und eindeutigen Beschreibung geometrischer Eigenschaften vorgestellt. Gleichzeitig werden damit verbundene messtechnische Vorgehensweisen abgeleitet, um Messdaten zu den geometrischen Eigenschaften realer Werkstücke aufzunehmen. Mit der Vorstellung von Vorgehensweisen zur Auswahl von Messtechnik und -strategien werden den Studenten wichtige Grundlagen zur Messung geometrischer Eigenschaften aus funktionalen und prozessbasierten Betrachtungsweisen vermittelt. Übungen und Praktika ergänzen die Ausbildung, um das GPS-System anwenden zu können und um selbstständig Messwerte mit den Spezifikationen vergleichen zu können.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#5d5e2513-d9b6-11ee-83c4-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e789c12f-e070-11ee-9f1c-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.2.5</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Printing and Processes II</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Lehrveranstaltung gibt eine Übersicht über Materialien und Maschinen im Umfeld von Druckverfahren. Die Vorlesung beinhaltet den Teil I: Maschinen: Systematik und Überblick über die Maschinenkomponenten und -varianten in den verschiedenen Prozessstufen, Ausgestaltung des Materialflusses Druckstoff und Bedruckstoff, Bahnlauf, Maschinen- und Prozesssteuerung, charakteristische Baugruppen, Präzision, Besonderheiten bei der Fertigung. Teil II: Materialeigenschaften: Mechanische Eigenschaften flexibler und starrer Bedruckstoffe, Druckstoffrheologie, dynamisches Verhalten in der Schichtbildung, Materialtransport und -trocknung. In der Übung wird der Stoffinhalt in Rechenbeispielen und Aufgaben zur Konfiguration und Auslegung von Maschinen und Prozessen vertieft.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#5d5f97a9-d9b6-11ee-b3de-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e787579b-e070-11ee-8705-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.1.4,3.4.8</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Complex Materials for Manufacturing</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vielschichtige Eigenschaftsprofile benötigen zunehmend moderne Verbundwerkstoffe und Werkstoffverbunde einschließlich der raschen Entfaltung neuer Fertigungstechnologien, da der monolithische Werkstoff bzw. ein einziger Werkstoff den heutigen komplexen Anforderungen nicht mehr genügen kann. Zukünftige Werkstoffsysteme haben wirtschaftlich eine Schlüsselposition und sind auf den Wachstumsmärkten von grundlegender Bedeutung. Gefragt sind maßgeschneiderte Leichtbauwerkstoffe (tailor-made composites) mit einem adaptierten Design. Dazu müssen Konzepte entwickelt werden, um die Kombination der Komponenten optimal zu gestalten. Das erfordert werkstoffspezifisches Wissen und Korrelationsvermögen sowie die Gestaltung komplexer Technologien, auch unter dem Aspekt der kontinuierlichen Massen- und Großserienfertigung (in-line, in-situ) und damit der Kostenreduzierung bislang teurer Verbundwerkstoffe und Werkstoffverbunde. In der Vorlesung werden einleitend die Entwicklung und der Einsatz von Leichtmetallen und Keramiken, Verbundwerkstoffen und Werkstoffverbunden diskutiert und die Bedeutung dieser Werkstoffe als „Werkstoffe nach Maß“ herausgestellt. Die Studenten erhalten zunächst einen Überblick zu den Begriffsbestimmungen. Werkstoffwissenschaftliche Grundlagen mit Bezug auf die betrachteten Werkstoffe werden erklärt. Im Folgenden geht die Vorlesung auf die Eigenschaften und das Einsatzpotenzial von Keramikmatrix- und Metallmatrix- Verbundwerkstoffen sowie Werkstoffverbunden ein. Ziel ist die Wissensvermittlung zur Herstellung von Leichtmetallen, Verbundwerkstoffen und Werkstoffverbunden.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#5d5fbec2-d9b6-11ee-b638-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e7875787-e070-11ee-80f7-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.1</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mathematics for Engineering Science</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die inhaltlichen Schwerpunkte des Moduls sind die folgenden:  lineare Algebra (lineare Abbildungen, Gleichungssysteme, Eigenwerte)  Potenzreihen, Taylorreihen und Fourierreihen  Differential- und Integralrechnung (ein- und mehrdimensional)  gewöhnliche Differentialgleichungen</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e7875796-e070-11ee-bd06-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.12</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Spanisch I (Niveau A1)</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Vermittlung von Grundkenntnissen der spanischen Sprache (Lexik, Grammatik, Phonetik) und landeskundlichen/kulturellen Besonderheiten  Lexik zu einfachen Themen: Familie und Freunde, Sprachkenntnisse, Tagesablauf, Essgewohnheiten, Freizeitbeschäftigungen, Wohnort/Unterkunft  Grammatische Strukturen: Artikel, Substantive, Adjektive, Adverbien, Zeitformen (presente und pretérito perfecto), Personalpronomen, Verneinung  Kommunikationsstrukturen: sich und andere vorstellen/beschreiben, Wege beschreiben/erfragen, einfache Ziele ausdrücken, über Vergangenes berichten Die Ausbildung orientiert sich an der Sprachkompetenzstufe A1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GER).</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e787578f-e070-11ee-be03-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.5</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Deutsch als Fremdsprache IV (Niveau B2)</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Übung aller Sprachkompetenzen wie Hören, Sprechen, Lesen, Schreiben anhand zahlreicher allgemeinsprachlicher Themen, z.B. Reisen, Urlaub, Leben im Ausland, Schulbildung, Themen über interkulturelle Beziehungen, aber auch studien- und berufsorientierte Sachverhalte und Situationen  Festigung und Erweiterung der grammatikalischen Strukturen durch Übungen zu nominalen Angaben und Angabesätzen, Passivkonstruktionen, Konjunktiv I und Konjunktiv II  Schreiben von Bewerbungsdokumenten Die Ausbildung orientiert sich an der Sprachkompetenzstufe B2 des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GER).</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e7875798-e070-11ee-86c5-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.1.1</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Textile Process Chains</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">In dem Modul werden Grundlagen über die Verfahren zur Herstellung textiler Verstärkungsstrukturen für Hochleistungs-Faser-Kunststoff-Verbunde vermittelt. Inhaltlicher Schwerpunkt sind die verschiedenen textilen Faden- und Flächenherstellungsprozesse und deren individuelle Potentiale für die Variation/Einstellbarkeit von Verbundeigenschaften. Die begrifflichen und physikalischen Grundlagen der Fadenbildung aus Filament- und Stapelfasern werden vermittelt und die Zusammenhänge zwischen Faserparametern, Verspinnbarkeit und Eigenschaften der erzeugten Fadenmaterialien erläutert. Die Weiterverarbeitung der Fadenmaterialien zu textilen Flächen erfolgt in Form von Geweben, Geflechten, Maschenwaren und Vliesen. Die technologischen Grundlagen dieser Herstellungsverfahren und die physikalischen Anforderungen zur Verarbeitung der Hochleistungsfadenmaterialien werden dargestellt und darauf aufbauend die Unterschiede der verschiedenen Verfahren bezüglich der resultierenden Materialeigenschaften herausgearbeitet. Damit werden die Voraussetzungen für das Verständnis verfahrens- bzw. prozessparameterspezifischer Auswirkungen auf Faden-, Flächen- und vor allem die resultierenden Verbundeigenschaften geschaffen.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#5d5fbec2-d9b6-11ee-b638-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e789c12b-e070-11ee-80a8-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.1.8,3.4.2</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forming Process Chains</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vermittelt werden Kenntnisse zur Gestaltung und Bewertung von Prozessketten für Bauteile, die durch die Verfahren der Blech- und der Massivumformung hergestellt werden können. Dabei werden neben den Verfahren der Formgebung auch vor- und nachgelagerte Prozesse wie die Bauteilerwärmung, das Beschneiden sowie das induktive Fügen betrachtet. In Abhängigkeit von der zu fertigenden Stückzahl und der Variantenvielfalt werden konventionelle und alternative Prozessrouten entwickelt, Kenntnisse zur Spezifik der Umformwerkzeuge vermittelt sowie insbesondere der Einfluss einzelner Prozessparameter wie Temperatur und Geschwindigkeit aufgezeigt. Eingegangen wird dabei auch auf die Kinematik der Umformmaschine. Qualifizierungs: Nach Abschluss des Moduls sind die Studenten in der Lage:  Prozessketten für Blech- und Massivbauteile in Abhängigkeit von der Fertigungsstückzahl zu entwickeln,  die Besonderheiten von der Kalt- und der Warmumformung bei der Gestaltung der Prozessketten zu beschreiben,  Varianten an Prozessketten aufzuzeigen und diese unter den Gesichtspunkten wie Ressourceneffizienz und Flexibilität zu bewerten,  Anforderungen an die Umformwerkzeuge aufgrund der Belastungen durch die Umformprozesse abzuleiten,  den Einfluss von verschiedenen Bewegungsprofilen der Umformmaschine auf das Prozessfenster und damit auf die Qualität des Umformteils zu erklären sowie  Maßnahmen zur Erzielung der Prozesssicherheit zu erläutern. Lehrformen Lehrformen des Moduls sind Vorlesung, Übung und Praktikum.  V: Forming Process Chains (2 LVS)  Ü: Forming Process Chains (1 LVS)  P: Forming Process Chains (1 LVS) Voraussetzungen für die Kenntnisse zur Fertigungstechnik Teilnahme (empfohlene Kenntnisse und Fähigkeiten) Verwendbarkeit des Moduls --- Voraussetzungen für die Die Erfüllung der Zulassungsvoraussetzung für die Prüfungsleistung und die erfolgreiche Vergabe von Ablegung der Modulprüfung sind Voraussetzungen für die Vergabe von Leistungspunkten. Leistungspunkten Zulassungsvoraussetzung ist:  Modul 1.1 Mathematics for Engineering Science Modulprüfung Die Modulprüfung besteht aus einer Prüfungsleistung:  120-minütige Klausur zu Forming Process Chains (Prüfungsnummer: 34101) Leistungspunkte und Noten In dem Modul werden 5 Leistungspunkte erworben. Die Bewertung der Prüfungsleistung und die Bildung der Modulnote sind in § 10 der Prüfungsordnung geregelt. Häufigkeit des Angebots Das Modul wird in jedem Studienjahr im Sommersemester angeboten. Arbeitsaufwand Das Modul umfasst einen Gesamtarbeitsaufwand der Studenten von 150 AS. Dauer des Moduls Bei regulärem Studienverlauf erstreckt sich das Modul auf ein Semester. 1837</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#5d5e2513-d9b6-11ee-83c4-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e787578b-e070-11ee-a18a-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.1</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Research Methods</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Im Modul werden Grundlagen des wissenschaftlichen Arbeitens in den Ingenieurwissenschaften vermittelt. Es werden der Umgang mit Literaturquellen, das Vorgehen zur Erhebung und Auswertung experimenteller Daten sowie Richtlinien zur Publikation wissenschaftlicher Erkenntnisse (Artikel, Poster, Abschlussarbeiten) vermittelt.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">60</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e789c140-e070-11ee-89fc-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Research Project/Internship</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Research Project hat die selbstständige und systematische Bearbeitung einer forschungsorientierten Aufgabenstellung aus dem Bereich Advanced Manufacturing unter Anwendung des bisher erworbenen Wissens zum Gegenstand. Die Aufgabe sollte in einem Team bearbeitet und von einer am Studiengang beteiligten Professur betreut werden. Die Bearbeitung kann (a) in einem an der Professur angesiedelten Versuchsfeld beziehungsweise Labor erfolgen oder (b) extern als Industriepraktikum in einem forschungsnahen Bereich durchgeführt werden. Neben den fachlichen Fragen der jeweils gestellten Aufgabe sollen die Studenten auch an methodische und praktische Problemstellungen und deren Lösung im Bereich der Forschung herangeführt werden.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e787578c-e070-11ee-960b-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.2</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Deutsch als Fremdsprache I (Niveau A1)</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Vermittlung von Grundkenntnissen der deutschen Sprache (Lexik, Grammatik, Phonetik)  Einführung und Übung der Lexik zu einfachen Themen, wie Familie, Einkaufen, Wohnen  Lernen erster grammatischer Strukturen und Regeln wie Artikel und Deklination der Nomen, Modalverben, Verneinung, Verbformen im Präsens und Perfekt  Phonetische Übungen Die Ausbildung orientiert sich an der Sprachkompetenzstufe A1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GER).</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#e789c134-e070-11ee-8df6-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.3.2</ns1:hasModuleNumber>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Life Cycle Engineering</ns1:hasName>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Modul gibt einen Überblick über die Grundgedanken und die theoretische Fundierung des Life Cycle Engineering (LCE) und geht näher auf zugehörige Methoden und Modellierungsansätze ein. Einzelthemen sind u. a.:  Produkt-Lebenszyklusmodelle  Ansätze zur Bewertung der technischen, der ökonomischen und der ökologischen Leistung von Produkten und Produktsystemen  Modelle zur multidimensionalen Analyse  Technologie- und Werkstoffauswahl  Fallstudien</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hasCreditPoints>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns1:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns2:hasCourse rdf:resource="http://tuc/course#TUCAdvancedManufacturing"/>
+    <ns1:hasModules rdf:resource="http://tuc.web.engineering/module#5d549d9d-d9b6-11ee-8b1d-cc153190a929"/>
+  </rdf:Description>
+</rdf:RDF>

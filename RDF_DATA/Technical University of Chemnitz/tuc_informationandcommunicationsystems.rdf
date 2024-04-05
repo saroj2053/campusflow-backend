@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://across/university#"
+   xmlns:ns2="http://tuc.web.engineering/module#"
+   xmlns:ns3="http://tuc/course#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a781e86d-e06f-11ee-9a18-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243031-509(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Applied Circuit Design and Testing</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Entwurfsprozess und -werkzeuge für digitale ICs (Integrated Circuits), insbesondere FPGAs (Field Programmable Gate Arrays)  Vorstellung der Anwendungsfelder (u.a. Rapid Prototyping, Signal-, Daten- und Bildverarbeitung)  Testwerkzeuge, Testmaschinen  Erstellung von Testfällen, Durchführung von Tests  Bearbeitung komplexer Entwurfsaufgaben</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCInformationandCommunicationSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a781d4c7-e06f-11ee-9d35-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243035-503(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Simulation and Performance Analysis of Communication Networks</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Vorlesung: Grundlagen der Simulation: Simulationsprozess, Basiskomponenten von o Simulatoren, Simulationstechniken Stochastische Simulationstechniken: Monte-Carlo Simulation und o ereignisdiskrete Simulation Grundlagen der Wahrscheinlichkeitsrechnung und Statistik o Erzeugung von Zufallszahlen und Zufallsverteilungen o Erzeugung der Eingangsgrößen für die Simulation o Auswertung der Ausgangsgrößen (Simulationsergebnisse) o Design von Simulationsexperimenten o Spezielle Simulationstechniken o  Praktikum: Schwerpunktmäßig werden ausgewählte Aufgaben zur Simulation von o Kommunikationsnetzen und -systemen theoretisch und praktisch behandelt.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCInformationandCommunicationSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a7823f98-e06f-11ee-8586-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243032-509(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Image Processing and Pattern Recognition</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Farbtheorie und Farbmodelle in der Bildverarbeitung  Bildgewinnung, das analoge und digitale Bildsignal  Prinzipien der statistischen Bildbeschreibung  Elemente der zweidimensionalen Signaltheorie  LTI-Filter und Filterdesign  Einführung in die morphologische Bildverarbeitung  Segmentierung und Formrepräsentation  Mustererkennung und -klassifikation  Bewegtbildanalyse  Einführung in die Bildkodierungsverfahren (JPEG, MPEG)</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCInformationandCommunicationSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a7826e89-e06f-11ee-8f41-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">240100-432(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Research Internship</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Studenten bearbeiten selbständig eine praktische Aufgabe auf dem Gebiet der Elektrotechnik und Informationstechnik. Diese sollte einen engen Zusammenhang mit dem Themenbereich Informations- und Kommunikationstechnik aufweisen. Die praktische Ausbildung erfolgt im Rahmen einer 20-wöchigen Tätigkeit im Umfang von insgesamt 800 AS in einem Unternehmen oder in einer Forschungs- bzw. Entwicklungseinrichtung und ist in der Regel in Deutschland zu absolvieren. Vor Beginn des Praktikums ist von einer Professur der Fakultät für Elektrotechnik und Informationstechnik schriftlich zu bestätigen, dass die an der Praktikumseinrichtung zu bearbeitende Aufgabenstellung thematisch passend und hinsichtlich des Niveaus im vorliegenden Masterstudiengang angemessen ist.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">900</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCInformationandCommunicationSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a78213ef-e06f-11ee-bb7a-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243034-510(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Optical Communications and Networks</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Teil 1:  Optische Vermittlungstechnik: Wellenlängen-Multiplexing; Wellenlängen- Switching; Planung und Installation  Optische Transportnetze: im Zugangsnetzbereich; im Metro-/ Kernnetzbereich  Zusammenspiel von IP-Netzen und Optischen Transportnetzen: Enkapsulierungsoptionen; Control-Plane Aspekte; Management-Plane Aspekte  Redundanz-Konzepte für Optische Transportnetze  Ausblick: Optical Burst Switching; Optical Packet Switching Teil 2:  Optische Übertragungstechnik: Lichtwellenleitertechnik; Signalformen; Sende- und Empfangselemente; Aufbau eines optischen Übertragungssystems  Optische Netzkomponenten: Optische Koppler und Schalter; Einsatzbereiche</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCInformationandCommunicationSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a781c12c-e06f-11ee-b114-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243032-505(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multisensorial Systems</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einführung in die Modellierung vager Sachverhalte  Modellierung vager Sachverhalte mit Hilfe der Wahrscheinlichkeitstheorie  Modellierung dynamischer Systeme mit dem Schwerpunkt Zustandsraumbeschreibung  Dynamische Modelle und Störungsmodellierung  Messmodelle (u. a. Laser-Scanner, Radar, Videobilder)  Grundlagen der Schätztheorie  Kalman-Filterung  Kalman-Filter in Beispielen und Anwendungen  Kalman-Filter für das Tracking von Objekten (z.B. Fahrzeuge oder Fußgänger)  Multi-Kalman-Filter für das gleichzeitige Verfolgen mehrerer Objekte  Sensor-Daten-Fusion (u.a. Laser-Scanner und Videobilder)  Erweiterungen und Spezialfälle des Kalman-Filters</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCInformationandCommunicationSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a7823f9a-e06f-11ee-a270-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243033-509(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Programming and Data Analysis</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Im Rahmen des Moduls werden grundlegende Fähigkeiten zu einschlägigen Programmier- und Analysewerkzeugen des Scientific Computing vermittelt. Anhand von praxisnahen Beispielen werden Problemstellungen aus dem Bereich der Informationstechnik bearbeitet. Neben der Vermittlung von theoretischen Kenntnissen liegt der Fokus auf praxisnahen Implementierungen aus den Bereichen:  Daten I/O  Datenvisualisierung  Matrizenrechnung</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCInformationandCommunicationSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a78213f2-e06f-11ee-b935-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243035-504(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Network Planning</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einführung in die Netzplanung: Definition, Zielsetzungen, Planungsprozess  Verkehrsmodellierung und Bedarfsanalyse: Verkehrsklassifizierung; Verkehrsmodellierung; Bedarfsabschätzung und –prognose, Verkehrsmatrizenerzeugung  Netztopologieentwurf: ausgewählte Verfahren: optimale Standortauswahl, Baum- und Maschen-Netzdesign  Netzdimensionierung: Formulierung als Optimierungsproblem; Vorgehensweise bei durchschalte- und paketvermittelten Netzen; ausgewählte Dimensionierungsverfahren  Weitere Planungsaspekte: Redundanz/Ausfallsicherheit; Mehrstunden- und Mehrperiodenplanung; Kostenmodellierung  Netzplanungstools (Beispiele)</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCInformationandCommunicationSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a781e86b-e06f-11ee-9da2-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243031-506(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Verification of Digital Systems</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einführung in formale und informale Verifikationsmethoden  Regressionsfähige zufallsgetriebene Verifikationskonzepte  Assertion und Coverage-basierte Verfahren  Binary Decision Diagrams  Äquivalenzvergleich, Eigenschaftsprüfung  Temporale Logik und Model Checking</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCInformationandCommunicationSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a7823f96-e06f-11ee-b074-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243031-504(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital Components and Architectures for Data Processing</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Erweiterte Architekturkonzepte von Mikroprozessoren und -controllern (Steuerwerk, Rechenwerk, Speicher, Bussysteme)  Weitere digitale programmierbare Schaltkreise und IP-Cores  Klassifikations- und Vergleichsmöglichkeiten von digitalen Schaltkreisen  Kopplungen von Schaltkreisarten zu Systems-on-Chip  Effiziente und hardwarenahe Programmierung</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCInformationandCommunicationSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a781d4c5-e06f-11ee-962f-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243033-506(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computer Vision 1</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dieses Modul beinhaltet einen weitgehenden Überblick über Methoden der zweidimensionalen digitalen Signalverarbeitung sowie Grundlagen der Bildentstehung. Themengebiete sind im Einzelnen:  Grundlagen zweidimensionaler Filter  Segmentierung und Klassifizierung von Bilddaten  Morphologische Operationen  Histogramm und Punktoperationen  Machine Learning</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCInformationandCommunicationSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a7823f9c-e06f-11ee-8218-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243035-507(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Communication Networks Seminar</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zu vorgegebenen aktuellen Themen im wissenschaftlichen und technischen Umfeld der Kommunikationsnetze werden durch die Studenten Präsentationsfolien erstellt, die vorgetragen und anschließend zur Diskussion gestellt werden.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">90</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCInformationandCommunicationSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a78213f0-e06f-11ee-8675-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243034-511(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aerospace Remote Sensing</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einführung in satelliten- und flugzeuggetragene Fernerkundungssensoren  Direkt Apertur Radar: Radar-Architekturen, Doppler-Radar-Verfahren, Polarimetrisches Radarverfahren, Impulskompression, Dauerstrichverfahren, Doppler und Polarimetrische Signal-Auswertung mit gemessenen Wetterradardaten  Synthetisches Apertur Radar (SAR): Prinzip und Verfahren, Signal- Prozessierung zur Gewinnung von höheren Azimuth- und Range-Auflösungen; Auswertung und Prozessierung von gemessenen Satelliten- und Flugzeug- SAR Rohdaten  Polarimetrische SAR Interferometry: Verfahren und Anwendungen; Auswertung interferometrischer SAR-Daten  Radiometrie: Technische Architektur und System-Analyse; Auswertung von Radiometer-Daten, Multiparameter Radiometrie in Satelliten-Fernerkundung; Radiometrisches Abbildungsverfahren  Radar- und Radiometer-Anwendungen zur Ermittlung von Ausbreitungseigenschaften entlang Erd-Satelliten-Verbindungen  Praxisorientierte Informationsermittlung durch Auswertung von Radar und Radiometer-Daten aus der Luft und Raumfahrt-Fernerkundung</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCInformationandCommunicationSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a781e86e-e06f-11ee-a76b-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243033-505(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital Signal Processing 2</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Interpolation und Dezimation Lineare Interpolation und nichtlineare Interpolation o Sample Rate Konverter o Entwurfsbeispiele o  Methoden der digitalen Signalverarbeitung Diskrete Fouriertransformation (DFT) o Diskrete Kosinustransformation (DCT) o Anwendung von Windowing o Digitale Signalgeneratoren o  Anwendungen der Digitalen Signalverarbeitung</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCInformationandCommunicationSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a781e86c-e06f-11ee-8b34-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243031-508(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Test of Digital and Mixed-Signal Circuits</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Grundlagen des Tests, Fehlerarten  Teststrategien  Generierung von digitalen Testmustern  Testfreundlicher Entwurf  Testhardware und –software, Testautomatisierung  Besonderheiten des Mixed-Signal-Tests</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCInformationandCommunicationSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a7826e8a-e06f-11ee-bd4c-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">240100-632(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Research Project</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Der Student erarbeitet an einer Professur der Fakultät für Elektrotechnik und Informationstechnik selbständig die Lösung zu einer praktisch orientierten Aufgabe aus dem Bereich Informations- und Kommunikationstechnik. Das Modul ist entsprechend der Aufgabenstellung selbständig zu bearbeiten. Der wissenschaftliche Betreuer des Research Projects ist regelmäßig zu konsultieren. Das Modul gliedert sich in 3 Meilensteine:  MS1: Ausgabe des Themas (1. Woche)  MS2: Vorstellen der Lösungskonzeption (4. Woche)  MS3: Abgabe der schriftlichen Ausarbeitung, Präsentation der Ergebnisse (15. Woche) Das Thema der Projektarbeit ist vor dem Beginn der Bearbeitung von der betreuenden Professur schriftlich zu bestätigen.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCInformationandCommunicationSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a781e86a-e06f-11ee-996a-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243035-505(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Advanced Mobile Networks</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Grundlagen der Mobilkommunikation  Details zu 2G, 3G und 4G Mobilfunksystemen: Einführung; Systemarchitektur; Funkschnittstelle; Protokollarchitektur; Verbindungs- und Mobilitätsmanagement; Sicherheitskonzept; Dienstgüteunterstützung  Mobilfunksysteme der 5. Generation (5G): 5G Anforderungen; Low-latency Radio Interface; C-RAN / Flexible RAN Split Optionen; Network Slicing; Mobile Edge Computing; Ausblick (6G)  WLAN / Wi-Fi (IEEE 802.11 Familie): Einführung, System- und Protokollarchitektur; Funkschnittstelle: PHY- und MAC-Schicht; Dienstgüteunterstützung; Sicherheitskonzept; Unterstützung von Mobilität und Roaming; Netzmanagementaspekte; WLAN-Mesh; Ausblick (WiFi-7)  Mobile Ad-Hoc-Netze (MANETs): Einführung (Definition, Klassifikation, Anwendungsszenarien); Routingverfahren für MANETs</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCInformationandCommunicationSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a781e86f-e06f-11ee-975c-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243033-507(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computer Vision 2</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Grundlagen der Abbildungsgeometrie  Grundlagen und Anwendungen verschiedener Kameramodelle (Perspektivische Modelle, Omnidirektionale Modelle)  Grundlagen des stereoskopischen Sehens  3D-Rekonstruktion von zweidimensionalen Bilddaten</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCInformationandCommunicationSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a781b708-e06f-11ee-91dd-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243034-508(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Basics of Microwave and Photonic Systems 1</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Grundlagen der Hochfrequenztechnik (Begriffsdefinitionen wichtiger Größen und Gleichungen, Überblick über verschiedene Frequenzbereiche und deren Anwendung, Quellen und Anwendungen elektromagnetischer Wellen)  Elektromagnetische Wellenausbreitung in verschiedenen Medien  Leitungsgeführte elektromagnetische Wellenausbreitung  Smith Chart und dessen Anwendung  Streuparameter (S-Parameter)  Eintorsysteme  Mehrtorsysteme  Impedanzanpassung von Systemen  Passive Komponenten  Optische Wellenleiter  LED/Laser  LiDAR</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCInformationandCommunicationSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a781d4c6-e06f-11ee-aa7a-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243034-509(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Basics of Microwave and Photonic Systems 2</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Übertragungsstrecke elektromagnetischer Wellen  Übertragungssysteme elektromagnetischer Wellen  Radar Technologie  Radiometer / Spektrometer  5G Technologie  Drahtlose Systeme mit Industriestandard (ZigBee, RFID)  Drahtlose Systeme im Automobil  BLE Systeme inkl. Programmierung  Funksysteme  GPS  Sonar &amp; Echolot</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCInformationandCommunicationSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a7823f99-e06f-11ee-b019-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243033-508(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Video Signal Processing</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inhalt der Lehrveranstaltungen sind Digitale TV und Audio Standards sowie interaktive Systeme.  Digitale TV Standards  Video- und Audiosignal Komprimierung (z. B. JPEG, MPEG1, MPEG2, AAC)  Display Technologien  Digitale Übertragungsstandards (DVB-S, DVB-C, DVB-T, ISDB-T)  Encryption Technologies for Pay TV  Mobile TV-Standards (z. B. DVB-H, DVB-SH)</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">90</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCInformationandCommunicationSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a7826e8b-e06f-11ee-b518-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">240100-832(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Master Thesis</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Modul beinhaltet die Erstellung der Masterarbeit zu einer ingenieurwissenschaftlichen Aufgabe, deren schriftliche Darstellung und eine mündliche Prüfung. Das Thema der Masterarbeit soll auf dem Gebiet der Informations- und Kommunikationstechnik liegen. Der Student wird dabei von einem wissenschaftlichen Betreuer der Fakultät unterstützt.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">900</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCInformationandCommunicationSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a781c12a-e06f-11ee-a3b6-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243035-502(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Next Generation Internet</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einführung und Grundlagen: Grundbegriffe; Übertragungs- und Vermittlungstechnik; Kommunikationsprotokolle und Protokollmechanismen  Grundlagen lokaler Netze (LANs): Übersicht IEEE 802 LANs; Ethernet IEEE 802.3; VLANs  Grundlagen des IP Networking: Internet Protocol (TCP/IP); IP Addressing / NAT / DNS; IP Routing; MPLS  Internet-Anwendungen: Beispiel http-Protokoll  Ausgewählte Mechanismen in IP Netzen: Quality of Service (QoS) Mechanismen; Group Communication / Multicast; Mobility Mechanisms  Hot Topics: Software Defined Networking (SDN) and Network Functions Virtualization (NFV); Time Sensitive Networking (TSN) und Deterministic Networking (DetNet); Peer-to-Peer (P2P) Networks; Content Delivery Networks (CDNs)  Netzsicherheit: Einführung und Grundlagen; Kryptographische Verfahren; Authentifizierungsmechanismen, Schlüsselmanagement und Zertifikate, PKI- Infrastruktur; Protokolle für die gesicherte Datenübertragung auf Sicherungs- (L2), Netz- (L3) und Transportschicht (L4); Überblick und Beispiele zu Cyber- Angriffen im Internet; Methoden zur Cyber-Angriffserkennung und -abwehr</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCInformationandCommunicationSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a781a368-e06f-11ee-ad18-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243033-504(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital Signal Processing 1</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Abtastung und Rekonstruktion  Quantisierung A/D-Konverter o D/A-Konverter o Quantisierungsrauschen o Überabtastung o  Diskrete Systeme Linearität und Zeitinvarianz o Kausalität und Stabilität o  Digitale Filter Z-Transformation o FIR-Filter o IIR-Filter o</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCInformationandCommunicationSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a781c12b-e06f-11ee-8119-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243031-507(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Design of Heterogeneous Systems</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Entwurfsprozess heterogener Systeme  Modellierung, Beschreibungssprachen digital/analog/mixed-signal  Systemspezifikation  Arbeitsweise von Simulatoren  Mixed-Signal Kopplungsprobleme</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCInformationandCommunicationSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a7823f97-e06f-11ee-bb83-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243032-507(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mobile Localization and Navigation</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Geschichtliche Entwicklung  Ortungssysteme  Mobiles Radar  Radarprinzip, Radargleichung  Auflösungsprinzipien  Parameterschätzverfahren, Stochastische Modelle  Navigationssysteme, Einführung in das Global Positioning System (GPS)  Ausbreitungseffekte und Schätzgenauigkeit  Rangingverfahren auf der Basis drahtloser Netztechnologien  Localization in Mobilen/Funknetzen  In-door Localization  Ausblick auf künftige Systeme  Techniken zur Navigation und Routenplanung</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCInformationandCommunicationSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a78213f1-e06f-11ee-92cf-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243034-512(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Antenna Engineering</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einführung in die Antennentechnik  Grundlagen der Antennentheorie (Definition, Antennenparameter)  Überblick über Antennentypen und Anwendungen  Einführung und Berechnung: Dipol, Yagi-Uta-Antenne, Patch-Antenne, Spiralantenne, Hornantenne  Methodik des Antennenentwurfs und Simulation  Live-Antennendesign und CST-Einführung  Herstellung von Antennen  Gedruckte Antennen  Array-Antennen  Live-Entwurf von Array-Antennen  Charakterisierung von Antennen  Live-Antennenmessung</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCInformationandCommunicationSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a7823f9b-e06f-11ee-80a5-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243035-506(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IP Networking and Software Defined Networking Lab</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Schwerpunkmäßig werden ausgewählte Aufgaben aus den Bereichen IP Networking und Software Defined Networking (SDN) theoretisch und praktisch behandelt.  Vermittlung von Grundlagenwissen zu IP- und Ethernet-Netzen  Aufbau und Konfiguration von Ethernet-LANs und IP-Netzen  Vermittlung von Grundlagenwissen zu Software Defined Networking (SDN)  Konfiguration eines SDN-basierten Switches  Konfiguration eines SDN-basierten Routers  Konfiguration einer SDN-basierten Firewall</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">90</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCInformationandCommunicationSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a781a367-e06f-11ee-a2d1-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243032-506(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Advanced Mobile and V2X Communication</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1. Zellulare Mobilfunksysteme Struktur von Mobilfunknetzen und grundlegende Probleme o zellularer Netzaufbau, Netzplanung o zellulare Handover (Verbindungsübergabe) Methoden o Aspekte des Mobilfunksystems der 3. Generation (UMTS) o Technologien für die Mobilfunkstandards LTE und 5G NR o 2. Lokale Funknetze für mobile Anwendungen und V2X Kommunikation Der Standard IEEE 802.11p/bd für mobile Anwendungen o Spezielle Ausbreitungsbedingungen und Netzorganisation o Anwendungsbeispiele o 3. Moderne Verfahren in drahtloser Nachrichtentechnik Ausbreitungsbedingungen o Eigenschaften des Fading-Kanals o Mehrträgerverfahren und Orthogonal Frequency Division Multiplexing o (OFDM) Fehlerschutzverfahren o Grundlagen der Schätztheorie o Fortgeschrittene Verfahren zur Kanalschätzung o MIMO-Systeme o Simulationsmethoden für Datenübertragungssysteme o</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">210</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCInformationandCommunicationSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a7826e88-e06f-11ee-94dc-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">281500-001(Version03)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kommunikation und Führung / Communication and Leadership</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Modul beschäftigt sich mit der Kommunikation im Führungskontext. Behandelt werden Führungsstile, Verhandlungsgespräche mit Geschäftspartnern sowie Mitarbeitergespräche (Zielvereinbarungen, Leistungsrückmeldungen, Konfliktklärung, Motivation etc.). Themen sind dabei: Kommunikationsmodelle, Gesprächsplanung und -steuerung, aktives Zuhören und Fragetechniken sowie Stile der Selbstpräsentation. Theoretische Hintergrundinformationen werden durch praktische Übungen ergänzt.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCInformationandCommunicationSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a781a366-e06f-11ee-b9b1-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243031-505(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Design of Digital Systems</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Entwurfsebenen und -strategien  Abläufe und Abstraktion beim Systementwurf  Systemspezifikation und HW/SW-Codesign  Modellierung, Hardwarebeschreibungssprachen  Werkzeuge für Simulation, Verifikation und Synthese</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCInformationandCommunicationSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a7826a88-e06f-11ee-9937-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">220000-605(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Optimierung für Nichtmathematiker</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die mathematische Optimierung beschäftigt sich mit der Aufgabe, eine Zielfunktion über einer gegebenen zulässigen Menge zu minimieren. Das Modul ist für nichtmathematische Studiengänge entworfen und gibt einen groben Überblick über Verfahren und Techniken zur Formulierung und Lösung von Klassen grundlegender Optimierungsprobleme sowie zur kritischen Interpretation der Lösungsinformation.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCInformationandCommunicationSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a78213ee-e06f-11ee-8930-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">243033-510(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wireless Broadband Data Reception</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Übertragungskanal  Kanalkapazität  Digitale Modulation Einträgerverfahren o Mehrträgerverfahren (OFDM) o  Kanalentzerrung  Diversity Empfang Software Defined Radio (SDR) o</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCInformationandCommunicationSystems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#a7826e87-e06f-11ee-b9de-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">261033-310(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Resource Efficiency from an Economic Perspective</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Modul gibt zunächst einen Überblick über die Verankerung von Ressourcen und Ressourceneffizienz in der Betriebswirtschaftslehre. Ausgehend von den disziplinspezifischen Ressourcen- bzw. Effizienzbegriffen werden anschließend Methoden der internen Unternehmensrechnung vorgestellt, mit deren Hilfe sich Ressourcenbedarfe und -verbräuche erfassen und analysieren lassen und die somit auch zu einer Bewertung und Steuerung der Ressourceneffizienz beitragen. Einzelthemen sind u. a.:  Ressourcen und Ressourceneffizienz in der Betriebswirtschaftslehre  Produktions- und Kostentheorie  Kostenrechnung  Investitionsrechnung  Ausgewählte Ansätze des Kostenmanagements</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCInformationandCommunicationSystems"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://tuc/course#"
+   xmlns:ns2="http://tuc.web.engineering/module#"
+   xmlns:ns3="http://across/university#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#738884bb-d9b4-11ee-907d-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">255050-001(Version03)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Formale Spezifikation und Verifikation</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Theoretische Grundlagen der Systemmodellierung und -simulation; Systemlebenszyklus und Systementwicklungsprozesse; Formale Spezifikationstechniken für Eingebettete Systeme – Ausgewählte Techniken aus der Luft- und Raumfahrtindustrie; Formale Verifikation funktionaler und nichtfunktionaler Eigenschaften von Eingebetteten Systemen; Sicherheitsaspekte Eingebetteter Systeme und Techniken für deren Nachweisführung</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCAutomotiveSoftwareEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#738a929a-d9b4-11ee-aa67-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">136009-002(Version02)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Spanisch II (Niveau A2)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Erweiterung und Festigung der Lexik und Grammatik  Landeskundliche/kulturelle Besonderheiten  Lexik: Ausbildung, Familie, Hobbys, Freizeit und Beruf  Grammatische Strukturen: (un)regelmäßige Verben, Modalverben, reflexive Verben, Possessivpronomen, direkte und indirekte Personalpronomen, Relativpronomen, Gegenüberstellung von pretérito indefinido und perfecto  Kommunikationsstrukturen: über Gewohnheiten reden, Vorschläge machen, Pläne machen, über Erfahrungen berichten und diese bewerten Die Ausbildung orientiert sich an der Sprachkompetenzstufe A2 des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCAutomotiveSoftwareEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#7389206f-d9b4-11ee-86a2-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">255050-004(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hardware/Software-Codesign II</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Abschätzung von Design Parametern  Rapid Prototyping/Emulation  Hardware/Software Co-Simulation  Hardware/Software Co-Specification mit SystemC  Überblick über Hardware/Software Interfaces  Interface Synthese</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCAutomotiveSoftwareEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#73894763-d9b4-11ee-b25e-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">244032-005(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Advanced Integrated Circuit Technology</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Anforderungen und Trends Semiconductor Technology Roadmap  Prozesse der Mikro- und Nanoelektronik (Schichtabscheidung, Ionenim- plantation, fortgeschrittene Lithographie, Ätzen/Strukturierung, chemisch- mechanisches Polieren, fortschrittliche Reinigungsverfahren) einschließ- lich neuer Prozess-Schritte  CMOS- / Bipolar- / BiCMOS-Technologie  CMOS-Prozessmodule für moderne IC-Technologien (STI, Gate, Source/ Drain, Interconnect Module, Packaging etc.)  spezifische Aspekte der sub 100 nm CMOS-Technologie  neue Transistor- und Speicherkonzepte; potenzielle Post-CMOS-Technolo- gien  3D-Technologie zur Erhöhung der Integrationsdichte  numerische Methoden für die Halbleiterprozess- und Equipment-Simula- tion  Modelle und Programmierung für fortschrittliche Abscheideverfahren (Monte Carlo und molekulardynamische Berechnungen)  Parameteroptimierungsmethoden</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCAutomotiveSoftwareEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#73892070-d9b4-11ee-94c0-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">256050-001(Version03)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Labor Eingebettete Software</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Praktikum beschäftigt sich mit der angewandten Modellierung, Analyse und Entwicklung eingebetteter Software-Systeme. Dabei wird auf eingebetteter Hardware ein aus mehreren Teilprojekten bestehendes Projekt entsprechend vorgegebener Spezifikationen entwickelt.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCAutomotiveSoftwareEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#738884bc-d9b4-11ee-bf81-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">255050-007(Version02)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Automotive Software Engineering</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Modul bietet vertiefende Einblicke in die Softwareentwicklung für Steuergeräte. Hierbei kommt den Aspekten Kommunikation und Standardisierung besondere Bedeutung zu.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCAutomotiveSoftwareEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#738ae074-d9b4-11ee-a009-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">250000-014(Version02)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forschungspraktikum</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Forschungspraktikum kann in einem Betrieb oder auch an einer Professur durchgeführt werden. Das Thema muss informatische Fragestellungen und Lösungen aus dem Bereich Automotive Software Engineering bearbeiten und sollte so gewählt werden, dass seine Bearbeitung möglichst gut auf die Masterarbeit vorbereitet.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">450</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCAutomotiveSoftwareEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#7389e31a-d9b4-11ee-a1aa-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">257080-005(Version02)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Medienretrieval</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Medienretrieval beschäftigt sich mit der Suche in multimedialen Datenbeständen mit besonderem Fokus auf:  Retrieval-Prozess  Retrieval-Modelle  Metadaten  Evaluation von Retrieval-Systemen  Metadatengenerierung</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCAutomotiveSoftwareEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#7389bc2a-d9b4-11ee-92d4-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">255010-004(Version04)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hardware Development with VHDL</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Paradigmen und Konzepte zur Implementierung von Funktionalitäten als kombinatorische oder sequentielle Digitalsysteme unterscheiden sich deutlich von den etablierten Verfahren zur Programmierung mittels imperativer Programmiersprachen. Dieses Modul befasst sich mit den Paradigmen des Hardwareentwurfs und setzt sie in Relation zu imperativen Programmieransätzen. Als Beschreibungssprache kommt VHDL zum Einsatz. Schwerpunkte dieses Moduls sind:  VHDL Grundlagen (Konzepte, Syntax, Semantik)  Vergleich zu imperativen Programmiersprachen  Kombinatorische Systeme und ihre Modellierung  Sequentielle Systeme und ihre Modellierung  Komponenten der Register-Transfer-Ebene und ihre VHDL-Realisierung  Modellierung und Realisierung komplexer Systeme  Praktische Erfahrungen in der VHDL-Beschreibung Der praktische Umgang mit entsprechenden Entwurfsprogrammen zur Simulation und Synthese der VHDL-Beschreibungen wird ebenso vermittelt.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCAutomotiveSoftwareEngineering"/>
+    <ns2:hasModules rdf:resource="http://tuc.web.engineering/module#a56f7546-d9b5-11ee-931c-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#7388d293-d9b4-11ee-876d-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">257070-004(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Software Engineering and Programming Basics</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Modul liefert einen Überblick über die elementaren Grundlagen der Softwaretechnik und der Programmierung. In der Softwaretechnik werden dabei die Konzepte des Softwarelebenszyklus überblicksartig dargestellt. Die Programmierung als ein elementarer Bestandteil des Softwarelebenszyklus wird dabei vertieft behandelt, einschließlich Kontrollstrukturen sowie der grundlegenden Konzepte der Objektorientierung (Vererbung, Polymorphie, Schnittstellen).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCAutomotiveSoftwareEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#7388d294-d9b4-11ee-a0cf-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">257070-003(Version03)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Empirical Software Engineering</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neue Ergebnisse in der Informatik (und insbesondere in der Softwaretechnik) haben oft zum Ziel, dass ein System bessere Qualität hat, geringere Kosten verursacht, schneller ist, wartbarer ist oder von Benutzern besser verstanden wird. Aber wie lassen sich solche Aussagen belegen, insbesondere wenn Menschen involviert sind? Dieses Modul stellt verschiedene empirische Methoden zur Evaluierung vor und diskutiert, welche Evaluierung für welche Fragestellungen geeignet ist. Beispiele werden überwiegend aus den Bereichen Software Engineering und Programmiersprachen entnommen, z. B.:  rigorose Messung von Performance, Benchmarks,  quantitative Messungen, z.B. Metriken, Software Repositories,  qualitative Methoden, z.B. Interviews, Fallstudien,  kontrollierte Experimente mit Entwicklern,  notwendige statistische Grundlagen.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCAutomotiveSoftwareEngineering"/>
+    <ns2:hasModules rdf:resource="http://tuc.web.engineering/module#a56901e6-d9b5-11ee-a9a3-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#7389953d-d9b4-11ee-b7c9-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">255030-005(Version02)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sicherheit Verteilter Software</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Angebot fokussiert das Problem der Sicherheit im Internet und im Web, auf die damit verbundenen Anwendungssysteme und auf Verteilte Software im Allgemeinen. Das Modul vertieft vier Bereiche: 1. Bereich - Angriffe auf Verteilte Software und Verteilte Systeme  Klassische Angriffstechniken  Web-basierte Angriffe  Social Engineering und andere Angriffsverfahren 2. Bereich - Sicherheit  Einführung in Methoden und Ansätze der Kryptographie  Ansätze, Dienste und Werkzeuge zur Rechnernetz-Sicherheit, z. B. IPSec, Kerberos, Zertifikate, LDAP, RADIUS, Firewalls, IDS, Sniffer, Scanner  Management und Sicherheitsaspekte von drahtlosen lokalen Netzen 3. Bereich - Identität  Einführung in Identität, Gefahren, Risiken, Heilung und Sicherheit  Identity &amp; Access Management, z. B. Provisioning, Policies, Single Sign On (SSO), Directory Services, RBAC, 802.1X  Föderation von Benutzerrechten, z. B. Shibboleth, WS-Federation, Liberty Alliance Project 4. Bereich - Anwendungsorientierte Sicherheit  Anwendungsorientierte Sicherheit, z. B. bei Datenaustausch, Mail- und Web-Anwendungen  Maßnahmen zur systematischen Planung, Ausführung und Überwachung der Sicherheit  Trends, z. B. Selbstmanagement, Selbstheilung</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCAutomotiveSoftwareEngineering"/>
+    <ns2:hasModules rdf:resource="http://tuc.web.engineering/module#a56928d4-d9b5-11ee-8ff2-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#738a6b9a-d9b4-11ee-8aed-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">261033-205(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Businessplanung und Management von Gründungen</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Studenten setzen sich mit allen Aspekten der Selbständigkeit und der Gründung eines Unternehmens auseinander. Dazu zählen u.a. Ideenfindung und -bewertung, die Erstellung eines Businessplans, die Finanzierung einer Gründung und das Management von Start-Ups und KMUs.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCAutomotiveSoftwareEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#738a0a08-d9b4-11ee-b2bc-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">257030-006(Version02)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bildverstehen</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Modul gibt eine Einführung in das Bildverstehen, wobei besonders Mittel und Methoden der Künstlichen Intelligenz betrachtet werden. Schwerpunkt ist das Verstehen von Bildern:  Überblick zum Bildverstehen  Grundlagen der digitalen Bildverarbeitung  Bildvorverarbeitung  Bildsegmentierung  Merkmale von Objekten  Objekterkennung  Dreidimensionale Bildinterpretation  Bewegungsanalyse; Optischer Fluss</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCAutomotiveSoftwareEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#7389e319-d9b4-11ee-8c46-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">256030-001(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Advanced Management of Data</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Anforderungen an heutige Datenverwaltungssysteme sind u.a. Skalierbarkeit, kontinuierliche Verfügbarkeit, häufige Änderungen, Ortsunabhängigkeit, die Verwaltung verschiedenartigster Datentypen sowie der Umgang mit sehr großen und stetig wachsenden Datenmengen. Klassische relationale Datenbanksysteme sind oft nicht in der Lage, diese Anforderungen zu erfüllen. Betrachtet werden u.a.:  Objektrelationale und objektorientierte Systeme  NoSQL-Datenbanken  Graph-Datenbanken  Verteilte Datenbanken  Parallele Datenverarbeitung  Internet-Datenanbindung  Sicherheitsaspekte</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCAutomotiveSoftwareEngineering"/>
+    <ns2:hasModules rdf:resource="http://tuc.web.engineering/module#a56d46d7-d9b5-11ee-ae67-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#738836e7-d9b4-11ee-b403-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">255010-003(Version02)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Design of Software for Embedded Systems</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dieses Modul beschäftigt sich mit Entwicklungsmethoden für Software in eingebetteten Systemen. Dabei werden insbesondere folgende Aspekte behandelt:  Merkmale von nicht-eingebetteten und eingebetteten Systemen  Funktionale und nicht-funktionale Anforderungen an eingebettete Software (Zeitverhalten, Effizienz, Zuverlässigkeit, Wartbarkeit, Portabilität, etc.)  Programmierparadigmen für eingebettete Systeme (synchrone, zeitgesteuerte und schedulingbasierte Programmiersprachen)  Unterstützung durch Middleware und Betriebssystem  Trends und Beispiele aus der Praxis</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCAutomotiveSoftwareEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#7388f982-d9b4-11ee-99ac-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">255010-002(Version02)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Advanced Platforms for Automotive Systems</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Steuergeräte sind eingebettete Systeme, die eine Vielzahl an Funktionen im Fahrzeug realisieren. Sowohl die Anzahl der Steuergeräte als auch deren Vernetzung steigt in modernen Fahrzeugen stetig an. Um die Komplexität zu beherrschen, kommen spezifische Architekturen, Entwicklungsmethoden und -prozesse zum Einsatz. Dieses Modul bietet eine grundlegende Einführung in das Thema Entwicklung von Steuergeräten im Automobilbereich. Entlang des V-Modells werden die relevantesten Prozesse, Methoden und Technologien beleuchtet. Schwerpunkte hierbei sind:  Technischer Aufbau von Steuergeräten  Systemarchitekturen/Kommunikationsbusse, z.B. CAN, FlexRay, Automotive Ethernet, etc.  Softwareplattform – AUTOSAR  Techniken zur Validierung und Verifikation</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCAutomotiveSoftwareEngineering"/>
+    <ns2:hasModules rdf:resource="http://tuc.web.engineering/module#a56872c3-d9b5-11ee-b316-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#738a9299-d9b4-11ee-b5e7-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">136009-001(Version02)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Spanisch I (Niveau A1)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Vermittlung von Grundkenntnissen der spanischen Sprache (Lexik, Grammatik, Phonetik) und landeskundlichen/kulturellen Besonderheiten  Lexik zu einfachen Themen: Familie und Freunde, Sprachkenntnisse, Tagesablauf, Essgewohnheiten, Freizeitbeschäftigungen, Wohnort/ Unterkunft  Grammatische Strukturen: Artikel, Substantive, Adjektive, Adverbien, Zeitformen (presente und pretérito perfecto), Personalpronomen, Verneinung  Kommunikationsstrukturen: sich und andere vorstellen/ beschreiben, Wege beschreiben/erfragen, einfache Ziele ausdrücken, über Vergangenes berichten Die Ausbildung orientiert sich an der Sprachkompetenzstufe A1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCAutomotiveSoftwareEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#7388aba4-d9b4-11ee-9159-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">257030-003(Version02)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neurocomputing</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neurocomputing behandelt Grundlagen bis hin zu anspruchsvollen Methoden der neuronalen Verarbeitung. Dafür werden mathematische Kenntnisse der linearen Algebra und der Statistik vertieft. Neurocomputing fokussiert sich im Gegensatz zu Neurokognition eher auf Neuronale Netze zur Lösung von Anwendungen, als auf die Erklärung der Funktion des Gehirns, dabei können die behandelten Ansätze allerdings durchaus biologisch inspiriert sein. Themen des Moduls sind unterschiedliche Neuronenmodelle, Methoden des Lernens wie Deep Learning, Reservoir Computing, Self-Organizing Maps, Autoencoder und weitere aktuelle Methoden.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCAutomotiveSoftwareEngineering"/>
+    <ns2:hasModules rdf:resource="http://tuc.web.engineering/module#a56901e6-d9b5-11ee-a9a3-cc153190a929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#73894762-d9b4-11ee-9f59-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">244038-006(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Automotive Sensor Systems</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Allgemeine Aspekte zum Einsatz von Sensoren im Automobil  Sensoren für das Motormanagement  Sensoren für das Fahrwerk  Sensoren für die aktive und passive Sicherheit (z.B. ABS, ESP)  Fahrerassistenzsysteme  Sensoren für die Luftgüteüberwachung  Abgassensoren  Sensoren für die Beschleunigung, Kraft, Druck, Drehzahl  Selbstüberwachung und Selbstkalibrierung für Robustheit</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCAutomotiveSoftwareEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#738ab985-d9b4-11ee-8329-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">136004-006(Version02)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Deutsch als Fremdsprache II (Niveau A2)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Erweiterung und Festigung der Lexik u.a. zu Themen wie Ausbildung, Tätigkeiten, Hobbys, Freizeit und Beruf  Entdeckung und Übung neuer grammatischer Strukturen, z.B. trennbare und untrennbare Verben, reflexive Verben, Festigung der Zeitformen, Übungen zur Wortstellung in verschiedenen Satzkonstruktionen  Übungen zur deutschen Phonetik Die Ausbildung orientiert sich an der Sprachkompetenzstufe A2 des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCAutomotiveSoftwareEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#738b0762-d9b4-11ee-8945-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">250000-908(Version02)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Master-Arbeit</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Im Rahmen des Moduls wird eine Masterarbeit erstellt und verteidigt. Die Masterarbeit ist eine wissenschaftliche Arbeit auf dem Gebiet der Informatik mit Fokus auf Automotive Software Engineering. In der Masterarbeit und dem abschließenden Kolloquium weisen die Studenten nach, dass sie innerhalb einer bestimmten Frist ein begrenztes aber anspruchsvolles Forschungsproblem mit geeigneten wissenschaftlichen Methoden bearbeiten können.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">900</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCAutomotiveSoftwareEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#738a6b9b-d9b4-11ee-90f5-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">261032-305(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Technischer Vertrieb</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Besonders bei technologieorientierten Gründungen und KMUs kommt dem technischen Vertrieb an Firmenkunden eine Schlüsselfunktion zu. Das Modul vermittelt umfangreiche theoretische Grundlagen und Kenntnisse über den Ablauf von Business-to-Business-Geschäften.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCAutomotiveSoftwareEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#73896e4c-d9b4-11ee-b562-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">255030-003(Version03)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Software Service Engineering</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Serviceorientierte Architekturen (SOA) stellen eine wichtige standard-basierte und technologie-unabhängige Komponente im Lösungsbaukasten für die moderne Softwareentwicklung im Web und in der Cloud dar. Die Vorteile von SOA als Paradigma für das Distributed Computing und als Basis moderner, verteilter Software sind vielfältig. So existieren zahlreiche Architekturstile für Ermittlung, Nutzung, Verknüpfung, Realisierung und Verbreitung von lose- gekoppelten und über das Internet bzw. Web erreichbaren Software Diensten. Das Modul stellt grundlegende Ansätze, Konzepte, Technologien, Protokolle und Prinzipien moderner Software Services dar und vertieft deren systematischen Einsatz im Umfeld von Web Engineering sowie von SOA und Verteilter Software. Es werden unter anderem folgende Aspekte vertieft:  XML-basierte Web Services  REST Architekturstil  SOA Komponenten  Prinzipien und Muster, z.B. Business Process Choreography, Enterprise Service Bus (ESB)  Herausforderungen für Software Services im Geschäftsumfeld  Modellierung und Lebenszyklus Die Ansätze und Konzepte werden durch viele Fallbeispiele aus der Praxis verdeutlicht.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCAutomotiveSoftwareEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#738a30f5-d9b4-11ee-a464-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">257040-002(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Artificial Intelligence for Mobile Robots</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Methoden der Künstlichen Intelligenz, die für mobile Robotikanwendungen von Relevanz sind, insbesondere:  Intelligente Sensoren  Sensorfusion  Objekterkennung  Hindernisvermeidung  Pfadplanung  Navigation  Multi-Robot Szenarien</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCAutomotiveSoftwareEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#7388f983-d9b4-11ee-b505-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">255050-003(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hardware/Software-Codesign I</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einblick in verschiedene Entwurfsmethodiken und -strukturierungen für Eingebettete Systeme  Überblick und Vergleich von Zielarchitekturen und -komponenten für Hardware/Software-Systeme  ausgewählte Probleme der Hardware- und Softwaresynthese  allgemeine Partitionierungsverfahren  Hardware/Software-Bipartitionierung</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCAutomotiveSoftwareEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#738ae073-d9b4-11ee-8c51-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">250000-013(Version02)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forschungsseminar Informatik</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Im Seminar wird zu einem vorgegebenen Problemfeld selbständig eine Forschungsfrage identifiziert und bearbeitet. Die Studenten erarbeiten dabei eigenständig ein Thema, stellen es in einer Präsentation zur Diskussion und verfassen anschließend eine Seminararbeit, welche den Kriterien einer wissenschaftlichen Arbeit entspricht.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCAutomotiveSoftwareEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#7389bc29-d9b4-11ee-85a2-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">250000-015(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Themenschwerpunkte Informatik</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Informatik ist eine lebende Wissenschaft und bringt schnell neue Erkenntnisse hervor. Im Modul Themenschwerpunkte Informatik werden solche Ergebnisse aufgenommen.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCAutomotiveSoftwareEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#73896e4d-d9b4-11ee-b93c-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">256050-002(Version03)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Echtzeitsysteme</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Theorie und Praxis von Rechensystemen, die zur Lösung zeitkritischer Probleme eingesetzt werden</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCAutomotiveSoftwareEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#738ab984-d9b4-11ee-a7b3-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">136004-005(Version02)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Deutsch als Fremdsprache I (Niveau A1)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Vermittlung von Grundkenntnissen der deutschen Sprache (Lexik, Grammatik, Phonetik)  Einführung und Übung der Lexik zu einfachen Themen, wie Familie, Einkaufen, Wohnen  Lernen erster grammatischer Strukturen und Regeln wie Artikel und Deklination der Nomen, Modalverben, Verneinung, Verbformen im Präsens und Perfekt  Phonetische Übungen Die Ausbildung orientiert sich an der Sprachkompetenzstufe A1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCAutomotiveSoftwareEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#738a30f6-d9b4-11ee-ad65-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">250000-016(Version01)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grundlagen Forschungsorientierung</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forschung in einem wissenschaftlichen Umfeld stützt sich auf den Stand der Technik und der Wissenschaft. Dieser wird durch die Fachliteratur und aktuelle Fachpublikationen sowie über im Internet veröffentlichte Informationen zu Forschungsaktivitäten beschrieben. Methoden und Merkmale zur Analyse des Stands der Technik und der Wissenschaft werden vorgestellt.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCAutomotiveSoftwareEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#7389953c-d9b4-11ee-90be-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">256050-003(Version03)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Verlässliche Systeme</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Begriffe und Metriken der Verlässlichkeit  Störverhalten  Entwurfsmuster für Fehlertoleranz  Analyse von Verlässlichkeitseigenschaften  Diagnose  Ansätze zur Erhöhung der Verlässlichkeit in Hard- und Software</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCAutomotiveSoftwareEngineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#738a0a07-d9b4-11ee-8b32-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">257080-004(Version03)</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mediencodierung</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Es werden zentrale Aspekte der Informationstheorie, Codierung medialer Daten und Kompressionsalgorithmen besprochen. Ferner wird diskutiert, wie diese bei der Codierung einzelner Medientypen Verwendung finden.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCAutomotiveSoftwareEngineering"/>
+  </rdf:Description>
+</rdf:RDF>

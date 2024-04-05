@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://across/university#"
+   xmlns:ns2="http://tuc.web.engineering/module#"
+   xmlns:ns3="http://tuc/course#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5438002a-da26-11ee-905f-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FF-00038-1W/S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biodiversity conservation of forest areas</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">International conventions and declarations on maintaining biodiversity. Biodiversity levels. Principles of forest ecosystem protection. Seeking a consensus between economic interests and nature conservation in anthropogenic changed forests and forests of varying degrees of naturalness. Ecological consequences of anthropogenic transformations of forest ecosystems. Mechanisms of disappearance of the population of selected species of plants, fungi and animals. The role of invasive species in reducing the biological diversity of forest ecosystems. Threats and loss of diversity at the genetic level. The impact of modern forest management on biodiversity. Methods for minimizing biodiversity losses. In situ and ex situ protection.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543dc7e2-da26-11ee-93c9-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00235S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Light gauge framing in steel buildings\naccording to Eurocode 3</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cold-formed Steel Sections; Types of Cold-formed Steel Sections Individual structural framing members; Panels and decks; Manufacturing; Roll forming; Folding, Press braking. Peculiar characteristics of cold-formed sections, Problems of Cold-formed Steel Design, Buckling Strength of Cold-formed Members, Torsional rigidity, Web Crippling Connections - Bolting, Blind rivets, Self-drilling screws, Self-tapping screws, Fired pins, Arc- welding; Ductility and plastic design; Design assisted by testing; Corrosion resistance; Metal coating, Paint coating; Fire resistance</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543a6b89-da26-11ee-8798-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE00109-1W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Economy of Energy Consumption</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Various types of traditional and renewable energy sources and their characteristics. Useful energy, final energy and primary energy, partial efficiency of the heating system. Selected methods of heat saving. Performing a technical and economic analysis of selected types of heating systems (traditional sources and solar collectors, PV, heat pumps)</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5439a9de-da26-11ee-bc8f-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00234W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Conservation and restoration</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Principles of development of conservation and revaluation programs for areas of historical city parks. Revaluation of degraded gardens structures in urbanised areas. Legal basics of functioning conservation services in Poland. The history of development of conservation doctrines dedicated to historical city gardens. Contemporary trends of designing parks in a historical environment. The role of conservation services in spatial planning and revaluation programs for city parks. Project: Preparation of a conservation study project of revalorised historic garden. Field work: Inventory and multi-aspect analysis of the area of a historic garden revaluated during the project classes.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#54395afd-da26-11ee-b6f0-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00006-1W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Concrete structures</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Idea of reinforced structures; behaviour concrete and RC-members under loading. Historical background. Basis of structural design: basic requirements; principles of Limit State Design; verification by partial factor method; actions and environment influence; combinations of actions; partial factors. Materials and products properties. Concrete: strength; elastic deformations; creep and shrinkage; stress-strain relations, durability criteria for concrete. Reinforcing steel properties: strength; ductility characteristics; stress- strain relations, anchorage of reinforcement. Durability and cover to reinforcement. Ultimate Limit State design (ULS). Bending with and without axial force: rectangular sections, flanged sections (single and double reinforced), section of general shape. Shear: members not required or required design shear reinforcement. Punching: punching shear resistance of slabs with or without shear reinforcement. Serviceability Limit States (SLS): Crack control with and without direct calculation of crack widths; Deflection control. Detailing of reinforcement.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#54361592-da26-11ee-bf8d-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00218W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Advanced technologies of building\nmaterials and prefabricated elements</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: The issues of industrial production of construction products. Production technology: concrete, metal and wooden prefabricated elements and products, construction ceramics, cellular concrete construction products, sand-lime construction elements. Project: Technological and organizational design of a prefabricated elements factory with a given production capacity. Laboratory: Laboratory tests - the evaluation of properties and quality control of building materials and prefabricated elements</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543d443b-da26-11ee-88a4-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00265W/S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HVAC units and installations in reliability\ntheory</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Basic concepts of reliability theory. Operational reliability indicators. Reliability structures. Failure rate analysis of heating and gas networks, steel pipelines as a result of pitting corrosion, pumps and valves as a result of cavitation. Possibilities to increase the operational reliability of heating and air-conditioning systems. Project: Preparation of calculations and assessment of the reliability state on calculation examples for selected HVAC installations and devices, gas or renewable energy sources.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#54380029-da26-11ee-b740-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00135W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biochemistry of proteins</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.Health and Safety Rules. Introduction to the organization of biochemical laboratory. Preparation of hydrophilic colloid solutions. Examination of the solubility of globulins in water and diluted saline solutions. Protein thermal denaturation and protein coagulation. 2.Isolation of total protein from different types of biological samples: in vitro culture of human cells, bacterial cells and sewage sludge. Quantitative determination of protein in biological samples by using Lowry method. 3.Determination of protein content in biological samples by ultraviolet absorbance measurement. Determination of protein content in biological samples by using Bradford's method. 4.Electrophoretic separation of proteins from various biological samples by vertical polyacrylamide gel electrophoresis 5.Extraction of ribonucleoproteins from fresh thymus or pancreatic bovine tissue.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543dc7e0-da26-11ee-b016-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00026S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Land rehabilitation</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lectures: Forms of soil degradation such as salinization, desertification, acidification, organic depletion, compaction, nutrient depletion, chemical contamination, deterioration by mining. Water, gully, gravity and wind erosion. Water erosion control. Wind erosion control. Shelterbelts and riparian zones. Project: Methods of water and wind erosion mapping. Land rehabilitation project. Mathematical modelling of erosion processes.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543d1cb3-da26-11ee-8480-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00231S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">History of Architecture (HES)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: History of architecture from ancient times to the era of modernism. Presentation of the basic typologies and stylistic features of each individual historical periods. Detail in architecture. Architecture in the city space. Classes: Relating the principles and theory of architecture with landscaping greenery, case studies in relation to the characteristics of the epochs.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543c78d0-da26-11ee-b754-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00216W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">General building engineering</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">L: Traditional building engineering. Classification of buildings. Elements of buildings and building structures. Spatial rigidity of buildings. Expansion joints. Technical specifications for buildings and their location according to Polish building law. Foundations. Building with brick walls. Chimney walls. Ceilings. Staircases. Steep and flat roofs. Roofings. Windows and doors. Insulations. Finishing elements. C: Load combinations, calculation of loads. Simplified calculations of selected building elements. P: Specification and technical drawings of a building built from bricks</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5436d828-da26-11ee-904d-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00176-1W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Basics of road engineering</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Characteristic of land transportation. Fundamentals of road's horizontal and vertical alignment, characteristics of road cross-section elements. Characteristics of road construction and road drainage systems. Public transport policy - development strategies, characteristics and priorities for public transport. Basics of road intersections and traffic engineering. Facilities for pedestrians and cyclists. Basics of road traffic safety. Project: Elaboration of a geometry design of a rural road including calculations and graphical interpretation of horizontal and vertical alignment of a road and cross-sections on straight and superelevation segments of the road.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543ca1de-da26-11ee-9373-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00226W/S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">General chemistry for engineers</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LECTURE: Basic concepts and important chemical laws. Chemical reactions and their division. Inorganic compounds. Types of inorganic chemicals, their properties, preparation and reactions. Amphoterism. Reactions in aqueous electrolytes. Theories of acids and bases. Electrolytic dissociation, constant and dissociation degree. Power of electrolytes. pH scale. Buffer mixtures. Hydrolysis reactions. Processes of oxidation and reduction. Ways of expressing concentrations. Solubility product constant. Elements of chemical kinetics. Catalysis, catalyst. Elements of electrochemistry. Galvanic cells. Reduction and oxidation potentials. SEM . Electrochemical series of metals. Corrosion. Electrolysis. Fundamentals of analytical chemistry. Stoichiometric calculations. LABORATORY: Basic laboratory glass. Reactions in aqueous electrolyte solutions: amphotericity, redox reactions. Analysis of cations, anions and salts in solution. Chemical properties of metals, a reactivity series. Corrosion. pH scale and buffer solutions. Kinetics of chemical reactions. Quantitative analysis. Introduction to titration methods (alkacimetry, manganometry, water hardness).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5439a9df-da26-11ee-bb86-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00016-1W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Descriptive geometry</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Basic concepts of projective geometry. Parallel projection and invariants. Pohlke’ theorem and axonometry: isometry, military, cavalry, orthogonal. Applicable perspective. Topographic projection. Basic constructions in axonometry.Monge orthographic projection. Multiview orthographic projection of solid figures and its shadows. Third projection surface, transformations and its application. Profile projection. Intersection of two and more solid figures in frame representation in axonometry. Geometry of roofs, revolution and revolved section, roofs with constraints – Monge projection and axonometry. CAD programs and descriptive geometry in creation of graphic part of engineering documentation.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5436ff16-da26-11ee-aa35-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00070S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Basics of traffic engineering</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Characteristic of road users. Traffic research, measurements and analyses. Traffic flow characteristics. Methods of traffic conditions evaluation - level of service determination. Traffic management and traffic calming – objectives and measures. Road signs and markings. Pedestrian and bicycle facilities. Road safety - problems and needs of improvement. Skills: Acquired knowledge of research and analyses of road traffic. Ability of assessment of traffic condition. Acquired knowledge of problems concerning traffic safety.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543b0dc5-da26-11ee-908e-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00263W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Environmental management system in\nthe organisation</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Characteristics of management systems according to international standards organization ISO. Elements of an environmental management system (EMS) in accordance with the requirements of ISO 14001 and the EU regulation 761/2001 EMAS. Identification of environmental aspects, as an essential element of planning environmental management system. Rules for the implementation of environmental management system in local government units and other organizations. Procedures for environmental management system audit according to ISO 19011. Documentation system. The costs and benefits associated with the implementation and operation of the environmental management system. The procedure for certification of ems. Methods and indicators for assessing the environmental activities - operational and investment. Methods and principles of integration of management systems: quality management system, environmental management system and occupational health and safety management system.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5436636c-da26-11ee-8260-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00105-</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alternative Energy Sources</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vvarious types of renewable energy sources. Solar Radiation. Flat Plate And Concentrating Collectors. Fundamentals of Solar Photo Voltaic Conversion, Solar Cells, Solar PV Power Generation, Solar PV Applications. Types of Wind Energy Systems. Principles of Bio-Conversion. Heat pumps, resources, types of wells.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543c78cf-da26-11ee-bad2-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00144-1S/W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gas installations and networks</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Types of gas. Elements of gas installations. Elements of the gas network. Calculation of demand for gas; conduct and types of gas pipes Calculation of pressure losses in the installation / gas network. Installation of gas meters, gas cookers and other gas appliances. Flue gas appliances and ventilation of rooms. Laws concerning the installation / gas networks. Rules for the implementation and acceptance of installation / gas network. Operation and installation of gas appliances. Risks associated with the operation of the gas installation, Maintenance and caulking gas installations</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543ae6bc-da26-11ee-9454-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00222W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Environmental administration and\nmanagement</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Ecological policy , pro-ecological management of the territorial unit and the business companies. Documents of environmental management. Instruments of analysis and impact on the environment in territorial units and enterprises, environmental management systems - characteristics and requirements: according to ISO 14001, EMAS, Cleaner Production Concept, LCA. Financing of environmental management systems, ways of applying for financing. Project: documents of environmental management in territorial units, preparation of environmental management documents for local authorities, analysis of development strategies, tax system, ecological charges and penalties. Pre-preparation for environmental management systems design in industrial plants. Analysis of an application for environmental management projects.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543dc7e1-da26-11ee-b937-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00075W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Landscape ecology</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Basic definitions and terms used in the landscape ecology. The mutual relationship between the different components of landscape ecology and other discipilnes of nature and earth sciences. Elements, features, parts and units of the landscape. 'Patch - corridor - landscape matrix' pattern. The functioning of ecological corridors. Biogeographic theory of the islands and landscape patches as the environmental islands. The concept of metapopulation. Boundaries, ecotones and barriers in the landscape pattern. Biodiversity of the landscape of different spatial patterns. Influence of the spatial structure of the landscape on the functioning of plant and animal populations. Methods of the analysis of the spatial structure of the landscape. Classification and the typology of the landscape. Transformation of the landscape. Application of landscape ecology in nature protection and landscape planning. Analysis of connections between different elements of the landscape. Map of the landscape units.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543cccb2-da26-11ee-968d-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCEE-00143W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Heat centers</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture; Types of boilers. Schemas of systems. Advantages and disadvantages of selected solutions. Main elements of heating installations. Project: Calculations of heat losses and power of boiler. Selection of main elements of the system.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5436b13a-da26-11ee-b493-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00236S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Audit of public space accessibility</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Theoretical basis for the analysis of accessibility of the built-urban environment for different groups of users, including people with disabilities. Definition of ergonomic principles in the context of universal design and methodology for creating valorisation of space. Project: The scope of the design task includes the valorisation of a specific space in terms of its accessibility in light of the ideas and principles of universal design.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5436ff15-da26-11ee-a0f9-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00261S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Basics of Sewerage Systems</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lectures: General information on sewage disposal systems. Computation of sewage flows. Design principles of separated and combined sewage systems. Operation and design principles of pressure and vacuum sewage systems. Hydraulic calculations of sewers. Pipe materials and sewerage appurtenances. Project: Engineering design of gravity sewer system for a small community (foul water only) Specialized workshop – application of professional computer software for hydraulic analysis of sewer system</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#54363c6f-da26-11ee-80f3-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Air conditioning and ventilation systems\n2</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture; Heat losses and hydraulic calculations. Types of radiators. Schemas of heating systems. Advantages and disadvantages of selected HVAC systems. Main elements of heating installations. Project: Calculations of heat losses and power of radiators. Selection of radiators. Selection of heating system type and pipe connections and dimension of pipes. Regulation in HVAC systems.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543c1ec1-da26-11ee-9085-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FF-00037S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forest protection</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Forest protection against the negative effects of abiotic factors (atmospheric, soil). Forest protection against damage caused by biotic factors: invertebrates (nematodes, insects, arachnids, snails), vertebrates (birds, mammals). Forest protection against damage related to human activities: forest damage, poor forest management, tourism, industrial and mining damage, fires. Exercises: Analysis of selected prevention methods in nurseries and forest stands, with particular emphasis on protecting forest against fires and damage by abiotic factors, e.g. extreme weather conditions. Principles of Integrated Plant Management (implementation of the EC Directive). Damage from forest animals and its prevention. Discussion of the Forest Protection Instruction and plant protection products recommended for use in forestry. Preparation by students of a project for the protection of a selected object (nursery, stand) in the form of a report or presentation based on the issues covered in the Forest Protection Instruction. Field exercises: Lustration of stands affected by the bark beetle outbreak and the occurrence of butt rot roots, as well as analysis of various options. Practical methods of seedling protection in the forest nursery.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5436636d-da26-11ee-ad7e-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00227S/W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Analytical chemistry</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CLASSES: Stoichiometric calculations performed during titration analysis; pH calculations; solubility product constant calculations; concentration conversion. LABORATORY: Determination of the most important physicochemical parameters of water samples including: water hardness, content of chloride ions, sulfate ions, nitrate ions, cations of various metals, selected organic compounds and many other by the use of weight method, titration, spectrophotometric, flame photometry, high performance liquid chromatography.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543da0d1-da26-11ee-b2a7-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FF-00042W/S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Invasive species in forest areas</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biological invasions: the essence of the phenomenon, the basic concepts used in the study of biological invasions, international legal instruments to prevent and mitigating the invasion. Features of the biology of invasive plant and animal species. Sources of biological invasions. Impact of environmental transformations by the invasions. Changes in forest ecosystems caused by invasive species populations. Invasive species of greatest importance in forest management. Techniques and costs of mitigating biological invasions in forests.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543d1cb4-da26-11ee-89f6-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00233S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">History of Urban Planning (HES)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: History of urban planning from ancient times to the era of modernism. Presentation of the basic typologies and stylistic features of each individual historical periods. Urban factors and their impact on city scape and urban patern in the history. Classes: Relating the principles and theory of urban planning with landscaping greenery, case studies in relation to the characteristics of the epochs.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543ac00f-da26-11ee-8513-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00224W/S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Energetic use of biomass</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lectures. Proximate and ultimate properties of biomass. Characteristics and requirements for solid, liquid and gaseous biofuels. Biomass thermal processing. Waste-to-biomass. Environmental pollution caused by the energy sector. Current programs preventing pollution in the energy sector. Laboratory. Principles of work in a biomass laboratory. Proximate and ultimate analysis of biomass by the means of thermogravimetry, bomb calorimetry and TOC. Methodologies in investigating the moisture and ash content of biomass.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543c517f-da26-11ee-a90c-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00043-1S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Foundation</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lectures: Classification of foundations. Shallow foundations: pad footings, strip foundations, mat and plate foundations. Control of groundwater. Excavations. Deep foundations: pail foundations. Gravity, embedded and slurry walls. Soil improvement: replacement, preloading, vertical drains, stone columns, jet grouting, dynamic replacement. Reinforced soil, soil nails and anchors. Projects: Designing of pad footings and cantilever retaining walls in accordance with the appropriate Standards for given actions and soil - water conditions.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5438269e-da26-11ee-8e9d-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00072-</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biotechnology</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: DNA, structure and function. Main mechanisms of gene regulation in Procaryota and Eucaryota, vectors and genes manipulation. Gene cloning. Genetically modified microorganisms and their application in environmental analysis. DNA cutting with restriction enzymes. Laboratory: DNA isolation, plasmid DNA isolation, DNA electrophoresis, gfp and lux gene analyse in different conditions.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543d443c-da26-11ee-96af-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00167S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hydraulics and hydrology</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lectures: Physical and mechanical properties of liquids and gases. Liquid pressure on straight, inclined and curved walls. Fluid pressure. Equilibrium of bodies completely or partially submerged in liquid. Laminar and turbulent movement. Bernoulli's equation for ideal and real liquids. The principle of keeping the moments at the flow of liquids and gases in pipes. Ground water flow. Open channels. Protection and sealing of open channels. Light of bridges and culverts. Water cycle in nature. Watercourse and catchment. Catchment water balance. Basics of hydrometry and hydrography. Water management. Project: Examples of fluid pressure on vertical, inclined and curved walls. Calculations of energy grade line (EGL) and hydraulic grade line (HGL) at liquids flow in the pipes. Design principles for simple and complex open channels. Exemplary project of a ring drainage of a small building.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5436b13b-da26-11ee-9fd2-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00099-1W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Basics of building structure mechanics</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fundamentals of static analysis of determinate and indeterminate spatial structures, properties and behaviour of spatial structures, general relationships between forces and displacements, matrix formulation of the displacement method, analysis of 3-D frames by force and displacement method, 3-D trusses, arches.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543a6b88-da26-11ee-a796-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00031W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ecology</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The levels of biological organization: species, individual, population, biocoenosis, ecosystem. Life and the physical environment. Adaptation to aquatic and terrestrial environments. Habitat and ecological niche. Ecology tolerance of individuals. Population ecology. Population structures. Temporal and spatial dynamics of populations. Reproductiveness, mortality, migration of populations. Biocoenosis ecology. The structure and organization of biocoenosis. Interaction: competition, predation, parasitism, mutualism. Ecosystem: spatial and trophic structure. The food chains, food webs and food levels. Energy and matter in the ecosystem. Primary and secondary production. Pathways of elements in the ecosystem. Ecological succession. Applied ecology.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5438269d-da26-11ee-b23f-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00138W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biogas</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lectures: Air pollution. Climate warming. Greenhouse gases. GHG reduction policies and measures. Anaerobic digestion. Substrates for biogas production. Biochemical processes of anaerobic digestion. Kinetics of biogas production. Main parameters of biogas production. Biogas plants: types, operational parameters, technology, components. Utilization of biogas. Digestate use and management. Environmental impact of biogas production. Advantages of biogas technologies for society. Laboratory: Chemical analyses of biogas substrates and digestate. Biomethane potential test as a method for measuring the methane specific yield. Project: The determination of biogas potential in the selected region. Calculation of the efficiency of biogas production from different substrates. Determination of the potential and kinetics of biogas production from different substrates based on laboratory analyses.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#54363c70-da26-11ee-b2c6-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00025W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Air Protection</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Basic information about atmospheric air and its pollution. Classification of types and sources of air pollution, emission, sling, immission. Criteria used to determine air quality hazards. Ambient air quality standards. Primary and secondary pollution, natural and anthropogenic. The importance of VOC in the threat of ground-level ozone. POPs impact on ambient air quality; Long-range pollution transfer. The use of the Pasquilla model to determine the extent of immission from point sources. Meteorological conditions of pollution spread. The role of freons in depleting the ozone layer. Ecological characteristics of freons. Greenhouse effect mechanism. Gases aggravating the greenhouse effect. Behavior of dusts and aerosols in the air, basic concepts. Dedusting devices. Technology of neutralizing pollutants in waste gases - absorbers, adsorbers, heat burners, bioscrubbers, cryogenic methods, wet oxidation. Communication air pollution and methods of their minimization. International conventions and protocols limiting emissions. Ecologically clean and highly efficient technologies for burning solid fuels. Principles of measuring pollutant emissions in air and waste gases, basic devices and methods of analysis. Project: identification of pollution emission sources, characteristics of individual pollution groups, assessment of the impact of emissions on quality air, selection of primary and secondary methods to reduce gaseous and dust pollutant emissions, calculation of gaseous and dust pollutant emissions, selection and design of dedusting devices.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#54384dca-da26-11ee-b6fe-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00148W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Botany and plant physiology</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The structure and function of the plant cell, of tissues and plant organs including the anatomy of development of the root, the stem, the flower, the fruit and seeds. Bases of the systematics of plants and their classification. Basic living processes occurring on different levels of the plant organism, from molecular, by the level of organelles, cellular, tissue, organs, the whole plant and plant communities, determining the growth and the development of plants and having significance in the botany. Mechanisms of the regulation of living processes of plants. The water relations, the mineral nutrition, respiration, photosynthesis, assimilate transport, growth and plant growth regulators, development and the influence of external factors on the plant functions. Present achievements of the physiology of plants with the special regard of the influence of stress factors of the environment (such as frost, cold, high temperature, low and high active radiation, drought, heavy metals, soil and atmospherically pollution, salinity, diseases, pests) on plants and bases of the resistance of plants to stressors. Ecophysiological aspects of interactions between organisms of the same species and different plant species.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543b8544-da26-11ee-b1c0-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00119S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Flood hazard in small urban catchment -\nhydrological calculations</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Specialization workshop: Interaction man-water. Integrated management of the urban area and its surroundings. Water balance in urban area. Influence of the urban area on formation and circulation of water. Hydrological response analysis. Stormflow assessment. Determining the hazards of flooding. Flood wave model for small urban catchment. Calculations: determination of total precipitation, determination of effective precipitation, estimating the lag time, transformation of effective precipitation into direct runoff, runoff hydrograph.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543cf3fb-da26-11ee-bfb0-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Heating systems</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture; Heat losses calculations. Types of radiators. Schemas of heating systems. Advantages and disadvantages of selected HVAC systems. Main elements of heating installations. Project: Calculations of heat losses and power of radiators. Selection of radiators. Selection of heating system type and pipe connections and dimension of pipes. Regulation in HVAC systems.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543df529-da26-11ee-b6b7-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00069-1W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Low energy buildings and rational use\nof energy in buildings</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: An idea of the low-energy buildings, definitions depending on energy consumption, design principles. Detailed solution low energy buildings (passive). Installations and heat source and their role in buildings with low energy demand. The building and its operation and the energy consumption on the background of the heat balance. Possibilities of individual components of heat balance of the building. The role of energy certificates in the rationalization of the use of energy. Energy certification in EU directives and Polish regulations. Investments in improving the quality of buildings and the protection of the environment. Thermal modernization as part of the rationalization of the use of energy in buildings. Ecological aspects of energy consumption in buildings. Classes: Assessment of the building's energy condition. Selection of measures rationalizing energy consumption in the building. Development of assumptions for the concept of a passive building. Analysis of the calculations from the previously presented examples and drawing conclusions.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5438e625-da26-11ee-8e8f-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00096W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Composite Structures</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Composite Structure. Materials. Structural analysis. Methods of global analysis. Classification of cross section .Resistances of cross section of beam: plastic bending resistance, non-linear resistance to bending, elastic resistance to bending. Resistance to vertical shear, lateral-torsional buckling of composite beams. Shear connection: Longitudinal shear force in beams for buildings, Headed stud connectors in solid slabs and concrete encasement, Design resistance of headed studs used with profiled steel sheeting in building, Longitudinal shear in concrete slabs. Composite slabs with profiled steel sheeting for buildings. Composite columns and composite compression members. Composite joints in frames for buildings: analysis, modelling and classification, design methods, resistance of components. Serviceability limit states for beams: Stress, Deformations in buildings, Cracking of concrete.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543b5e7f-da26-11ee-9827-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00029W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Facilities for water and wastewater\ntreatment I</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Discussion of basic systems of domestic water treatment plants and technological water treatment. Transfer of knowledge in the field of basic methods of source water purification i.e. ground water, surface water and infiltration water. Presentation of knowledge in the field of devices for mechanical, chemical, physico-chemical. and physical treatment of drinking, domestic and process water: straining, sedimentation coagulation, filtration, de- and de-ionization, sorption, disinfection, softening, deoxygenation. Discussion of sludge management at the water treatment station. Project: Types, operating characteristics, technological parameters, and application of devices used for water treatment in real conditions of water treatment. Examples of technological and design solutions of water treatment stations for drinking and household purposes.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#54389a3e-da26-11ee-99d5-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00147S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Civil engineering materials</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Legislation on the standardization and marketing of building materials. History and classification of building materials. Technical features - definitions and test methods. Basic issues regarding the durability of building materials. Classification, assortment, properties and basic principles of production of the main groups of building materials (products from natural stone, ceramics, wood, asphalt, glass, metals and plastics). The impact of building materials on the environment and human health during their production phase and during their use. Laboratory classes: Laboratory tests of specific technical features and parameters of selected building materials and products. Identification, description of technical features and scope of application of selected groups of materials and products.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5439a9e0-da26-11ee-a94f-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00007W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Designing of steel structures according\nto Eurocode 3</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Characteristics of steel structures. Steel grades used in construction. Steel selection for constructions. Behaviour of steel under static, thermal and fatigue loads. Limit states of load capacity and structure serviceability. Protection against corrosion and fire. Steel products - rolled sections, cold rolled products, welded elements. Connections used in construction: welding, screws, rivets, fasteners for thin sheets. Requirements design, principles of load capacity assessment. Bending elements: rolled beams, plate girders. Shaping beam connections, design of supports and bearings. Local stability of elements. Tension elements. Compressed elements. Shaping the elements of the columns. Truss design.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543bac4e-da26-11ee-9d28-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FF-00025W/S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forest applied botany</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fundamentals of vascular plant systematics, nomenclature and principles of plant classification. Systematics of herbaceous vascular plants, trees and shrubs in lowland forests. Distribution, ecological requirements and characteristics and biology of individual species of coniferous and angiosperm trees and shrubs. Methods of reproduction of vascular plants, mechanisms of inheritance of traits. Basic concepts used in phytosociology. Braun-Blanquet syntaxonomic system. Phytosociological methods of classification and describing plant communities. Review and characteristics of plant communities. Plant communities dynamics.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5438bf24-da26-11ee-ba74-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00173-1S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Complex metal structures</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1. Roofs with the big span. Steel space frames roofs. The geometrical shaping. Principles of computing internal forces. Technical solutions. 2. Suspended and tie-bar structures. Types of constructions. Technical solutions. The bases of calculations. 3. Steel chimneys. Types and technical solutions. Loads. The calculation of the shank and anchorages.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543bfa07-da26-11ee-9171-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FF-00036S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forest pathology</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Characteristics of mushrooms and entomopathogenic fungi. Fungi in forest biocenosis and their systematic outline, characteristics of selected orders, families and species occurring in the forest. Pathogens of shoots and seeds, trunks and roots. Pathogenic fungi of coniferous and deciduous stands. Protection of wood against decay fungi. Introductions to alien species of pathogens. Methods for preventing and limiting the development of harmful fungi in forestry. The role of fungi in forest ecosystems. Protection of endangered species. Laboratory: Comparison of the structure of plant cells and fungi. The structure of thallus of various species of fungi from the genus Fusarium, Penicillium etc. Various forms of sporulation e.g. micro- conidia and macro-conidia in the genus Fusarium, Macroscopic (fruiting bodies of fungi) and microscopic recognition of disease symptoms and tissue damage caused by pathogens from Ascomycotina group. Macroscopic observations of plant tissue damage caused by fungi from the Basidiomycotina group and identification of collected fruiting bodies of fungi. Differences in structure between Oomycota and fungi on the example of the genus Phytophthora, the causing factors of dieback of many forest-forming species (oak, beech, alder) in nurseries and stands</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5439340a-da26-11ee-88e8-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00052S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computational and statistical methods</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Discussion of the basic notions of the mathematical statistics. Empirical distribution. Random variable. Parameters of distribution. Elementary statistics. Initial data analysis. Use of „Microsoft Excel” for computations and statistical analysis of data. Distribution fitting. Basic parametric and nonparametric tests. Regression. Correlation analysis. The statistical analysis using of „Jasp”. Making the project concerning the statistical analysis of the environmental measurements using of the computer programs “Microsoft Excel” and “Jasp”.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543b376d-da26-11ee-9c7b-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00106W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Environmental Monitoring</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Work safety regulations. Water and soil sampling. Characterisation of water samples (pH, chemical oxygen demand, phosphates, nitrates, electrolytic conductivity, calcium and magnesium). Characterisation of soil samples (pH, available phosphorus and magnesium, determination of Zn and Ni). Interpretation of study results with regard to current domestic regulations.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543df52a-da26-11ee-b21e-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00217S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Maintenance and assessment of the\ntechnical condition of buildings</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: The role of participants in the construction process in the administration of buildings, forms of property ownership. Rules for the preparation of technical inspections. The content and components of the building book. Methods of assessing the technical condition of buildings. Life Cycle Assessment of buildings. Renovation and ongoing operation of buildings. Demolition of buildings. Causes of damage to buildings. Durability of the building and its components. Reasons for wear and tear on buildings. Methods of assessing the technical condition of buildings. Preparation of a report on the inspection of the condition of the building. Renovations inside the premises. Making decisions about the consent for renovation, the role of the renovation plan and house order regulations. Examples of technical condition assessment in selected facilities. Classes: As part of the exercises, for the selected building, the student performs: facility book, protocols from periodic inspection of the technical condition, assessment of the technical wear and tear of the building with the selected method.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543a1dad-da26-11ee-a7be-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00239W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Design Principles IV (universal design)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Discussion of the history and principles of the idea of universal design in relation to the design of landscape architecture objects. Project: The scope of exercises and design task includes a small object of small architecture adjusted to the needs of all its users. The object is to be designed in accordance with the principles of universal design.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543b376e-da26-11ee-8be0-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FF-00046S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Environmental protection with\nelements of toxicology</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Classification of compounds polluting the environment. Environmental factors. Mechanisms of biodegradation of toxic compounds in the environment. Bioaccumulation and biomagnification. Radioactive compounds. Pollution of surface and underground waters. Water protection methods. Air pollution. The problem of waste. Noise and acoustic maps. Impact of fertilizers and pesticides on the environment. Threats to forest ecosystems. Environmental protection in Poland, the EU and in the world. Laboratory: Calculation of solution concentrations. Assessment of the impact of air pollution on the natural environment. Determination of the toxicity threshold of salt used to sprinkle roads. Determination of morphological and physiological changes in plants resulting from environmental changes. Evaluation of the reaction of Daphnia sp. crustaceans to a solution of a selected chemical compound or sewage. Determination of the degree of harmfulness of chemicals used in the household on plants. Methods of selective action of pesticides on plants. Food contaminants. Influence of sewage components on plant germination and their structure. Physical and chemical pollution of waters and soils.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#54395afc-da26-11ee-91ec-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00133W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computer modeling of water supply and\nsewage systems</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1. Introduction to software (EPANET, SWMM, QGIS, GISWATER) 2. Water quality and hydraulic modeling of water supply systems 3. Stormwater and wastewater flows modeling. 4. GIS Aplicattions for water, wastewater and stormwater systems.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543bac4f-da26-11ee-bb26-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FF-00032W/S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forest botany: Dendrology</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Taxonomy and nomenclature of woody plants. Morphology, anatomy and physiology of trees and shrubs. Coniferous as well as deciduous trees and shrubs: a systematic review of species diversity, distinctive features, environmental characteristics, habitat requirements, values, propagation and cultivation. Rules practical identification of species, varieties and forms of trees and shrubs. Deciduous trees and shrubs as part of the garden composition. Ecology of trees and shrubs and role of different species in forest ecosystems</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543d79bc-da26-11ee-bd9b-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00269S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hydrology for Environmental Engineers</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Water circulation in nature, water balance. Types and characteristics of precipitation. Evaporation, runoff, retention, filtration and infiltration. Outflow, outflow coefficients. Water conditions and their characteristics. Characteristic flows. Open channels. Open-channel flows. Flood and erosion control. Specialization workshop: Design of open-channels.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5435c7bc-da26-11ee-bcc9-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FF-00045S/W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Management of Natura 2000 habitats\nin forest areas</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Birds and Habitats Directives as legal fundamentals for Natura 2000 network. Scope and principles of updating the Standard Data Form. Planning the conservation protection in forest areas. The principles of protection plans. Methods for assessing the status of natural forest habitats and species in accordance with the guidelines of the State Environmental Monitoring. Rules and methods for the protection of natural habitats and species in forest areas. Technical design and cost estimation of protective measures. Environmental impact assessment and environmental compensation. Project: The scope and rules for updating the standard data form. Principles for developing a protection plan for the Natura 2000 site. Methods of assessing the status of natural forest habitats and species in accordance with the guidelines of the State Environmental Monitoring. Rules and methods of the protection of natural habitats and species in forest areas. Technical design and costing of protective measures, assessment of their effectiveness.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543a447b-da26-11ee-ab22-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00118W/S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Earth Science</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Introduction to Earth Science. Minerals and rocks. Earth’s interior. Earthquakes. Fundamentals of plate tectonics. Mountain building. Volcanoes and other igneous activity (types of volcanoes, volcanic hazards, intrusive igneous bodies). Extrusive, and intrusive igneous rocks. Metamorphism and metamorphic rocks. Weathering and soil (mechanical weathering, chemical weathering, the products of weathering and erosion). Mass wasting. Stream erosion and deposition. Groundwater. Glaciation (glaciers, glacial erosion, glacial deposition). Deserts and Wind. Sediments and Sedimentary Rocks (clastic, chemical and organic sedimentary rocks). Geologic time. Earth’s history. Earth’s resources. Shorelines. Ocean.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5437aeab-da26-11ee-b243-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00262-1W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Basics of Water Supply Systems</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lectures: General characteristics of water supply systems. Evaluation of water demand - required capacity of water distribution system. Surface water and groundwater intakes. Water storage reservoirs. Hydraulic design of water distribution systems - branching and closed conduit systems. Pipe materials and water systems appurtenances. Project -: design of water distribution network: required capacity of the system, water storage volume, pipes diameters, pressure loss and hydraulic grade line Specialized workshop – application of professional computer software for hydraulic analysis of water supply networks</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543b0dc4-da26-11ee-a72f-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00101W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Environmental Impact Assessment</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Understanding the negative impact of the industry on the environment and the selection of technologies that minimize anthropopression. Evaluation of applied technologies in terms of pure production. Impact of installation on the environment. BAT - best available techniques. Renewable energy sources. Product life cycle. Pure production. Polish and international rules and regulations concerning the conduct of environmental impact assessments (EIA). Categories of nuisance of undertakings. The role of the investor and environmental services in the EIA procedure. Principles of sozotechnical negotiations. Value localization and technology. Qualification procedures and selected computing quantifications. Maximal Impact Assessment Systems. Forecasts of the effects of selected policies, strategies, plans of programs Rules for reporting environmental impact of selected municipal and breeding facilities.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543bfa06-da26-11ee-9f00-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FF-00043S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Course name</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543cf3fc-da26-11ee-bc59-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCEE-00078W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Heating systems 2</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture; Heat losses and hydraulic calculations. Types of radiators. Schemas of heating systems. Advantages and disadvantages of selected HVAC systems. Main elements of heating installations. Project: Calculations of heat losses and power of radiators. Selection of radiators. Selection of heating system type and pipe connections and dimension of pipes. Regulation in HVAC systems.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5437d5ab-da26-11ee-855e-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00021W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biochemistry</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lectures. Structure of nucleic acids. Metabolism of nucleotide compounds, pyrimidines and purines. DNA - spatial model. Organization of genome, nucleoproteins. RNP isolation. Types of RNA and their structure. General rules for the isolation of nucleic acids. Structure and physicochemical and biological properties of proteins. Qualitative and quantitative determination of proteins. Proteome and proteomics. Simple and complex carbohydrates. Laboratory. Principles of work in the biochemical laboratory. Extraction, secretion and purification of crude RNA from biological material. Isolating ribonucleoproteins from animal tissues. Proteins as colloids. Solubility and protein shedding. Protein denaturation. Quantitative determination of protein content by the Lowry method, the method of measuring ultraviolet absorbance and the Bradford method in various biological samples. Electrophoretic separation of proteins from various biological samples by vertical polyacrylamide gel electrophoresis. Reduction properties of carbohydrates. Hydrolysis of multi-sugars. Basic physicochemical properties of lipids. Determination of vitamin C in biological material.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543d443a-da26-11ee-a392-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00122W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Human cell and tissue culture</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.Health and Safety Rules. Introduction to the organization of cell and tissue culture laboratory. Preparation of the materials and solutions for cell culture. Sterilization. Workplace preparation. Media change in the adherent culture. 2.Subculturing of the MCF-7/fibroblast adherent and MOLT-4 suspension culture. 3.Various methods for cell counting and basic principles for preparing MCF-7 and fibroblasts adherent cells for the experiment. 4.Freezing and thawing of adherent and suspension cells. The creation of cell banks. 5.Various methods in estimation of cells viability. Cytotoxicity tests as a basic tests in preclinical studies.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5436d827-da26-11ee-bd40-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00237W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Basics of modelling in BIM technology</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Specialist workshop: architectural and conceptual design of a simple single-family building in BIM technology. Preparing project documentation in BIM technology. Modelling of architectural form in BIM environment. Developing projections, sections, elevations, architecture visualization. Use of 3d BIM model in architectural and urban planning conceptual design.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543ae6bd-da26-11ee-95ff-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00068-1S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Environmental chemistry</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The lecture: Division and characteristics of the most important laboratory techniques used in the physico-chemical analysis of water and wastewater. Detailed methodology of performing the markings required by standard for classification water and sewage. Characteristics and classification of water pollutants. Circulation cycle nitrogen, phosphorus, sulfur in the environment. Processes of biodegradation of pollutants organic. Basic issues of the toxicity of chemical compounds: dose, response, dose-response curves, compound toxicity Introduction to problem connected with water chemical oxidation and disinfection by- products e.g. TOX, LTOX, NTOX, THM, AOX, EOX and others. Laboratory classes: Principles of sampling, preservation and preparation of samples environmental. Testing the aggressiveness of water against concrete. Analysis physico- chemical properties of water in the direction of water corrosivity assessment. Analysis by weight and by volume in water and sewage. Spectroscopic methods, potentiometric and conductometric in water and wastewater analysis. Remediation of the water-soil environment. Calculation of the ionic water balance.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543d79bb-da26-11ee-9988-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00023W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hydrology</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Water distribution on Earth, hydrological cycle. Watershed characteristics, hydrographic network, rivers, lakes, wetlands. Water budget: rainfall, evapotranspiration, infiltration, runoff and subsurface flow, surface and subsurface storage. Hydrological processes: hydrological response analysis, relation rainfall – runoff, flow hydrograph. Instrumentation and monitoring. Hydrological data. Floods, 100-year flood. Groundwater. Urban Hydrology. Specialized workshop: Watershed. River stages analysis. Stream stage hydrograph. Stage–discharge relationship. Rating curve. Methods of stream discharge calculation based on measurements. Empirical estimation of stream discharges. River discharges analysis. Stream discharge hydrograph. River regime.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543ca1df-da26-11ee-9261-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00034-1W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GIS in environmental engineering</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">\uf0b7 Providing an understanding of the basic skills necessary to work with GIS. \uf0b7 Introducing students to software and techniques. \uf0b7 Teaching spatial data visualization techniques along with introductory knowledge of effective cartography and additional software for the production of maps, models and other information graphics. \uf0b7 Identifying and accessing publicly available data sets. \uf0b7 Teaching the skills necessary to create GIS data through a variety of methods including those offered by global positioning system (GPS) technologies and remote sensing.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543bd392-da26-11ee-8f0f-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FF-00011W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forest hydrology</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lectures: The concept of hydrology and its division. The water cycle in nature. Surface and underground waters. The land part of the hydrological cycle. Rivers and their regime. River outflow characteristics. Water movement, water level in the river bed. Drain measures. Flush and low prices. Water balance - surface and underground waters. Hydrometry. Solid material movements and water chemistry. Small retention. Exercises: Morphology and morphometry of the river basin. Determination of the amount of precipitation in the catchment. Methods for measuring water flow in open channels. Water velocity distribution in the riverbed. Elements of the water balance of the forest catchment. Measures of drainage from the catchment. Retention and possibilities of its increase in forest catchments.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543981e3-da26-11ee-8917-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00059S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Concrete structures II</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Structural analysis, basic requirements; Slabs: one-way spanning solid and ribbed slabs; two-way spanning slid slabs; waffle slabs; flat slabs; stair slabs. Yield line design; Finite element (FE) design. Columns: short braced axially loaded columns; short columns subjected to axial load and bending; effective height of column (braced and unbraced); slenderness limits for columns. Foundations and Retaining Wall. Framed Buildings and frame analysis. Industrial buildings. Buildings with flat slabs. Precast RC-elements, basis of design and detailing. Prestressed concrete. Basic statements. Post-tensioned and pretensioned structures Prestress losses. Anchorage and transmission zones. Design of section under ULS and SLS Detailing of structural members.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#54361593-da26-11ee-a7b5-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Air conditioning and Ventilation systems\n1</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture; Heat gains. Types of ventilation. Schemas of ventilation systems. Advantages and disadvantages of selected HVAC systems. Main elements.. Project: Heat gains. Types of ventilation. Schemas of ventilation systems. Advantages and disadvantages of selected HVAC systems. Main elements.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#54389a3d-da26-11ee-a399-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FF-00001W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chemistry</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Periodic table and the structure of the atom. Types of chemical compounds and their properties. Chemical bonds. Types of chemical reactions. Elements of inorganic and organic chemistry. Elements of thermodynamics and chemical kinetics. Sorption processes. Colloidal systems. Weight and titration analysis. Laboratory classes: Preliminary information. Health and safety regulations. Laboratory equipment. Basics of laboratory work technique. Preparation of solutions with strictly defined concentration. Water in chemical compounds. Compounds of transition metals. Chemical reactions in aqueous electrolyte solutions - acid, base and salt reactions. Chemical reactions in aqueous electrolyte solutions - examination of selected properties of cations and anions and their qualitative analysis. Equilibrium in electrolyte solutions. pH of aqueous electrolyte solutions. Buffer solutions. Chemical properties of metals. Chemical and electrochemical corrosion of metals. The rate of chemical reactions. Titration (volumetric) analysis. Hydrocarbons - characteristics and characteristic reactions. Alcohols and phenols - characteristics and characteristic reactions. Aldehydes and ketones - characteristics and characteristic reactions. Carboxylic acids, esters, amines and amides - characteristic properties and reactions.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#5439340b-da26-11ee-964f-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00182S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computational methods</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">L: The specificity of computer calculations in construction. Errors in numerical calculations. Elementary use of series and approximate expressions. Iterative methods for nonlinear equations. Direct and iterative methods for solving linear systems of equations. Eigenvalues and eigenvectors of matrices. Interpolation, approximation and extrapolation. Numerical integration and differentiation. The initial value problems for ordinary differential equations (first and second order). SW: Numerical calculations using MS Excel software (iterative methods for nonlinear equations; direct and iterative methods for solving linear systems of equations, eigenvalues and eigenvectors of matrices; approximation, interpolation and extrapolation; integration and differentiation; first and second order ordinary differential equations). Numeric and symbolic calculation using Mathcad and SMath Studio software (nonlinear equations; linear systems of equations, integration and differentiation; first and second order ordinary differential equations). Modelling of engineering structures and determination of internal forces and displacements in simple structural systems.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543981e4-da26-11ee-9ac4-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00020W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Concrete technology</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aggregates for concrete and mortars. Mineral binders: cements, lime and gypsum. Mixing water for concrete. Additions and admixtures for concrete. Concrete according to the standard EN 206-1 "Concrete – Part 1: Specification, performance, production and conformity". Properties of fresh and hardened concrete and their testing. Concrete mix design calculations. Technological processes in concrete production.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543b5e80-da26-11ee-9360-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00040W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Facilities for water and wastewater\ntreatment II</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Types, characteristics, technological parameters, application in real conditions of unit processes, methods and devices used for wastewater treatment technology. Wastewater characteristics. Legal regulations related to sewage management. Transformations of pollutants occurring in sewage, in aerobic and anaerobic conditions. Methods of sewage treatment. Technical and technological solutions. Systems for integrated removal of organic compounds, nitrogen and phosphorus. Devices for pre-treatment of selected types of wastewater. Systems of wastewater treatment facilities and equipment. Project: Practical implementation of the lectures in the form of a project covering the issues of wastewater technology. The calculation of pollution loads, the efficiency of removal.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543ac010-da26-11ee-9509-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00150S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Engineering geology and petrography</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: The importance of geology in construction issues. Earth’s interior. Earthquakes. The impacts of earthquakes, minimizing damage and casualties. Fundamentals of plate tectonics. Mountain building. Volcanoes and other igneous activity (types of volcanoes, volcanic hazards, intrusive igneous bodies). Extrusive and intrusive igneous rocks. Metamorphism and metamorphic rocks. Weathering and soil (mechanical weathering, chemical weathering, the products of weathering and erosion). Mass wasting (classification of mass wasting, preventing, delaying, monitoring, and mitigating mass wasting). Stream erosion and deposition. Glaciation (glaciers, glacial erosion, glacial deposition). Deserts and wind. Sediments and sedimentary rocks (clastic, chemical and organic sedimentary rocks). Geological structures (folding, fracturing and faulting). Groundwater (aquifers, groundwater flow, groundwater quality). Shorelines (coastal erosion and coastal deposition). Specialized workshop: Basic terms related to crystallography, mineralogy and petrography. Mineral properties - practical recognition. Mohs scale. The common rock- forming minerals. Rock, the rock cycle, classification of rocks. Minerals of igneous rocks, macroscopic recognition. Igneous rocks (extrusive and intrusive igneous rocks), mineral composition, classification, recognition. Minerals in the sedimentary cover. Sediments and sedimentary rocks (clastic, chemical and organic sedimentary rocks). Carbonate rocks. Metamorphic minerals and rocks. Industrial uses of rocks.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543cccb1-da26-11ee-b761-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00146-1W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Heat and mass transfer</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">To familiarize students with the basic engineering issues in the field mass and heat exchange and elements of heat transfer theory in technical devices, systems and systems in environmental engineering. Teaching calculation methodology for mass and heat exchange issues, calculations of thermal parameters of processes and thermal issues in devices and systems in engineering environment. To familiarize students with the methods of thermal measurements of physical quantities. Introduction to heat transfer, general differential equation of heat conduction, cartesian and polar coordinates, Fourier’s Law, fundamentals of convection, continuity, N-S and energy equations, one dimensional steady state heat conduction, conduction with internal heat generation , extended surfaces, unsteady heat conduction, numerical methods in conduction, basic radiation theory, Kirchhoff’s Law. Basic notions of the heat and mass transfer, steady conduction in multidimensional configurations, unsteady heat conduction in one or more dimensions, numerical simulation of conduction; forced convection in laminar and turbulent flows; natural convection in internal and external configurations; heat transfer during condensation and boiling; mass transfer at low rates, evaporation; thermal radiation, spectral and solar radiation, heat exanger.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#54387149-da26-11ee-b0c8-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00019W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Building physics</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#54368a49-da26-11ee-892f-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00270W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M-1. Architecture and theory of design</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Activities included to reach this aim are very different. They include: The aim of the classes (lectures, specialization workshop, project) is to give a basic approach to understand the general knowledge needed for the course and the team design for the project of a bus stop shelter in different European cities locations. The goal is achieved through: SW (L- Lecture): \uf0b7 Historic Values of Cities \uf0b7 Accessibility of public space \uf0b7 Good practices in design \uf0b7 City branding \uf0b7 Cultural landscape of the city \uf0b7 Heritage objects in public spaces of Madrid: Debod temple \uf0b7 Small architecture objects. Serpentine Gallery, Kensington Gardens, Hyde Park 2000 – 2019 \uf0b7 Bus stops in Krumbach (Austria) – branding of the city \uf0b7 ACCESSIBILITY OF PUBLIC SPACE \uf0b7 SAFETY IN PUBLIC SPACE \uf0b7 HISTORICAL VALUES OF CITIES \uf0b7 CULTURAL LANDSCAPE OF THE CITY – MADRID \uf0b7 HERITAGE IN PUBLIC SPACE OF EUROPEAN CITY</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543bd393-da26-11ee-83a3-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FF-00041W/S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forest management in valuable natural\nareas</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Legal basis for the protection of forest ecosystems in Poland and Europe. Fundamentals of stability of forest ecosystems with various forest management methods. Principles of forest ecosystem protection. Seeking a consensus between economic interests and nature conservation in anthropogenic changed forests and forests of varying degrees of naturalness. Ecological consequences of anthropogenic transformations of forest ecosystems. The impact of modern forest management on the components of forest ecosystems. Techniques for restoring a near-natural state of degenerated and distorted forest ecosystems.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#543da0d0-da26-11ee-bb9f-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FCEE-00221W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Industrial water technology</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Removal of dissolved substances and suspended solids from water. Methods, technological parameters and efficiency of industrial and technological water treatment,. Examples of technological systems and lines of water treatment plants for industrial and technological purposes. Exercises: water types, operation characteristics, water parameters, and application of particular methods and unit processes for industrial water treatment. Calculation tasks. Laboratory: quality assessment of indyvidual water treatment processes, proper technology depending on the type of water to be purified, its quality demand and purpose of use. Methods, technological parameters and efficiency water purification for industrial purposes.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUCivilEngineeringandEnvironmentalSciences"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://across/university#"
+   xmlns:ns2="http://tuc.web.engineering/module#"
+   xmlns:ns3="http://tuc/course#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb117ad-da27-11ee-9adf-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00076S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Financial management</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb497f6-da27-11ee-8a32-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00009W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Project management</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Basics of project management - the concept and parameters of the project, project types and project management cycle, problems in project management. Planning process and project resources - the structure of the project, the organization of the project team, schedules and network methods of planning projects, identification of required resources of the project and assess their availability. Planning and control of project costs - methods of estimating costs, budgeting and monitoring the effects and costs of financing innovative activity. Risk in projects - sources and types of threats in projects, risk assessment, ways to reduce it. Project team management - the creation of project team, the role and responsibilities of a team manager, communication between project participants. Selected standards and project management methodologies. Computer tools supporting project management.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb53342-da27-11ee-a569-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00070W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Strategic management</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb18c71-da27-11ee-98e9-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00100S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">International law</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1. Definition and specificity of international law 2. Sources of international law (international treaties and common law) 3. Actors of international law (states, international organizations, non-state actors) 4. Territory in international law (scope, sovereignty, limitations, state borders, international rivers, sea areas, arctic regions, airspace) 5. Population in international law (citizenship, foreigners, territorial asylum, extradition, international protection of human rights) 6. Diplomatic and consular law (diplomatic privileges and immunities, diplomatic corps) 7. Peaceful resolution of international disputes (definition, classification, international courts, retaliation and reprisals in international law)</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb27613-da27-11ee-a9d4-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00094S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">International trade</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">International flows of goods, services, and factors of production in the modern world economy. Arguments for and against free trade. The concept of fair trade. The evolution of theory. Empirical examples. The determinants of trade relations between the countries. Regionalism and regionalization. The economic effects of strengthening international economic cooperation, including trade effects: trade creation and trade diversion effects, trade distortion effect, restructuring, investment effects, and others. The research into the position of individual countries in international trade. Inter and Intra sectoral trade in relations between the countries.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb1657d-da27-11ee-9c05-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00071W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Innovation economics and policy</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1. Determinants of national income (GDP, GNP and DN, the components of aggregate demand, the functioning of the multiplier in the economy). Economic policy supporting GDP development – international comparison. 2. Fiscal policy (budget functions, income and expenditure, the concept of budget deficit and public debt, public finance reform proposals). 3. Monetary policy (the phenomenon of demand and supply of money, the impact of Central Bank on money supply, the role of financial institutions). 4. Labour market policy (the concept of demand and supply of labour, measures of the labour market, the phenomenon of unemployment-types, causes). 5. Inflation (ways of measuring, reasons, the link with the labour market - the Phillips curve). 6. Economic growth and the business cycle (growth measures and the conditions, the phases of the business cycle).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0baf1d6c-da27-11ee-ac66-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns2:hasContent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb3fb66-da27-11ee-aa1f-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00075S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Production and service management</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Servitization. The three sectors of economy: agriculture, manufacturing and services. Changing trends and their causes. The fourth industrial revolution, Industry 4.0. Production process, service process. Types of production systems. Classification of service operations. Product designing. Process of product designing, QFD (Quality Function Deployment Method) as a tool supporting designing process – discussion. Blueprints in services. What is a blueprint? Why we use blueprints in services? How to prepare it? MRP I – Material Requirements Planning system. The differences between MRP I and MRP II, the role of computer software, Master Production Schedule, BOM – bill of materials, schedules for materials. Lean Management. The origins of Lean Management, types of wastes. Tools and techniques in LM. 5S technique. Just in Time system. Assumptions of JiT as original Japanese approach, kanban system, determinations of number of kanban cards, calculation of kanban cards.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bafe0a3-da27-11ee-a992-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00109S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Circular economy</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Definitions related to the circular economy (CE). Circular economy in international and EU environmental policy. Objectives and principles of CE. Areas of CE: design for environment, sustainable production and consumption, waste management. Activities of CE in enterprises and local government units. Classes: Implementation of CE activities in various sectors, including design for environment, recycling, and reuse. National and international good practices of CE implementation in enterprises and local government units. Financing of CE activities.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb53340-da27-11ee-8ad2-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00082W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Statistics</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Descriptive Statistics: Definition of statistics. Population and sample. Tapes of variables. Graphic and tabular presentation of qualitative data. Measures of Location. Measures of Dispersion. Measures of Asymmetry. Correlations and Simple Linear Regression. Simple Linear Regression. Model parameters. The method of last squares. The least squares estimators. Measures of quality estimation.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb38686-da27-11ee-8042-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00087S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Process management</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Laboratory classes: Process identification. Architecture of business processes. Models and documentation processes. Process description and modelling with IT tools. Analysis and evaluation of processes.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb2eae0-da27-11ee-a816-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00072W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Management of innovation</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1. Management of Innovation - basics definitions and models. Innovation versus Creativity 2. DNA of innovator 3. Managing for innovation 4. Entrepreneurship fundamentals 5. Creating and selling differentiated products/services 6. Business Model Canvas 7. Growth strategies 8. Embedding innovation and execution 9. “Design Thinking” as strategic innovation 10. Global Innovation Index 11. Summary and exam</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb07bff-da27-11ee-bfb8-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00089W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Corporate foresight</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Evolution of foresight research; The idea of foresight research. Foresight versus forecasting. Essence of strategic foresight. Corporate foresight versus innovation management. Radical and incremental innovations. Model of foresight maturity. Methods used in strategic foresight: STEEPVL, SWOT, Delphi method, wild cards, scenario method, formal and informal scenarios. Best practices of corporate foresight.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb497f7-da27-11ee-9a57-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00016W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quality management and control</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quality. Basic concepts and definitions. Prominent philosophers of quality. Standardization, conformity assessment and regulations in terms of quality. Models for measuring quality: Servqual, KANO. Quality management systems according to ISO 9001:2015. Quality management systems in various industries. The essence of the integration of management systems. Total Quality Management (TQM). Methods and tools to improve the quality system</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb4496c-da27-11ee-99cc-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00073S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Productivity analysis</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Definitions of productivity. Productivity measurement concepts. Review of productivity evaluation methods: Ratio Analysis, The Least-Squares Regression, Total Factor Productivity (TFP), Data Envelopment Analysis (DEA). Assumptions and applications of DEA in productivity evaluation. Productivity analysis using DEA and computer software.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bafb9cb-da27-11ee-adac-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00077S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Business Forecasting</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The introduction of forecasting theory. The role of forecasts in business practise. Methods of business data gathering and transforming. Time series decomposition. Various kinds of forecasts methods: naive method and its modifications, moving average methods, exponential smoothing methods, Holt’s method, Holt-Winters method. Measuring forecast accuracy. Time series forecasting. Advanced forecasting models.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb0f0f4-da27-11ee-b7e4-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00076W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Financial management</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb311c9-da27-11ee-92c5-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00074S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marketing research</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1. Definitions of marketing. 2. Definitions of marketing research. 2. The role of marketing research in management. 3. The process of marketing research. 4. Planning marketing research. 5. Methods and techniques of data collection from original sources. 6. The structure of research tools. 7. Rules of developing marketing research report. 8. The process of designing questionnaire. 9. Data collection. 10. Preparing research report. 11. Result presentation.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb0078d-da27-11ee-9d39-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00109S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Circular Economy</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lecture: Definitions related to the circular economy (CE). Circular economy in international and EU environmental policy. Objectives and principles of CE. Areas of CE: design for environment, sustainable production and consumption, waste management. Activities of CE in enterprises and local government units. Classes: Implementation of CE activities in various sectors, including design for environment, recycling, and reuse. National and international good practices of CE implementation in enterprises and local government units. Financing of CE activities.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb42250-da27-11ee-b555-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00073W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Productivity analysis</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Definitions of productivity. Productivity measurement concepts. Review of productivity evaluation methods: Ratio Analysis, The Least-Squares Regression, Total Factor Productivity (TFP), Data Envelopment Analysis (DEA). Assumptions and applications of DEA in productivity evaluation. Productivity analysis using DEA and computer software.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb5a7e4-da27-11ee-af7f-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00093W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Technology Innovation</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The thematic blocks to be covered by the classes include: the basics of the concepts of technology, innovation, technology management, technology management framework; discussion of selected creative methods related to the search for innovation; implementation of selected creative methods; discussion of selected methods of analysis of the current state of technology development enabling identification and selection of technologies, discussion of technology readiness level scale; preparation by students technology card as part of the technology assessment process for a selected technological solution; discussion of the technology roadmapping method as a method to determine the directions of technological development and search for technological innovations; preparation by students a technological roadmap for a selected technological solution; discussing the communication aspect of innovative ideas/solutions with stakeholders; implementation by students of an exercise in the field of stakeholder communication (stakeholder mapping).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb35f9b-da27-11ee-9c81-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00098W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Optimization for transport planning</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb29d02-da27-11ee-b397-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00112S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">International transport</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">General information about international transport; Means of transport and loading units; Concept of container transport. Choice of mode of transport by type of cargo, cost of transport, transport corridors, safety, environmental aspects;</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb50c60-da27-11ee-b29a-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00080S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sport animation</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb0a2da-da27-11ee-ba6c-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00031S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Entrepreneurship</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This course prepares students for a future career as entrepreneurs and founders of new firms. They gain practical insights into aspects of running a business that are particularly salient during the early development of a new company. Students will be able to: understand the fundamental conditions for pre-entrepreneurship; characteristic of successful entrepreneurs; enternational versus domestic entrepreneurship; design a business plan; distinguish between different sources of financing and assess which best fit the requirements of the new entrepreneurial venture; perform an environmental analysis and formulate a business strategy for the new venture; plan for the internationalisation of the new venture through foreign market entry. Plan for the launching and developing new business ventures inside established corporations.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0baf92f4-da27-11ee-9068-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00092S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Benchmarking for competitive\nadvantage</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0baf4474-da27-11ee-8002-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00069W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Banking</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb2eae1-da27-11ee-8a2b-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00072S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Management of innovation</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1. Management of Innovation - basics definitions and models. Innovation versus Creativity 2. DNA of innovator 3. Managing for innovation 4. Entrepreneurship fundamentals 5. Creating and selling differentiated products/services 6. Business Model Canvas 7. Growth strategies 8. Embedding innovation and execution 9. “Design Thinking” as strategic innovation 10. Global Innovation Index 11. Summary and exam</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0baf6b66-da27-11ee-bf05-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00095W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Basic management concepts</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The essence of management organizations - overview of the classical management concept and the behavioural management perspective. The systems and the contingency perspective of organizations. Management concepts focused on quality and processes ISO 9001, TQM, Six Sigma, business process reengineering, outsourcing, Lean Manufacturing, benchmarking and CRM. Concepts of management-oriented knowledge: knowledge management, virtual organization and finally corporate social responsibility.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bafe0a1-da27-11ee-8d3b-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00044W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Business simulation</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Basic elements of Tecnomatix Plant Simulation software. Defining materials and workstations. Control of goods flows. Supplies management. Assembling and dismantling tasks. Simulation of employee tasks. Paths, transportation routes and transportation. Simulation of loading. Ancillary areas. Data analysis. Process optimization.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bafe0a2-da27-11ee-b29f-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00044S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Business simulation</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Basic elements of Tecnomatix Plant Simulation software. Defining materials and workstations. Control of goods flows. Supplies management. Assembling and dismantling tasks. Simulation of employee tasks. Paths, transportation routes and transportation. Simulation of loading. Ancillary areas. Data analysis. Process optimization.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb4be4c-da27-11ee-8696-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00111S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Robotic Process Automation</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The assumptions and methods of business process automation with the use of Robotic Process Automation (RPA) technology, methods of process documentation (manuals, maps), software robots, advantages and limitations of RPA technology implementation, intelligent automation of business processes, rules for selecting a process for automation, UiPath Studio interface, introduction to terminology and UiPath objects, assignment and types of variables, flow notation, basic and advanced "activities" used in automation, conditional statements, loops, cooperation with MS Excel, web browser automation, e-mail automation, Data Scrapping from the websites, operations on files and folders, exception handling.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb0078e-da27-11ee-8fac-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00088W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Coaching</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">History of coaching. The essence of coaching. The essence of mentoring. The essence of change. Setting goals. Coaching models: Dilts' pyramid, GROW model, business wheel. Manager as a coach. Giving feedback. Leadership basics. Group behaviour, group processes. Best practices of mentoring and business coaching.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bafb9ca-da27-11ee-9e00-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00077W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Business Forecasting</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The introduction of forecasting theory. The role of forecasts in business practise. Methods of business data gathering and transforming. Time series decomposition. Various kinds of forecasts methods: naive method and its modifications, moving average methods, exponential smoothing methods, Holt’s method, Holt-Winters method. Measuring forecast accuracy. Time series forecasting. Advanced forecasting models.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb4708c-da27-11ee-a55d-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00009S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Project management</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Basics of project management - the concept and parameters of the project, project types and project management cycle, problems in project management. Planning process and project resources - the structure of the project, the organization of the project team, schedules and network methods of planning projects, identification of required resources of the project and assess their availability. Planning and control of project costs - methods of estimating costs, budgeting and monitoring the effects and costs of financing innovative activity. Risk in projects - sources and types of threats in projects, risk assessment, ways to reduce it. Project team management - the creation of project team, the role and responsibilities of a team manager, communication between project participants. Selected standards and project management methodologies. Computer tools supporting project management.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb18c70-da27-11ee-802c-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00100W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">International law</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1. Definition and specificity of international law 2. Sources of international law (international treaties and common law) 3. Actors of international law (states, international organizations, non-state actors) 4. Territory in international law (scope, sovereignty, limitations, state borders, international rivers, sea areas, arctic regions, airspace) 5. Population in international law (citizenship, foreigners, territorial asylum, extradition, international protection of human rights) 6. Diplomatic and consular law (diplomatic privileges and immunities, diplomatic corps) 7. Peaceful resolution of international disputes (definition, classification, international courts, retaliation and reprisals in international law)</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb054fc-da27-11ee-9faa-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00086S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computer tools in financial planning</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb50c5f-da27-11ee-bf72-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00080W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sport animation</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb35f9a-da27-11ee-9b35-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00078S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New information technologies\nand multimedia tools</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Graphic software and projects. Using videoconference software. Creating team projects using cloud software. Audio and video editing. Creating slideshows and video tutorials. Creating content for Social Media. Getting a new skill in using electronic devices and software e.g.: DaVinci Resolve, Audacity, Gimp, Video Camera.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb2c3e5-da27-11ee-9519-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00112S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">International transport</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">General information about international transport; Means of transport and loading units; Concept of container transport. Choice of mode of transport by type of cargo, cost of transport, transport corridors, safety, environmental aspects;</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0baf1d6d-da27-11ee-944e-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00069S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Banking</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb13e91-da27-11ee-a003-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00081W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Human resource management</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb4e545-da27-11ee-8a36-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00103W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Savoir-vivre in business</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Savoir vivre in business – what is it and how to use it. The principles of communicating in business - the first impression in professional relations, welcomes, people presenting and titles, giving and preparing business cards, body language, intonation, active listening, phone calls, the etiquette in electronic communication. Business precedence - the concept of precedence, precedence at work, precedence in corporation, precedence during multilateral conferences and meetings. Correspondence - the basic principles, the letter (formal, business and private), salutations, sending letters and e-mails. Business parties and meetings – organising parties, types of parties, invitations, table types, the place of honour at the table, seating. At the table - setting, cutlery, rules of behaviour at the table, service, order and selection of dishes, selection of wines, wine basics, selection of wines to the type of menu items, ways to eat different types of dishes. The business dress code – matching appropriate dress to the occasion, shaping the sense of aesthetics and good taste. Business etiquette in different countries of the world</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb4e546-da27-11ee-94d6-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00103S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Savoir-vivre in business</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Savoir vivre in business – what is it and how to use it. The principles of communicating in business - the first impression in professional relations, welcomes, people presenting and titles, giving and preparing business cards, body language, intonation, active listening, phone calls, the etiquette in electronic communication. Business precedence - the concept of precedence, precedence at work, precedence in corporation, precedence during multilateral conferences and meetings. Correspondence - the basic principles, the letter (formal, business and private), salutations, sending letters and e-mails. Business parties and meetings – organising parties, types of parties, invitations, table types, the place of honour at the table, seating. At the table - setting, cutlery, rules of behaviour at the table, service, order and selection of dishes, selection of wines, wine basics, selection of wines to the type of menu items, ways to eat different types of dishes. The business dress code – matching appropriate dress to the occasion, shaping the sense of aesthetics and good taste. Business etiquette in different countries of the world</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb2282e-da27-11ee-a21e-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00094W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">International trade</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">International flows of goods, services, and factors of production in the modern world economy. Arguments for and against free trade. The concept of fair trade. The evolution of theory. Empirical examples. The determinants of trade relations between the countries. Regionalism and regionalization. The economic effects of strengthening international economic cooperation, including trade effects: trade creation and trade diversion effects, trade distortion effect, restructuring, investment effects, and others. The research into the position of individual countries in international trade. Inter and Intra sectoral trade in relations between the countries.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb5cea3-da27-11ee-9d60-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00106S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Technology management</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Definitions and selected classifications of technologies. The idea of technology management. Selected methods of technology assessment. Technology development concepts. Assessment of the technological potential of the organization. Strategic management and process management of the organization and technologies. Modelling of the technology management process. Technology transfer strategies and models. Technological knowledge management. The concept of architectural innovations.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0baf92f3-da27-11ee-b5fe-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00092W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Benchmarking for competitive\nadvantage</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb5a7e5-da27-11ee-a8fd-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00106W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Technology management</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Definitions and selected classifications of technologies. The idea of technology management. Selected methods of technology assessment. Technology development concepts. Assessment of the technological potential of the organization. Strategic management and process management of the organization and technologies. Modelling of the technology management process. Technology transfer strategies and models. Technological knowledge management. The concept of architectural innovations.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb311c8-da27-11ee-bad8-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00074W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marketing research</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1. Definitions of marketing. 2. Definitions of marketing research. 2. The role of marketing research in management. 3. The process of marketing research. 4. Planning marketing research. 5. Methods and techniques of data collection from original sources. 6. The structure of research tools. 7. Rules of developing marketing research report. 8. The process of designing questionnaire. 9. Data collection. 10. Preparing research report. 11. Result presentation.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb07c00-da27-11ee-bd1e-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00031W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Entrepreneurship</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This course prepares students for a future career as entrepreneurs and founders of new firms. They gain practical insights into aspects of running a business that are particularly salient during the early development of a new company. Students will be able to: understand the fundamental conditions for pre-entrepreneurship; characteristic of successful entrepreneurs; enternational versus domestic entrepreneurship; design a business plan; distinguish between different sources of financing and assess which best fit the requirements of the new entrepreneurial venture; perform an environmental analysis and formulate a business strategy for the new venture; plan for the internationalisation of the new venture through foreign market entry. Plan for the launching and developing new business ventures inside established corporations.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb5f57b-da27-11ee-a10d-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00002S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tourism\nManagement</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1. Theoretical background of tourism economics 2. The main tourism destinations 3. Tourism market research 4. Sustainable tourism – what does it mean and give some examples 5. How to measure tourism sustainability? 6. Tourism business classifications 7. Hospitality sector 8. MICE business 9. Travel agencies and rules for calculating the cost of the trip 10. Innovations in tourism 11. The phases of product existence and examples of different products on the tourism market 12. The role of NGOs in tourism 13. Trends in development of tourism (by UNWTO) 14. The role of the tourism market in the global economy 15. The role of tourism in specific countries</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0baf6b67-da27-11ee-ad95-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00095S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Basic management concepts</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The essence of management organizations - overview of the classical management concept and the behavioural management perspective. The systems and the contingency perspective of organizations. Management concepts focused on quality and processes ISO 9001, TQM, Six Sigma, business process reengineering, outsourcing, Lean Manufacturing, benchmarking and CRM. Concepts of management-oriented knowledge: knowledge management, virtual organization and finally corporate social responsibility.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb338b7-da27-11ee-b788-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00078W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New information technologies\nand multimedia tools</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Graphic software and projects. Using videoconference software. Creating team projects using cloud software. Audio and video editing. Creating slideshows and video tutorials. Creating content for Social Media. Getting a new skill in using electronic devices and software e.g.: DaVinci Resolve, Audacity, Gimp, Video Camera.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb13e90-da27-11ee-bacb-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00081S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Human resource management</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb1da46-da27-11ee-8fc7-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00099S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">International taxation and\naccountancy</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb02ea8-da27-11ee-8adb-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00088S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Coaching</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">History of coaching. The essence of coaching. The essence of mentoring. The essence of change. Setting goals. Coaching models: Dilts' pyramid, GROW model, business wheel. Manager as a coach. Giving feedback. Leadership basics. Group behaviour, group processes. Best practices of mentoring and business coaching.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb1657e-da27-11ee-885f-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00071S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Innovation economics and policy</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1. Determinants of national income (GDP, GNP and DN, the components of aggregate demand, the functioning of the multiplier in the economy). Economic policy supporting GDP development – international comparison. 2. Fiscal policy (budget functions, income and expenditure, the concept of budget deficit and public debt, public finance reform proposals). 3. Monetary policy (the phenomenon of demand and supply of money, the impact of Central Bank on money supply, the role of financial institutions). 4. Labour market policy (the concept of demand and supply of labour, measures of the labour market, the phenomenon of unemployment-types, causes). 5. Inflation (ways of measuring, reasons, the link with the labour market - the Phillips curve). 6. Economic growth and the business cycle (growth measures and the conditions, the phases of the business cycle).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb53341-da27-11ee-804e-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00082S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Statistics</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Descriptive Statistics: Definition of statistics. Population and sample. Tapes of variables. Graphic and tabular presentation of qualitative data. Measures of Location. Measures of Dispersion. Measures of Asymmetry. Correlations and Simple Linear Regression. Simple Linear Regression. Model parameters. The method of last squares. The least squares estimators. Measures of quality estimation.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb1da45-da27-11ee-ad83-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00099W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">International taxation and\naccountancy</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb2eadf-da27-11ee-9238-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00110W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Internet marketing</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The essence and specifics of Internet marketing and its tools. The best online marketing campaigns. The organization's web site as part of the marketing message. Creation of an organization's image on the Web. Social media marketing. Content marketing. Search engine marketing (SEO). Video marketing and viral marketing. Real-time marketing. Relational marketing and customer loyalty.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb38687-da27-11ee-9086-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00087W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Process management</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Laboratory classes: Process identification. Architecture of business processes. Models and documentation processes. Process description and modelling with IT tools. Analysis and evaluation of processes.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb1b358-da27-11ee-87d6-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00101S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">International Marketing</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb4be4b-da27-11ee-8342-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00016S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quality management and control</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quality. Basic concepts and definitions. Prominent philosophers of quality. Standardization, conformity assessment and regulations in terms of quality. Models for measuring quality: Servqual, KANO. Quality management systems according to ISO 9001:2015. Quality management systems in various industries. The essence of the integration of management systems. Total Quality Management (TQM). Methods and tools to improve the quality system</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb580af-da27-11ee-9338-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00070S</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Strategic management</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb02ea9-da27-11ee-a1ba-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00086W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computer tools in financial planning</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb1b357-da27-11ee-8bf0-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00101W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">International Marketing</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#0bb3d46e-da27-11ee-a019-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FM-00075W</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Production and service management</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Servitization. The three sectors of economy: agriculture, manufacturing and services. Changing trends and their causes. The fourth industrial revolution, Industry 4.0. Production process, service process. Types of production systems. Classification of service operations. Product designing. Process of product designing, QFD (Quality Function Deployment Method) as a tool supporting designing process – discussion. Blueprints in services. What is a blueprint? Why we use blueprints in services? How to prepare it? MRP I – Material Requirements Planning system. The differences between MRP I and MRP II, the role of computer software, Master Production Schedule, BOM – bill of materials, schedules for materials. Lean Management. The origins of Lean Management, types of wastes. Tools and techniques in LM. 5S technique. Just in Time system. Assumptions of JiT as original Japanese approach, kanban system, determinations of number of kanban cards, calculation of kanban cards.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#BU"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#BUEngineeringManagement"/>
+  </rdf:Description>
+</rdf:RDF>

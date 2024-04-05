@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://across/university#"
+   xmlns:ns2="http://tuc.web.engineering/module#"
+   xmlns:ns3="http://tuc/course#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#8907992c-da24-11ee-9907-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B15</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mathematische Statistik</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Grundbegriffe der Mathematischen Statistik  empirische Maße  Schätztheorie  Testtheorie  ausgewählte Verfahren der Mathematischen Statistik</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#8908ff60-da24-11ee-a52d-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M28</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Optimierung im Maschinellen Lernen</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Herausforderungen hochdimensionaler Optimierungsaufgaben  deterministische Optimierungsverfahren  stochastische Optimierungsverfahren  effiziente Berechnung von Ableitungen  schnelle Optimierungsverfahren für Klassifikationsaufgaben  schnelle Optimierungsverfahren im deep learning</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#890b9545-da24-11ee-8547-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">E18</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sensorsignalverarbeitung</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Anforderungen an Sensoren und Messsysteme  Messsignale, Störeinflüsse und Schutzmaßnahmen  Modellieren von Sensorkennlinien  Parameterextraktionsverfahren  Kompensation von Einflusseffekten und Querempfindlichkeiten  Methoden der Selbstüberwachung und Selbstkalibrierung  Digitale Signalanalyse  Digitale Signalverarbeitung  Korrelationsmesstechnik</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#890b6e6b-da24-11ee-96c6-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">I35</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Medienretrieval</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Medienretrieval beschäftigt sich mit der Suche in multimedialen Datenbeständen mit besonderem Fokus auf:  Retrieval-Prozess  Retrieval-Modelle  Metadaten  Evaluation von Retrieval-Systemen  Metadatengenerierung</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#890a5da7-da24-11ee-ac04-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">I29</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XML</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die eXtensible Markup Language (XML) ist die Basis für eine Vielzahl von Entwicklungen im Bereich des World Wide Web. XML spielt eine zentrale Rolle für Transport und Integration von Daten sowie für viele moderne Softwareanwendungen. Das Angebot bietet eine grundlegende Einführung in die XML und ihre Verwendung in unterschiedlichen Kontexten Verteilter Systeme, Verteilter Software und des Webs. Es werden diverse aktuelle Anwendungsszenarien und praxisrelevante Werkzeuge vorgestellt. Die Themen behandeln:  Einführung in Markupsprachen und XML  Grundlegende Ansätze, z.B. DTD, XML-Schemas, XML-Editoren, XML- Anwendungen, Linking, XPath, XSL/XSLT  Formate und Werkzeuge im Bereich Daten, z.B. SVG, RSS  Formate und Werkzeuge im Bereich Semantik, z.B. RDF, OWL, digitale Rechte mit Creative Commons  Formate und Werkzeuge im Bereich Benutzerschnittstellen, z.B. XHTML, XForms, MicroFormats  Formate und Werkzeuge im Bereich Anwendungslogik, z.B. Web Services, Blogs, Collaboration, Content Analysis, E-Commerce, Maps, Social Bookmarking, Search, Sight/Sound/Motion, Storage, Tagging</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#8907c016-da24-11ee-89a9-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B29</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computer-orientierte Mathematik</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Programmierung im Kontext mathematischer Aufgabenstellungen  Fehlerbehandlung, Fehlersuche und Testläufe  Datenhaltung und Reproduzierbarkeit  Datenaufbereitung und Visualisierung  Profiling und effiziente Programmierung  Grafische Benutzerschnittstellen</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#890834e2-da24-11ee-be4d-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M12</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Numerische Optimierung</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Freie Optimierung: Optimalitätsbedingungen, Konvergenzbegriffe, grundlegende numerische Optimierungsverfahren, wie z.B. Newton- Verfahren, Line-Search, Trust-Region, etc.  Optimierung mit Nebenbedingungen: Optimalitätsbedingungen, grundle- gende numerische Optimierungsverfahren, wie z.B. Straf- und Barriere- Verfahren, SQP-Verfahren etc.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#890d5b67-da24-11ee-a4d1-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A04</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Master-Arbeit</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Im Rahmen des Moduls wird eine Masterarbeit - eine schriftliche Arbeit auf dem Gebiet Data Science, die nach wissenschaftlichen Grundsätzen angefertigt wird - erstellt und verteidigt. Typische Aufgabenstellungen sind bekannte Data Science-Methoden auf neue Probleme anzuwenden, neuere Resultate der wissenschaftlichen Literatur aufzuarbeiten und neu zusammenzustellen oder auch neue Ergebnisse zu ern. Das Thema soll ausführlich und verständlich, möglichst unter Verwendung eines wissenschaftlichen Satzsystems wie LaTeX, in der Regel in Deutsch oder Englisch dargestellt werden.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">900</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#89094d2d-da24-11ee-85e6-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FDS-A2</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forschungsmodul Data Science A (mittel)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Um Einblick in aktuelle Forschungsthemen, Anwendungsgebiete, Modellierungstechniken, konkrete wissenschaftliche Arbeit oder darauf vorbereitende themenspezifische Grundlagen zu vermitteln, werden in unregelmäßigen Abständen Spezialveranstaltungen zu Data Science angeboten, in denen typische methodische Ansätze, Algorithmen und Beweistechniken erarbeitet werden.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#890775e7-da24-11ee-8378-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B14</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gewöhnliche Differentialgleichungen</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Existenz- und Eindeutigkeitssätze für Anfangswertaufgaben  Lineare Systeme gewöhnlicher Differentialgleichungen  Rand- und Eigenwertaufgaben  Grundbegriffe dynamischer Systeme</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#890b2051-da24-11ee-839f-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">I34</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Deep Reinforcement Learning</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Reinforcement Learning (RL) ist ein wichtiger Teil des maschinellen Lernens, bei dem ein Agent lernt, durch partielles Feedback (Belohnungen) mit seiner Umgebung zu interagieren. Durch die Erweiterung von RL mit tiefen neuronalen Netzwerken zur Funktionsapproximation hat das Deep Reinforcement Learning die Fähigkeit, direkt mit sensorischen Rohdaten zu arbeiten, was ein End-to-End-Lernen ermöglicht. Inhalte der Vorlesung sind:  Grundlagen des Reinforcement Learning  Value-based Methoden  Policy search und Policy gradient  Modellbasiertes Reinforcement Learning  Multi-Agent Reinforcement Learning</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#8906fd79-da24-11ee-93ec-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B08</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grundlagen der Optimierung</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Optimalitätsbedingungen für freie und restringierte Optimierung  Konvexität, Trennungssätze, Lagrangefunktion  Lineare Optimierung (Theorie und Lösungsverfahren)  Umsetzung mit softwaretechnischen Hilfsmitteln in den Übungen</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#8907c017-da24-11ee-9b09-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M03</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Diskrete Optimierung</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Optimierungsaufgaben über diskreten Grundmengen  Theorie und praktische Verfahren der linearen Optimierung mit Ganzzahligkeitsbedingungen  Relaxationen und duale Probleme  Algorithmische Komplexität  Approximationsalgorithmen</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#8907e704-da24-11ee-adcf-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M04</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Einführung in die Diskrete Mathematik</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aus zentralen Bereichen der Diskreten Mathematik, wie etwa Kombinatorik, Graphen-, Matroid- und Komplexitätstheorie werden grundlegende Begriffe, Sätze, Beweistechniken und Algorithmen dargestellt.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#890885e3-da24-11ee-a123-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M22</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zeitreihenanalyse</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Beschreibung von Zeitreihen und das klassische Komponentenmodell  Anwendung von Zeitreihen in Wirtschaft und Technik  Trendbestimmung  Saisoneffekte  Stationarität  Korrelogramm  Periodogramm und Autokovarianzfunktion  Fouriertransformation von Zeitreihen  Zusammenhang zu stochastischen Prozessen  Schätz- und Vorhersagetechniken  Spektralanalyse  Glättungs- und Regularisierungszugänge bei Zeitreihen</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#890c80d5-da24-11ee-97d8-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">E21</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Regelungstechnik 2B</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Lineare Mehrgrößensysteme und -regelungen  Modellreduktion  Beobachterentwurf  erweiterte Konzepte der Mehrgrößenregelung</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#8907992d-da24-11ee-82c3-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B21</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Angewandte Statistik</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Methodenpraktikum zur Statistik unter Verwendung der Programmiersprache R, Datenaufbereitung, deskriptive und induktive Statistik, insbesondere Mittelwerttests, Varianzanalyse, lineare Regression, lineare Modelle, Kontingenzanalyse und nicht parametrisches Testen sowie explorative Datenanalyse</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#890af963-da24-11ee-a233-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">I33</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neurocomputing</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neurocomputing behandelt Grundlagen bis hin zu anspruchsvollen Methoden der neuronalen Verarbeitung. Dafür werden mathematische Kenntnisse der linearen Algebra und der Statistik vertieft. Neurocomputing fokussiert sich im Gegensatz zu Neurokognition eher auf Neuronale Netze zur Lösung von Anwendungen, als auf die Erklärung der Funktion des Gehirns, dabei können die behandelten Ansätze allerdings durchaus biologisch inspiriert sein. Themen des Moduls sind unterschiedliche Neuronenmodelle, Methoden des Lernens wie Deep Learning, Reservoir Computing, Self-Organizing Maps, Autoencoder und weitere aktuelle Methoden.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#890834e3-da24-11ee-a3ad-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M13</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Numerik gewöhnlicher Differentialgleichungen</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Anfangswertaufgaben: Stabilitätsbegriffe, Einschrittverfahren (insbeson- dere implizite und linear-implizite Runge-Kutta-Methoden, Schrittweiten- steuerung), Extrapolationsmethoden, Mehrschrittverfahren  Randwertaufgaben: Schießverfahren, Differenzenverfahren, Kollokationsmethoden</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#890d5b66-da24-11ee-bf2a-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">W46</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Big Data Management/Database Marketing</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Big Data Management − Überblick über Herausforderungen und Lösungsansätze des Managements von Big Data, d. h. von großen, polystrukturierten Datenbeständen − Hadoop Distributed File System (HDFS), MapReduce, NoSQL- Datenbanken, Big Data Analytics, Organistorische Heraus- forderungen in Big-Data-Projekten  Database Marketing − Grundlagen zu Informationsstrukturierung, konzeptioneller Datenmodellierung und Datenbanksystemen − Aufbau und Komponenten von Datenbanksystemen − Entwicklungsprozess von Datenbanken − Datenbanksprachen − Anwendungen im Bereich des Database Marketing</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#89092643-da24-11ee-bb0b-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FDS-A1</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forschungsmodul Data Science A (klein)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Um Einblick in aktuelle Forschungsthemen, Anwendungsgebiete, Modellierungstechniken, konkrete wissenschaftliche Arbeit oder darauf vorbereitende themenspezifische Grundlagen zu vermitteln, werden in unregelmäßigen Abständen Spezialveranstaltungen zu Data Science angeboten, in denen typische methodische Ansätze, Algorithmen und Beweistechniken erarbeitet werden.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#890a36bf-da24-11ee-96a7-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">I2801.01.2010</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Datensicherheit</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ausgehend von einem Kommunikationsmodell (z.B. aus dem Philosophieunterricht in der Schule) werden in der Vorlesung Grundprinzipien moderner Verschlüsselungsverfahren wie RSA behandelt, wobei zunächst einfache klassische Verfahren wie Hill-Chiffre vorgestellt werden. Besprochen werden Angriffsmöglichkeiten für einen Gegner sowie deren mögliche Abwehr durch Sender oder Empfänger einer Nachricht. Des Weiteren werden Anwendungen eingehend behandelt, wie Schlüsselaustausch zur Kommunikation (Diffie-Hellman Verfahren) und digitale Signaturen. Auf die erforderlichen mathematischen Grundlagen wird verfahrens- abhängig eingegangen.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#890d3152-da24-11ee-adad-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">W44</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Data Mining</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Grundlagen des Data Mining: Begriffsbestimmung, CRISP-DM, Betriebswirtschaftliche Einsatzgebiete des Data Mining, Web Mining und Text Mining  Überblick über die wesentlichen Methoden und Technologien zur Auswertung von und Mustererkennung in Daten mit entsprechenden Verfahren</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#890aac37-da24-11ee-a554-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">I3105.05.2010</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neurokognition I</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Neurokognition ist ein neuer Zweig der Kognitionswissenschaft, in der die Konsequenzen aus den in der neurowissenschaftlichen Forschung der letzten Jahre gewonnenen Erkenntnissen für die Kognition gezogen werden. Die Veranstaltung führt in die Modellierung neurokognitiver Vorgänge des Gehirns ein. Neurokognition ist ein Forschungsfeld, welches an der Schnittstelle zwischen Psychologie, Neurowissenschaft, Informatik und Physik angesiedelt ist. Es dient zum Verständnis des Gehirns auf der einen Seite und der Entwicklung intelligenter adaptiver Systeme auf der anderen Seite. In Neurokognition I werden vorwiegend verschiedene realistische neuronale Modelle und Netzwerkeigenschaften sowie das Lernen in Form von synaptischer Plastizität vorgestellt. Zum tieferen Verständnis erfordern die Übungen auch praktische Aufgaben am Rechner.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#890885e2-da24-11ee-a3bd-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M17</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stochastische Prozesse</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Definition stochastischer Prozesse  Stochastische Prozesse als mathematische Modelle zufälliger Zeitevolutionen  Strukturelle Eigenschaften stochastischer Prozesse  Konvergenzverhalten von stochastischen Prozessen</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#89092642-da24-11ee-a97c-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S04</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Modellierungsseminar</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">In diesem einjährigen Seminar wird einzeln oder in kleinen Teams an Projekten gearbeitet, wobei  die Modellbildung anhand eines praktischen Anwendungsproblems,  die Formulierung einer dazugehörigen Fragestellung  und deren Lösung mit Methoden der Data Science im Vordergrund stehen.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#89074d0e-da24-11ee-843d-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B10</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stochastik</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einführung in wahrscheinlichkeitstheoretische Modelle  Kolmogoroff’sche Axiomatik  Zufallsgrößen, wichtige Verteilungstypen  bedingte Erwartungswerte  charakteristische Funktionen  Gesetze der großen Zahlen und Grenzverteilungssätze  Folgen und Summen unabhängiger Zufallsgrößen  Anwendungen in Naturwissenschaft, Technik und Wirtschaft</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#890b9544-da24-11ee-9e6c-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">I36</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Advanced Management of Data</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Anforderungen an heutige Datenverwaltungssysteme sind u.a. Skalierbarkeit, kontinuierliche Verfügbarkeit, häufige Änderungen, Ortsunabhängigkeit, die Verwaltung verschiedenartigster Datentypen sowie der Umgang mit sehr großen und stetig wachsenden Datenmengen. Klassische relationale Datenbanksysteme sind oft nicht in der Lage, diese Anforderungen zu erfüllen. Betrachtet werden u.a.:  Objektrelationale und objektorientierte Systeme  NoSQL-Datenbanken  Graph-Datenbanken  Verteilte Datenbanken  Parallele Datenverarbeitung  Internet-Datenanbindung  Sicherheitsaspekte</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#890d06a2-da24-11ee-8ced-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">E23</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Modellbildung und Identifikation dynamischer Systeme 2</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einführung in die Systemidentifikation  Parametrische dynamische Modelle  Schätzverfahren (Bezeichnungen, Bias, Konsistenz, Ausgleichsrechnung, mengenbasierte Verfahren, Zustandsschätzverfahren, u.a.)  Optimierungsverfahren und -algorithmen  erweiterte Konzepte</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#89072481-da24-11ee-8a61-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B09</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Numerische Mathematik</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Zahldarstellung und Rundungsfehler  Kondition und numerische Stabilität  numerische Lösung linearer Gleichungssysteme  nichtlineare Gleichungssysteme  Interpolation und Funktionsapproximation  numerische Integration (Quadratur)  Grundlagen der numerischen Eigenwertberechnung  Grundlagen der numerischen Lösung von Anfangswertaufgaben bei gewöhnlichen Differentialgleichungen</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#89085bd0-da24-11ee-9bc8-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M14</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Numerik partieller Differentialgleichungen</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Rand- und Anfangswertaufgaben bei partiellen Differentialgleichungen  Finite-Differenzen-Methode bzw. Finite-Volumen Methode  Projektionsverfahren (u.a. Ritz- und Galerkin-Verfahren)  Methode der finiten Elemente  Approximations-, Stabilitäts- und Konvergenzaussagen  Fehlerabschätzungen  Anwendung auf Rand- und Anfangswertaufgaben  Algorithmen und Realisierung von Diskretisierungsmethoden</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#8909c1f4-da24-11ee-9b67-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FDS-B3</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forschungsmodul Data Science B (groß)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Um Einblick in aktuelle Forschungsthemen, Anwendungsgebiete, Modellierungstechniken, konkrete wissenschaftliche Arbeit oder darauf vorbereitende themenspezifische Grundlagen zu vermitteln, werden in unregelmäßigen Abständen Spezialveranstaltungen zu Data Science angeboten, in denen typische methodische Ansätze, Algorithmen und Beweistechniken erarbeitet werden.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#890d3153-da24-11ee-b469-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">W45</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">E-Business</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einführung und Grundlagen  Digitale Geschäftsmodelle  Grundlagen der Informationstechnologie für das E-Business  E-Marketplace, E-Shops, E-Procurement, E-Marketing  E-Community/Social Network Analytics</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#890a0fcc-da24-11ee-a9c9-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">I2619.05.2010</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bildverstehen</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Modul gibt eine Einführung in das Bildverstehen, wobei besonders Mittel und Methoden der Künstlichen Intelligenz betrachtet werden. Schwerpunkt ist das Verstehen von Bildern. Inhalte:  Überblick zum Bildverstehen  Grundlagen der digitalen Bildverarbeitung  Bildvorverarbeitung  Bildsegmentierung  Merkmale von Objekten  Objekterkennung  Dreidimensionale Bildinterpretation  Bewegungsanalyse – Optischer Fluss</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#89080df2-da24-11ee-a615-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M07</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hilbertraummethoden</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Hilberträume und ihre Geometrie  Lineare Operatoren  Grundzüge der Spektraltheorie</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#8908ff61-da24-11ee-8e1e-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M29</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mathematische Methoden der Quantifizierung von Unsicherheit</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Beschreibungen von Unsicherheit  Numerik zufälliger Differentialgleichungen  Bayessche Inferenz für inverse Probleme</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#8908ac87-da24-11ee-8631-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M25</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mathematische Grundlagen von Big Data Analytics</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Bezeichnende an Big Data ist, dass die zu bearbeitenden Datenmengen zu groß, zu komplex, zu schnelllebig oder zu schwach strukturiert sind, um sie mit manuellen und herkömmlichen Methoden der Datenverarbeitung auszuwerten. In diesem Modul werden grundlegende mathematische Modelle im Bereich Big Data Analytics dargestellt sowie ein anwendungsorientierter Bezug zu relevanten wirtschaftswissenschaftlichen Fragestellungen hergestellt. Es werden mathematische Hilfsmittel aus der Angewandten Mathematik (insbesondere Numerische Lineare Algebra, Statistik, Optimierung, Spieltheorie, Graphentheorie, Gewöhnliche Differentialgleichungen) erläutert und auf aktuelle Probleme der Datenanalyse im ökonomischen Kontext angewandt.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#8908d843-da24-11ee-9ea9-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M27</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Statistik in Data Science</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Explorative Datenanalyse (erkundende Statistik)  Deskriptive Statistik  Large sample theory  Mathematische Statistik  Asymptotische Statistik  Extremwertstatistik  Large deviation theory</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#8908d842-da24-11ee-a68d-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M26</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Matrix-Methoden in Data Science</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Grundlegende Beispiele  Zerlegungen: QR, SVD, CX, CUR, NMF  Tensormethoden: CP-Format, Tucker, Tensor Train  Clustering</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#89097420-da24-11ee-80c9-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FDS-A3</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forschungsmodul Data Science A (groß)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Um Einblick in aktuelle Forschungsthemen, Anwendungsgebiete, Modellierungstechniken, konkrete wissenschaftliche Arbeit oder darauf vorbereitende themenspezifische Grundlagen zu vermitteln, werden in unregelmäßigen Abständen Spezialveranstaltungen zu Data Science angeboten, in denen typische methodische Ansätze, Algorithmen und Beweistechniken erarbeitet werden.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#890c32a6-da24-11ee-abbd-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">E19</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Systemtheorie</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einführung in die Systembetrachtung  Beschreibung und Analyse dynamischer (zeitdiskreter und zeitkontinuierlicher) Systeme  Einführung in stochastische Prozesse</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#890c59ed-da24-11ee-ae06-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">E20</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Regelungstechnik 1B</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Systemanalyse im Zeitbereich  Reglerentwurf im Zeitbereich  Systemanalyse im Frequenzbereich  Analyse von Regelkreisen, Anforderungen an Regelkreise  Reglerentwurf im Frequenzbereich</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#89099b72-da24-11ee-aa9f-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FDS-B2</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forschungsmodul Data Science B (mittel)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Um Einblick in aktuelle Forschungsthemen, Anwendungsgebiete, Modellierungstechniken, konkrete wissenschaftliche Arbeit oder darauf vorbereitende themenspezifische Grundlagen zu vermitteln, werden in unregelmäßigen Abständen Spezialveranstaltungen zu Data Science angeboten, in denen typische methodische Ansätze, Algorithmen und Beweistechniken erarbeitet werden.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#89080df3-da24-11ee-b2b0-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M08</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inverse Probleme</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Charakterisierung inverser Aufgaben anhand von angewandten Beispielen aus der Mathematik, den Naturwissenschaften, dem Ingenieurwesen und der Wirtschaft bzw. Börse  die Hadamard’sche Korrektheitsdefinition und das Phänomen der Inkorrektheit  inverse Probleme als lineare und nichtlineare Operatorgleichungen in Banach- und Hilberträumen mit Schwerpunkt auf linearen Problemen  die Nashed’sche Korrektheitsdefinition für Hilbertraumprobleme  Singulärwertzerlegung kompakter Operatoren und Grad der Inkorrektheit  Theorie und Praxis der Regularisierung inkorrekter Aufgaben mit Mitteln der Analysis, Numerik, Optimierung und Stochastik  Konvergenzraten und Quelldarstellungen</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#8908ac86-da24-11ee-923a-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M24</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Einführung in Data Science</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Umgang mit Daten (Erhebung, Vorverarbeitung, Visualisierung)  Statistische Lernverfahren (Regression, neuronale Netze, Resampling- Verfahren, Modellauswahl)  Klassifikation (baum- und kernbasierte Methode)  Bayessche Methoden, Informationstheorie  Anwendungen: Sprach- und Bildverarbeitung</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#89097421-da24-11ee-b3a2-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FDS-B1</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forschungsmodul Data Science B (klein)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Um Einblick in aktuelle Forschungsthemen, Anwendungsgebiete, Modellierungstechniken, konkrete wissenschaftliche Arbeit oder darauf vorbereitende themenspezifische Grundlagen zu vermitteln, werden in unregelmäßigen Abständen Spezialveranstaltungen zu Data Science angeboten, in denen typische methodische Ansätze, Algorithmen und Beweistechniken erarbeitet werden.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#890cdb7c-da24-11ee-bda1-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">E22</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Modellbildung und Identifikation dynamischer Systeme 1</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Modellbegriff  Methoden der Modellbildung  Blackbox- und Whitebox-Modelle  Modellvalidierung  Konkrete Beispiele aus Elektrotechnik, Mechanik, Thermodynamik, Biologie, Chemie</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#89085bd1-da24-11ee-8f50-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M15</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Numerische Lineare Algebra</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Spezielle Matrizen  Verallgemeinertes Eigenwertproblem  Theorie der Iterationsverfahren für Gleichungssysteme  Krylov-Unterraumverfahren  Vorkonditionierer</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#890a849a-da24-11ee-b477-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">I3001.01.2010</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multicore-Programmierung</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Inhalte der Vorlesung umfassen eine Einführung in die Architektur von Multicore-Prozessoren, Programmiermodelle zur Multicore- Programmierung und die Programmierung mit Threads. Zur Thread- Programmierung werden verschiedene Sprach- und Bibliothekansätze vorgestellt.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#8909e8e1-da24-11ee-9f92-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">I24</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Datenbanken in der Praxis</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> semantische und relationale Datenmodellierung  Datenmodelle, Datenabstraktion  Datenbankentwurf mittels semantischer Datenmodellierung (ER-Modell)  Relationales Datenmodell (Konzepte, Transformation vom ERM ins RM)  Datenbankanfragen mit SQL (einfache Anfragen, komplexe Anfragen, Query-by-Example)  Datenmanipulation mit SQL (Insert, Update, Delete)  Transaktionsverwaltung (Begriff, Eigenschaften, Nebenläufigkeit von DB-  Operationen)  Sicherheitsaspekte (Zugriffskontrolle, Sichten, SQL-Injection)  Betriebliche Anwendungen (Date Warehouse, Data-Mining)  Internet-Datenbankanbindung (Client-Server-Architektur, Servlets, JSP, XML, Web-Services)  Konzepte zur Optimierung und Zugriffsbeschleunigung durch Indexierung</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#890ad2be-da24-11ee-8351-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">I3205.05.2010</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neurokognition II</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Neurokognition II beleuchtet komplexere Modelle von neuropsychologischen Prozessen, mit dem Ziel, die neuronalen Mechanismen des Gehirns besser zu verstehen und neue Algorithmen für intelligente, kognitive Roboter zu entwickeln. Themen sind Wahrnehmung, visuelle Aufmerksamkeit, Objekterkennung, Gedächtnis, Handlungskontrolle, Emotionen, Entscheidungen und Raumwahrnehmung. Zum tieferen Verständnis erfordern die Übungen auch praktische Aufgaben am Rechner.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#8907e705-da24-11ee-91d1-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M05</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Graphentheorie</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Grundlegende Begriffe: Graph, Baum, Zusammenhang, Chromatische Zahl, Abstand, Isomorphie, Minor  Zusammenhangsaussagen  Faktoren von Graphen  Färbung und Planarität</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</ns2:hasWorkLoad>
+    <ns1:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns3:hasCourse rdf:resource="http://tuc/course#TUCDataScience"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://tuc/course#"
+   xmlns:ns2="http://tuc.web.engineering/module#"
+   xmlns:ns3="http://across/university#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb646241-d9b4-11ee-9009-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Chin_4</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chinesisch IV (Niveau A2/2)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Übung anhand zahlreicher allgemeinsprachlicher Themen, z. B. moderne Kommunikationsmittel (Fax, Anruf und E-Mail), Berufe und Zuständigkei- ten in einer Firma, Freizeitaktivitäten, Hobbys  Erweiterung grammatischer Strukturen, z. B. Dativobjekt, Indefinitprono- men, Zustandsveränderungen, Vergleich, Komparation der Adjektive Die Ausbildung orientiert sich an der Sprachkompetenzstufe A2 des Gemein- samen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb660e13-d9b4-11ee-95a5-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Russ_2</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Russisch II (Niveau A2)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Erweiterung und Festigung der Lexik und der grammatischen Kenntnisse  Lexikalische Schwerpunkte: Feiertage, gesunde und ungesunde Lebens- weise, Gesundheit, das Äußere und Eigenschaften einer Person, Reise- und Hobbywelt, Arbeitsalltag  Grammatische Strukturen: Deklinationen der Adjektive, Steigerungs- und Kurzformen der Adjektive, Mengen- und Zeitangaben, Ordnungszahlwör- ter, Satzgefüge, Pronomen, Verben der Fortbewegung, unpersönliche Sätze, Konjunktiv, Bildung und Gebrauch der Aspekte (Präteritum)  Kommunikationsstrukturen: Einkaufsdialoge führen, Beschreibung der Urlaubsgewohnheiten und der Lage des Zielortes, Glückwünsche formu- lieren, über die eigene Lebensweise und die Gesundheit sprechen, eigene Meinung/Wünsche und Träume äußern, praxisorientierte Rollenspiele Die Ausbildung orientiert sich an der Sprachkompetenzstufe A2 des Gemein- samen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb639f2f-d9b4-11ee-932d-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">578170</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Medienretrieval</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Medienretrieval beschäftigt sich mit der Suche in multimedialen Datenbe- ständen mit besonderem Fokus auf:  Retrieval-Prozess  Retrieval-Modelle  Metadaten  Evaluation von Retrieval-Systemen  Metadatengenerierung</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb660e15-d9b4-11ee-8e5e-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Russ_4</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Russisch IV (Niveau B1)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Konsolidierung und Erweiterung der Sprachkenntnisse und -kompetenzen, Übersicht über den gesamten Formenbestand der Ziel- sprache  Erwerb und Vertiefung der Grundlexik im Bereich Beruf, Studium, Kunst, Umwelt, Gesellschafts- und Geschäftsleben  Landeskundliche/kulturelle Besonderheiten  Grammatische Strukturen: Passivkonstruktionen mit Urheber der Hand- lung, Partizipien, Zeitspannen, einfacher und zusammengesetzter Super- lativ, direkte und indirekte Rede, syntaktische Besonderheiten  Kommunikationsstrukturen: Meinungen/Vorlieben der anderen und Um- frageergebnisse präsentieren und diskutieren; unterschiedliche Beiträge, Ereignisse und Projekte vorstellen und bewerten, über Lebensstile disku- tieren Die Ausbildung orientiert sich an der Sprachkompetenzstufe B1 des Gemein- samen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb65004e-d9b4-11ee-b015-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Franz_5</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Französisch V (Niveau B1/B2)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Festigung und Erweiterung der Sprachkenntnisse  Vertiefung grammatischer Strukturen: subjonctif, Bedingungsätze, Kom- paration, Einübung von Stilmitteln, variétés linguistiques, langues régio- nales, Jugendsprache: le verlan, Kohäsions- und Kohärenzelemente  Textsorten: essai, résumé, synthèse, commentaire  Aktuelle Themen werden besprochen, authentische Hör- und Lesetexte dienen der Erweiterung der Lexik Die Ausbildung orientiert sich an der Sprachkompetenzstufe B1/B2 des Ge- meinsamen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb60f4c8-d9b4-11ee-8baf-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">555190</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hardware Development with VHDL</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Paradigmen und Konzepte zur Implementierung von Funktionalitäten als kombinatorische oder sequentielle Digitalsysteme unterscheiden sich deut- lich von den etablierten Verfahren zur Programmierung mittels imperativer Programmiersprachen. Dieses Modul befasst sich mit den Paradigmen des Hardwareentwurfs und setzt sie in Relation zu imperativen Programmieran- sätzen. Als Beschreibungssprache kommt VHDL zum Einsatz. Schwer- punkte dieses Moduls sind:  VHDL Grundlagen (Konzepte, Syntax, Semantik)  Vergleich zu imperativen Programmiersprachen  Kombinatorische Systeme und ihre Modellierung  Sequentielle Systeme und ihre Modellierung  Komponenten der Register-Transfer-Ebene und ihre VHDL-Realisierung  Modellierung und Realisierung komplexer Systeme  Praktische Erfahrungen in der VHDL-Beschreibung Der praktische Umgang mit entsprechenden Entwurfsprogrammen zur Si- mulation und Synthese der VHDL-Beschreibungen wird ebenso vermittelt.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb6205b5-d9b4-11ee-9ff7-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">578070</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mensch-Computer-Interaktion II</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Modul vertieft die Konzepte der Mensch-Computer-Interaktion I mit be- sonderem Fokus auf:  Ideation  Serious Games  Informationsvisualisierung  Ästhetik  Post-WIMP-Interfaces</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb63f094-d9b4-11ee-bf34-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Arab_2</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Arabisch II (Niveau A1/2)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Vermittlung und Übung weiterer Grundkenntnisse der arabischen Spra- che (Schriftzeichen, Lexik, Grammatik, Phonetik)  Erweiterung und Festigung der Lexik zu Standardsituationen wie Begrü- ßung, Vorstellung, Wegbeschreibung, Wetter, Zahlen, Zeitangaben und Einkaufen  Lernen weiterer grammatischer Strukturen (arabische grammatische Stämme)  Phonetische Übungen  Vermittlung weiterer interkultureller Besonderheiten (Lebensgewohnhei- ten, Feste, Bräuche, Landeskunde) Die Ausbildung orientiert sich an der Sprachkompetenzstufe A1 des Gemein- samen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb61de71-d9b4-11ee-a6d7-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">565030</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Echtzeitsysteme</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Theorie und Praxis von Rechensystemen, die zur Lösung zeitkritischer Prob- leme eingesetzt werden. Folgende Themenkreise werden angesprochen: Zeitverwaltung, - standards, Uhren; Schedulingverfahren periodischer und aperiodischer Anforderungen; Ressourcenverwaltung (priority inversion, ~ inheritance, ~ ceiling); Verwaltung von Massenspeichern; Caching und Hauptspeicherverwaltung; Fehlertoleranz in Echtzeit-Systemen; echtzeitge- eignete Kommunikationsmechanismen und –protokolle; Prozessorarchitek- turen für Echtzeitsysteme; Echtzeit-Betriebssysteme</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb67939d-d9b4-11ee-9551-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">818010</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Einführung in die Techniksoziologie</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">In der Vorlesung werden die zentralen Begriffe, Theorien, Forschungsmetho- den und Forschungsgebiete sowie gegebenenfalls bedeutsame empirische Studien sowie relevante Berufsfelder der Speziellen Soziologie „Technikso- ziologie“ behandelt. Es werden sowohl technik- als auch internetsoziologi- sche Inhalte vermittelt.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb646242-d9b4-11ee-8212-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Engl_3</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Englisch in Studien- und Fachkommunikation III (Niveau C1)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vertiefung des Fachwortschatzes in ausgewählten Teilgebieten und syste- matische Erweiterung des allgemeinen Wortschatzes mit Bezug auf studien- und berufsorientierte sowie interkulturelle Sachverhalte, Leiten von Beratun- gen und Diskussionen, Halten von Vorträgen; Die Ausbildung orientiert sich an der Sprachkompetenzstufe C1 des Gemein- samen Europäischen Referenzrahmens für Sprachen (GER) und beinhaltet eine fachsprachliche Komponente.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb648c0a-d9b4-11ee-a4b8-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Engl_5</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Englisch in Studien- und Fachkommunikation V (Niveau C1)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vermittlung erweiterter Kenntnisse und Fertigkeiten in der wissenschaftlich- fachsprachlichen Anwendung der englischen Sprache mit Fokus auf den lin- guistisch-stilistischen Anforderungen einer fachsprachlichen Arbeitsumge- bung; Die Ausbildung orientiert sich an der Sprachkompetenzstufe C1 des Gemein- samen Europäischen Referenzrahmens für Sprachen (GER) und beinhaltet eine fachsprachliche Komponente.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb672167-d9b4-11ee-b64a-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">642160</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Medienrecht</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Modul beinhaltet neben den Grundlagen des Medienrechts (europa- und verfassungsrechtliche sowie privatrechtliche Einordnung) schwerpunktar- tige und fallbezogene Einblicke in Theorie und Praxis einzelner Rechtsgebiete des Medienrechts, u.a. Internet (einschließlich haftungsrechtlicher Aspekte), Social Media, Telekommunikation und Presse, elektronischer und medialer Geschäftsverkehr. Ebenso werden die Grenzen medialer Präsenz themati- siert, u.a. Daten- und Jugendschutz.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb659b68-d9b4-11ee-872d-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Pol_3</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Polnisch III (Niveau A2/B1)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Erweiterung und Festigung der Lexik und der grammatischen Kenntnisse  Landeskundliche/kulturelle Besonderheiten  Lexikalische Schwerpunkte: Sportarten, Haushaltsaktivitäten, Medien, Reisewelt, Auslandsaufenthalt, Lebenslauf, Technik und Erfindungen, Kultur, Ausbildung  Grammatische Strukturen: Steigerung der Adjektive und Adverbien, Futur der (im)perfektiven Verben, Jahres- und Datumsangabe, Imperativ, Pas- siv, Konditional, indirekte Rede  Kommunikationsstrukturen: in kodifizierten Situationen zurechtkommen, Anweisungen/Befehle erteilen, Ratschläge/Empfehlungen geben, über Handlungen in der Zukunft sprechen, über Vergangenes berichten Die Ausbildung orientiert sich an der Sprachkompetenzstufe A2/B1 des Ge- meinsamen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb64b2fb-d9b4-11ee-b275-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Franz_1</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Französisch I (Niveau A1)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Vermittlung von Grundkenntnissen der französischen Sprache (Lexik, Grammatik, Phonetik) und landeskundlichen/kulturellen Besonderheiten  Lexik zu einfachen Themen: Familie und Freunde, Sprachkenntnisse, Ta- gesablauf, Essgewohnheiten, Freizeitbeschäftigungen, Wohnort/ Unter- kunft  Grammatische Strukturen: Artikel, Substantive, Adjektive, Adverbien, Zeit- formen (présent und passé composé), Personalpronomen, Verneinung  Kommunikationsstrukturen: sich und andere vorstellen/beschreiben, Wege beschreiben/erfragen, einfache Ziele ausdrücken, über Vergange- nes berichten Die Ausbildung orientiert sich an der Sprachkompetenzstufe A1 des Gemein- samen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb6142b0-d9b4-11ee-bce3-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">565040</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Labor Eingebettete Software</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Praktikum beschäftigt sich mit der angewandten Modellierung, Analyse und Entwicklung eingebetteter Software-Systeme. Dabei wird auf eingebet- teter Hardware ein aus mehreren Teilprojekten bestehendes Projekt ent- sprechend vorgegebener Spezifikationen entwickelt.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb6685e6-d9b4-11ee-9edd-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Tsch_1</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tschechisch I (Niveau A1)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Vermittlung von Grundkenntnissen der tschechischen Sprache (Lexik, Phonetik) und landeskundlichen Besonderheiten  Lexik zu einfachen Themen: Familie und Freunde, Sprachkenntnisse, Es- sen und Restaurantbesuch, Tagesablauf, Freizeitbeschäftigungen, Woh- nung  Grammatische Strukturen: Deklination der Substantive, Konjugation der Verben, Zeitformen (Präsens und Vergangenheit), Personalpronomen, Verneinung  Kommunikationsstrukturen: sich und andere vorstellen/beschreiben, nach dem Preis oder der Uhrzeit fragen, im Restaurant bestellen, über Vergangenes berichten Die Ausbildung orientiert sich an der Sprachkompetenzstufe A1 des Gemein- samen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb64d983-d9b4-11ee-8394-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Franz_4</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Französisch IV (Niveau B1)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Konsolidierung und Erweiterung der Sprachkenntnisse  Vertiefung der Lexik im Bereich Beruf, Studium  Lebenslauf  Landeskundliche/kulturelle Besonderheiten  Grammatische Strukturen: Konsolidierung subjonctif présent mit Auffor- derungsverben, passé récent, Passiv, conditionnel passé, futur antérieur, reale und irreale Konditionalsätze, plus-que-parfait, Relativpronomen dont, ce qui, indirekte Rede, passé simple, Fragepronomen lequel, parti- cipe présent/gérondif, Verben mit Präpositionalergänzung, Besonderhei- ten der gesprochenen Sprache Die Ausbildung orientiert sich an der Sprachkompetenzstufe B1 des Gemein- samen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb632a7b-d9b4-11ee-83ae-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">571110</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computergraphik II</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fortsetzung der Einführung in die Computergraphik:  Echtzeitrendering  fortgeschrittene Texturierungsverfahren, Multi-Texturing  Generierung von Schatten  Volumenvisualisierung  globale Beleuchtungsverfahren und -effekte, physikalisch basiertes Ren- dering  spezielle Modellierungstechniken Die Übung vertieft das erworbene Wissen durch das Implementieren ausge- wählter Verfahren unter Verwendung eines zeitgemäßen graphischen Inter- faces, z.B. OpenGL.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb603211-d9b4-11ee-977f-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">541070</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Logik-Programmierung</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grundkonzepte und Anwendung der Logik-Programmierung</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb66d391-d9b4-11ee-a329-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200490</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zeitreihenanalyse</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Beschreibung von Zeitreihen und das klassische Komponentenmodell  Anwendung von Zeitreihen in Wirtschaft und Technik  Trendbestimmung  Saisoneffekte  Stationarität  Korrelogramm  Periodogramm und Autokovarianzfunktion  Fouriertransformation von Zeitreihen  Zusammenhang zu stochastischen Prozessen  Schätz- und Vorhersagetechniken  Spektralanalyse  Glättungs- und Regularisierungszugänge bei Zeitreihen</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb663809-d9b4-11ee-93f8-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Span_2</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Spanisch II (Niveau A2)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Erweiterung und Festigung der Lexik und Grammatik  Landeskundliche/kulturelle Besonderheiten  Lexik: Ausbildung, Familie, Hobbys, Freizeit und Beruf  Grammatische Strukturen: (un)regelmäßige Verben, Modalverben, refle- xive Verben, Possessivpronomen, direkte und indirekte Personalprono- men, Relativpronomen, Gegenüberstellung von pretérito indefinido und perfecto  Kommunikationsstrukturen: über Gewohnheiten reden, Vorschläge ma- chen, Pläne machen, über Erfahrungen berichten und diese bewerten Die Ausbildung orientiert sich an der Sprachkompetenzstufe A2 des Gemein- samen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb622c49-d9b4-11ee-801f-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">551010</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hochleistungs- und Parallelrechner</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Einzelne Prozessoren stoßen bei vielen Anwendungen an ihre Grenzen, was zur Entwicklung moderner Hochleistungs- und Parallelrechner geführt hat, die mittlerweile in vielen Bereichen eingesetzt werden. Abhängig von ihrer Zielanwendung können sich solche Rechner stark voneinander unterschei- den, was zu verschiedenen Hardwarearchitekturen und Programmiermodel- len geführt hat. Folgende Themen werden behandelt:  Vektorprozessoren und Multimedia-Erweiterungen  Graphics Processing Units (GPUs)  Multiprozessorsysteme symmetrischen und asymmetrischen Speichers  Cache-Kohärenz und Speicherkonsistenz  Networks on Chip (NoCs)  Programmiermodelle wie CUDA, OpenCL, etc.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb63784d-d9b4-11ee-b342-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">573180</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neurocomputing</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neurocomputing behandelt Grundlagen bis hin zu anspruchsvollen Metho- den der neuronalen Verarbeitung. Dafür werden mathematische Kenntnisse der linearen Algebra und der Statistik vertieft. Neurocomputing fokussiert sich im Gegensatz zu Neurokognition eher auf Neuronale Netze zur Lösung von Anwendungen, als auf die Erklärung der Funktion des Gehirns, dabei können die behandelten Ansätze allerdings durchaus biologisch inspiriert sein. Themen des Moduls sind unterschiedliche Neuronenmodelle, Metho- den des Lernens wie Deep Learning, Reservoir Computing, Self-Organizing Maps, Autoencoder und weitere aktuelle Methoden.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb65726c-d9b4-11ee-9d97-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Pol_1</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Polnisch I (Niveau A1)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Laute, Betonung und phonetische Besonderheiten des Polnischen  Vermittlung von Grundkenntnissen der polnischen Sprache (Lexik, Gram- matik, Syntax) und landeskundlichen/kulturellen Informationen  Einführung und Übung der Lexik zu einfachen Themen wie Familie, Ein- kaufen, Wohnen, Freizeitbeschäftigungen, Essgewohnheiten etc.  Grammatische Strukturen: Entscheidungsfrage, Personal- und Posses- sivpronomen, drei Konjugationsgruppen, Präsensformen, Adjektivendun- gen, Substantive und Adjektive im Nominativ, Genitiv und Akkusativ, Prä- position „z“ Die Ausbildung orientiert sich an der Sprachkompetenzstufe A1 des Gemein- samen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb61939d-d9b4-11ee-b3f9-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">500190</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Effiziente Algorithmen</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einführung in randomisierte Algorithmen  Analyse der mittleren Laufzeit von Algorithmen  Kompliziertere Datenstrukturen und ihre Analyse  Kombinatorische Suchprobleme</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb654b76-d9b4-11ee-887a-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Ital_2</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Italienisch II (Niveau A2)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Erweiterung und Festigung der Lexik und Grammatik  Landeskundliche/kulturelle Besonderheiten  Lexik: Ausbildung, Familie, Hobbys, Freizeit und Beruf  Grammatische Strukturen: (un)regelmäßige Verben, Modalverben, refle- xive Verben, imperfetto und condizionale, Possessivpronomen, direkte und indirekte Personalpronomen, Relativpronomen  Kommunikationsstrukturen: über Gewohnheiten reden, Vorschläge ma- chen, Pläne machen, über Erfahrungen berichten und diese bewerten Die Ausbildung orientiert sich an der Sprachkompetenzstufe A2 des Gemein- samen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb665ebf-d9b4-11ee-80d2-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Span_4</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Spanisch IV (Niveau B1)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Konsolidierung und Erweiterung der Sprachkenntnisse  Vertiefung der Lexik im Bereich Beruf, Studium  Lebenslauf  Landeskundliche/kulturelle Besonderheiten  Grammatische Strukturen: subjuntivo presente, oraciones pasivas, Nebensätze mit indicativo und subjuntivo, indirekte Rede Die Ausbildung orientiert sich an der Sprachkompetenzstufe B1 des Gemein- samen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb65e8a2-d9b4-11ee-b6d6-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Russ_1</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Russisch I (Niveau A1)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Kyrillisches Alphabet und phonetische Besonderheiten des Russischen  Vermittlung von Grundkenntnissen der russischen Sprache (Lexik, Gram- matik, Syntax, Phonetik) und landeskundlichen/kulturellen Informationen  Einführung und Übung der Lexik zu einfachen Themen wie Familie, Ein- kaufen, Wohnen, Freizeitbeschäftigungen, Essgewohnheiten etc.  Grammatische Strukturen: Deklination der Nomen, Personal- und Pos- sessivpronomen, Plural der Substantive, e- und i-Konjugation, Verbfor- men im Präsens Die Ausbildung orientiert sich an der Sprachkompetenzstufe A1 des Gemein- samen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb62dc97-d9b4-11ee-b309-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">416170</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Simulation and Performance Analysis of Communication Networks</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Vorlesung: Grundlagen der Simulation: Simulationsprozess, Basiskomponenten o von Simulatoren, Simulationstechniken Stochastische Simulationstechniken: Monte-Carlo Simulation und er- o eignisdiskrete Simulation Grundlagen der Wahrscheinlichkeitsrechnung und Statistik o Erzeugung von Zufallszahlen und Zufallsverteilungen o Erzeugung der Eingangsgrößen für die Simulation o Auswertung der Ausgangsgrößen (Simulationsergebnisse) o Design von Simulationsexperimenten o Spezielle Simulationstechniken o  Praktikum: Schwerpunktmäßig werden ausgewählte Aufgaben o zur Simulation von Kommunikationsnetzen und –systemen theore- tisch und praktisch behandelt.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb625334-d9b4-11ee-ae50-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">500250</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Theoretische Informatik II</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Automaten, Grammatiken, Chomsky Hierarchie, Turing Maschinen, Nicht- Entscheidbarkeit, NP-Vollständigkeit</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb64170f-d9b4-11ee-ac10-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Chin_2</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chinesisch II (Niveau A1/2)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Erweiterung und Festigung der Lexik u. a. zu weiteren alltäglichen Situa- tionen wie Einkaufen und Familie  Vermittlung und Übung neuer grammatischer Strukturen, z. B. Besitzver- hältnisse, indirekte Frage  Erweiterung, Festigung und Übung der Schriftkenntnisse  Übungen zur chinesischen Phonetik Die Ausbildung orientiert sich an der Sprachkompetenzstufe A1 des Gemein- samen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb611bba-d9b4-11ee-a1f2-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">561010</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compilerbau</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Vorlesung stellt Konzepte und Techniken des Compilerbaus vor, die für die Entwicklung eines Compilers notwendig sind. Dabei werden alle konzeptionellen Phasen eines Compilers von der lexikalischen Analyse bis hin zur Codegenerierung angesprochen. Darüber hinaus sollen Techniken zur effizienten automatisierten Analyse und Bearbeitung hierarchisch struk- turierter Dokumente erlernt werden. In den Übungen werden die Inhalte der Vorlesung praktisch angewendet.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb648c09-d9b4-11ee-a247-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Engl_4</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Englisch in Studien- und Fachkommunikation IV (Niveau C1)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vertiefung des Fachwortschatzes in ausgewählten Teilgebieten und syste- matische Erweiterung des allgemeinen Wortschatzes mit Bezug auf stu- dien- und berufsorientierte sowie interkulturelle Sachverhalte, Leiten von Beratungen und Diskussionen, Halten von Vorträgen einschließlich Fragen und Antworten, Analyse und Vermittlung textsortenspezifischer Besonder- heiten zum Schreiben akademischer Texte (wissenschaftliche Aufsätze, Zusammenfassungen, Projektbeschreibungen, Motivationsschreiben); Die Ausbildung orientiert sich an der Sprachkompetenzstufe C1 des Ge- meinsamen Europäischen Referenzrahmens für Sprachen (GER) und bein- haltet eine fachsprachliche Komponente.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb66d393-d9b4-11ee-baf5-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">621020</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Betriebliche Umweltökonomie und Nachhaltigkeitsmanagement</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Essentielle Begrifflichkeiten des Nachhaltigkeitsmanagements sowie konzeptionelle und strategische Grundlagen einer nachhaltigen Unterneh- mensführung  Beiträge der primären Akteure im Feld der Nachhaltigkeit  Ganzheitliche Betrachtungen, z.B. Wertschöpfungsketten und Lebenszyk- lusansätze  Instrumente einer betrieblichen Umweltökonomie und nachhaltigen Unter- nehmensführung in verschiedenen unternehmerischen Funktionsberei- chen  Praxisangewendete Methoden der empirischen Sozialforschung und de- ren Reflexion</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb65276c-d9b4-11ee-9e8e-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Ital_1</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Italienisch I (Niveau A1)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Vermittlung von Grundkenntnissen der italienischen Sprache (Lexik, Grammatik, Phonetik) und landeskundlichen/kulturellen Besonderheiten  Lexik zu einfachen Themen: Familie und Freunde, Sprachkenntnisse, Ta- gesablauf, Essgewohnheiten, Freizeitbeschäftigungen, Wohnort/ Unter- kunft  Grammatische Strukturen: Artikel, Substantive, Adjektive, Adverbien, Zeit- formen (presente und passato prossimo), Personalpronomen, Vernei- nung  Kommunikationsstrukturen: sich und andere vorstellen/beschreiben, Wege beschreiben/erfragen, einfache Ziele ausdrücken, über Vergange- nes berichten Die Ausbildung orientiert sich an der Sprachkompetenzstufe A1 des Gemein- samen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb66ad00-d9b4-11ee-9df3-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Tsch_3</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tschechisch III (Niveau A2/B1)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Erweiterung der Lexik und der grammatischen Kenntnisse  Landeskundliche/kulturelle Besonderheiten  Lexik: Technik und Medien, Kleidung, Lebensphasen und Beziehungen  Grammatische Strukturen: Imperativ, Nebensätze  Kommunikationsstrukturen: in kodifizierten Situationen zurechtkommen, Anweisungen/Befehle erteilen, Ratschläge/Empfehlungen geben, über Zukunft sprechen, über Vergangenes berichten Die Ausbildung orientiert sich an der Sprachkompetenzstufe A2/B1 des Ge- meinsamen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb66ad01-d9b4-11ee-8f39-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Tsch_4</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tschechisch IV (Niveau B1)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Konsolidierung und Erweiterung der Sprachkenntnisse  Vertiefung der Lexik im Bereich Beruf und Studium  Landeskundliche/kulturelle Besonderheiten  Grammatische Strukturen: Passiv, Nebensätze, Pluraldeklination  Kommunikationsstrukturen: Meinungen/Vorlieben der anderen und die Umfrageergebnisse präsentieren und diskutieren, unterschiedliche Bei- träge, Ereignisse und Projekte vorstellen und bewerten, über Lebensstile diskutieren Die Ausbildung orientiert sich an der Sprachkompetenzstufe B1 des Gemein- samen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb60a6ea-d9b4-11ee-9327-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">573140</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Deep Reinforcement Learning</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Reinforcement Learning (RL) ist ein wichtiger Teil des maschinellen Lernens, bei dem ein Agent lernt, durch partielles Feedback (Belohnungen) mit seiner Umgebung zu interagieren. Durch die Erweiterung von RL mit tiefen neuro- nalen Netzwerken zur Funktionsapproximation hat das Deep Reinforcement Learning die Fähigkeit, direkt mit sensorischen Rohdaten zu arbeiten, was ein End-to-End-Lernen ermöglicht. Inhalte der Vorlesung sind:  Grundlagen des Reinforcement Learning  Value-based Methoden  Policy search und Policy gradient  Modellbasiertes Reinforcement Learning  Multi-Agent Reinforcement Learning</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb65004f-d9b4-11ee-9216-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Franz_6</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Französisch VI (Niveau B2)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Übung aller Sprachkompetenzen (Hören, Sprechen, Lesen und Schrei- ben) anhand zahlreicher allgemeinsprachlicher Themen, aktuelle, landes- kundliche und interkulturelle Themen und auch studien- und berufsorien- tierte Sachverhalte und Situationen  Festigung und Erweiterung der Sprachkenntnisse  Übung von Zeitenfolge, direkter und indirekter Rede, Akzent über ver- schiedene Sprachregister  Arbeitstechniken: Exposé Die Ausbildung orientiert sich an der Sprachkompetenzstufe B2 des Gemein- samen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb63c965-d9b4-11ee-9f1e-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">500170</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forschungspraktikum</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Thema des Forschungspraktikums muss mit einem (Junior-)Professor der Fakultät Informatik abgestimmt werden. Es kann an einer (Junior-)Pro- fessur oder auch in einem Betrieb durchgeführt werden. Das Thema sollte so gewählt werden, dass seine Bearbeitung möglichst gut auf die Masterar- beit vorbereitet.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb674591-d9b4-11ee-93ad-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">814170</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Methoden und aktuelle Entwicklungen der Arbeits- und Internetforschung</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Im Modul werden im Rahmen von zwei Seminaren auf fortgeschrittenem Ni- veau grundlegende sowie neuartige und anwendungsbezogene Methoden der Technik- und Internetsoziologie sowie der Arbeits- und Organisationsso- ziologie unter besonderer Bezugnahme auf neue internetbasierte digitale Technologien behandelt. Erstens werden hierfür aktuelle Entwicklungen, Prozesse und Phänomene digitaler Arbeit behandelt und zweitens werden Methoden der empirischen Digitalisierungsforschung thematisiert.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb6205b4-d9b4-11ee-82f2-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">565130</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Verlässliche Systeme</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Begriffe und Metriken der Verlässlichkeit  Störverhalten  Entwurfsmuster für Fehlertoleranz  Analyse von Verlässlichkeitseigenschaften  Diagnose  Ansätze zur Erhöhung der Verlässlichkeit in Hard- und Software</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb665ebe-d9b4-11ee-ab1c-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Span_3</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Spanisch III (Niveau A2/B1)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Erweiterung der Lexik und der grammatischen Kenntnisse  Landeskundliche/kulturelle Besonderheiten  Lexik: Reisen, Essgewohnheiten, Krankheiten und Symptome, Studium  Grammatische Strukturen: Gegenüberstellung von pretérito, indefi- nido/perfecto und imperfecto, futuro, imperativo, direkte und indirekte Personalpronommen, Demonstrativpronomen, Komparationsformen  Kommunikationsstrukturen: in kodifizierten Situationen zurechtkommen, Anweisungen/Befehle erteilen, Ratschläge/Empfehlungen geben, über Handlungen in der Zukunft sprechen, über Vergangenes berichten Die Ausbildung orientiert sich an der Sprachkompetenzstufe A2/B1 des Ge- meinsamen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb62b8dd-d9b4-11ee-9854-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">573130</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neurokognition II</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Neurokognition II beleuchtet komplexere Modelle von neuropsychologi- schen Prozessen mit dem Ziel, neue Algorithmen für intelligente, kognitive Roboter zu entwickeln. Themen sind Wahrnehmung, Gedächtnis, Hand- lungskontrolle, Emotionen, Entscheidungen und Raumwahrnehmung. Zum tieferen Verständnis erfordern die Übungen auch praktische Aufgaben am Rechner.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb6685e7-d9b4-11ee-b9a9-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Tsch_2</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tschechisch II (Niveau A2)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Erweiterung der Lexik und grammatischen Kenntnisse  Lexik: Freizeitaktivitäten, Zukunftspläne, Körper, das Äußere und Eigen- schaften einer Person, Urlaub  Grammatische Strukturen: Futur, Bewegungsverben, perfektive und im- perfektive Verben, irreale Konditionalsätze, Empfehlungen  Kommunikationsstrukturen: Zukunft planen, nach dem Weg fragen, ei- gene Wünsche äußern, Ratschläge geben, praxisorientierte Rollenspiele Die Ausbildung orientiert sich an der Sprachkompetenzstufe A2 des Gemein- samen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb60f4c9-d9b4-11ee-a8e6-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">553090</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Software Service Engineering</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Service-orientierte Architekturen (SOA) stellen eine wichtige standard-ba- sierte und technologie-unabhängige Komponente im Lösungsbaukasten für die moderne Softwareentwicklung im Web und in der Cloud dar. Die Vorteile von SOA als Paradigma für das Distributed Computing und als Basis moder- ner, verteilter Software sind vielfältig. So existieren zahlreiche Architektur- stile für Ermittlung, Nutzung, Verknüpfung, Realisierung und Verbreitung von lose-gekoppelten und über das Internet bzw. Web erreichbaren Software Diensten. Das Modul stellt grundlegende Ansätze, Konzepte, Technologien, Protokolle und Prinzipien moderner Software Services dar und vertieft deren systematischen Einsatz im Umfeld von Web Engineering sowie von SOA und Verteilter Software. Es werden unter anderem folgende Aspekte vertieft:  XML-basierte Web Services  REST Architekturstil  SOA Komponenten  Prinzipien und Muster, z.B. Business Process Choreography, Enterprise Service Bus (ESB)  Herausforderungen für Software Services im Geschäftsumfeld  Modellierung und Lebenszyklus Die Ansätze und Konzepte werden durch viele Fallbeispiele aus der Praxis verdeutlicht.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb60cdda-d9b4-11ee-9bd2-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">555010</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Formale Spezifikation und Verifikation</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Theoretische Grundlagen der Systemmodellierung und -simulation; System- lebenszyklus und Systementwicklungsprozesse; Formale Spezifikations- techniken für Eingebettete Systeme - Ausgewählte Techniken aus der Luft- und Raumfahrtindustrie; Formale Verifikation funktionaler und nichtfunktio- naler Eigenschaften von Eingebetteten Systemen; Sicherheitsaspekte Einge- betteter Systeme und Techniken für deren Nachweisführung</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb654b77-d9b4-11ee-9683-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Ital_3</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Italienisch III (Niveau A2/B1)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Erweiterung der Lexik und der grammatischen Kenntnisse  Landeskundliche/kulturelle Besonderheiten  Lexik: Reisen, Essgewohnheiten, Krankheiten und Symptome, Studium  Grammatische Strukturen: Gegenüberstellung von passato prossimo und imperfetto, futuro, imperativo, direkte und indirekte Personalpronom- men, Demonstrativpronomen, Komparationsformen  Kommunikationsstrukturen: in kodifizierten Situationen zu Recht kom- men, Anweisungen/Befehle erteilen, Ratschläge/Empfehlungen geben, über Handlungen in der Zukunft sprechen, über Vergangenes berichten Die Ausbildung orientiert sich an der Sprachkompetenzstufe A2/B1 des Ge- meinsamen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb61b77b-d9b4-11ee-9403-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">553130</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sicherheit Verteilter Software</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Angebot fokussiert das Problem der Sicherheit im Internet und Web, der daran angeschlossenen Anwendungssysteme sowie Verteilter Software im Allgemeinen. Das Modul vertieft vier Bereiche: 1. Bereich - Angriffe auf Verteilte Software und Verteilte Systeme  Klassische Angriffstechniken  Web-basierte Angriffe  Social Engineering und andere Angriffsverfahren 2. Bereich - Sicherheit  Einführung in Methoden und Ansätze der Kryptographie  Ansätze, Dienste und Werkzeuge zur Rechnernetz-Sicherheit, z. B. IPSec, Kerberos, Zertifikate, LDAP, RADIUS, Firewalls, IDS, Sniffer, Scanner  Management und Sicherheitsaspekte von drahtlosen lokalen Net- zen 3. Bereich - Identität  Einführung in Identität, Gefahren, Risiken, Heilung und Sicherheit  Identity &amp; Access Management, z. B. Provisioning, Policies, Single Sign On (SSO), Directory Services, RBAC, 802.1X  Föderation von Benutzerrechten, z. B. Shibboleth, WS-Federation, Li- berty Alliance Project 4. Bereich - Anwendungsorientierte Sicherheit  Anwendungsorientierte Sicherheit, z. B. bei Datenaustausch, Mail- und Web-Anwendungen  Maßnahmen zur systematischen Planung, Ausführung und Überwa- chung der Sicherheit  Trends, z. B. Selbstmanagement, Selbstheilung</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb63c964-d9b4-11ee-8392-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">500090</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forschungsseminar</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auseinandersetzung mit einem wissenschaftlichen Thema oder Themenge- biet. Im Seminar wird zu einem vorgegebenen Problemfeld selbständig eine Forschungsfrage identifiziert und bearbeitet. Die Studenten erarbeiten dabei eigenständig ein Thema, stellen es in einer Präsentation zur Diskussion und verfassen anschließend eine Seminararbeit, welche den Kriterien einer wis- senschaftlichen Arbeit entspricht. Dabei sollte das Thema möglichst gut zu ihrer Profilbildung beitragen und auf das Forschungspraktikum und die Mas- terarbeit vorbereiten.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb61b77c-d9b4-11ee-a17c-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">561050</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Optimierung im Compilerbau</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Lehrveranstaltungen beschäftigen sich mit der Codeerzeugung (Synthe- sephase) und damit verbundenen Optimierungsphasen des Compilerbaus. Im Einzelnen werden die folgenden Themengebiete behandelt: Erzeugung von 3-Adress-Code aus dem Ableitungsbaum, insbesondere für Felder, Erzeugung von Assemblercode, Registerverteilung, Datenflussana- lyse, Optimierende Transformationen zur Verbesserung des Programmver- haltens, Datenabhängigkeitsanalysen, Programmtransformationen für Fel- der.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb630686-d9b4-11ee-a8c1-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">563050</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Datenbanken und Web-Techniken</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Basistechniken der Internetprogrammierung zum Zugriff auf Datenban- ken, Datenbankabstraktionsschichten, semistrukturierte Daten, Web-Ser- vices</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb66fab6-d9b4-11ee-9898-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">642090</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Recht des geistigen Eigentums</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Modul befasst sich mit den Charakteristika der Immaterialgüter im Un- terschied zum materiellen Eigentum. Es werden die verschiedenen Immate- rialgüter und deren Schutzmöglichkeiten (Urheberrecht und gewerbliche Schutzrechte: u.a. Patent, Designschutz/Geschmacksmuster, Marke) aus- führlich dargestellt, ebenso deren Schutzbereiche, die Rechtsfolgen im Ver- letzungsfall sowie die Erschöpfung von Immaterialgüterrechten. Auf europä- ische und internationale Bezüge (u.a. Territorialprinzip, internationale Ver- träge) wird an den relevanten Stellen eingegangen - ebenso auf Aspekte des IP-Managements.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb66fab5-d9b4-11ee-ba0a-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">642060</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Recht und Technik</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Technikrecht/Technologierecht/Recht neuer Technologien  Aufzeigen der Schnittstellen von Recht und Technik  Produktverantwortung/-haftung (zivil- und strafrechtliche Grundlagen – auch rechtsvergleichend)  Normung, Zertifizierung und Akkreditierung  Europäische und nationale Marktüberwachung  Aktuelle Themen mit technikrechtlichem Bezug (je nach Teilnehmer- kreis), z. B. Cloud-Computing, E-Commerce, Elektromobilität, Industrie 4.0, Künstliche Intelligenz</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb64d982-d9b4-11ee-8fbb-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Franz_3</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Französisch III (Niveau A2/B1)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Erweiterung der Lexik und grammatischen Kenntnisse  Landeskundliche/kulturelle Besonderheiten  Lexik: Reisen, Essgewohnheiten, Krankheiten/Symptome, Ausbildung/ Studium, Lebenslauf  Grammatische Strukturen: subjonctif, Frageformen mit qu’est-ce qui/qu’est-ce que, Imperativ, futur simple/futur proche, conditionnel présent, Indefinitbegleiter, Verneinungsformen, Demonstrativpronomen, Komparation  Kommunikationsstrukturen: in kodifizierten Situationen zurechtkommen, Anweisungen/Befehle erteilen, Ratschläge/Empfehlungen geben, über Handlungen in der Zukunft sprechen, über Vergangenes berichten Die Ausbildung orientiert sich an der Sprachkompetenzstufe A2/B1 des Ge- meinsamen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb648c0b-d9b4-11ee-9a90-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Engl_6</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Englisch in Studien- und Fachkommunikation VI (Niveau C1)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Selbstständige Recherche, Lesen und sprachliche Auswertung fachspezifi- scher Texte sowie Anwendung in der fachlichen Diskussion; Vertiefung des akademischen/berufsspezifischen Wortschatzes im Fachgebiet, Leiten von Beratungen und Diskussionen in einer fachsprachlichen Arbeitsumgebung; Die Ausbildung orientiert sich an der Sprachkompetenzstufe C1 des Gemein- samen Europäischen Referenzrahmens für Sprachen (GER) und beinhaltet eine fachsprachliche Komponente.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb607ffc-d9b4-11ee-9341-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">561030</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multicore-Programmierung</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Inhalte der Lehrveranstaltungen umfassen eine Einführung in die Archi- tektur von Multicore-Prozessoren, Programmiermodelle zur Multicore-Pro- grammierung und die Programmierung mit Threads. Zur Thread-Program- mierung werden verschiedene Sprach- und Bibliothekansätze vorgestellt.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb63f093-d9b4-11ee-afeb-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Arab_1</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Arabisch I (Niveau A1/1)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Vermittlung von Grundkenntnissen der arabischen Sprache (Schriftzei- chen, Lexik, Grammatik, Phonetik)  Einführung und Übung der Lexik zu Standardsituationen, wie Begrüßung, Vorstellung, Wegbeschreibung, Wetter, Zeitangaben und Einkaufen  Lernen erster grammatischer Strukturen  Phonetische Übungen  Vermittlung interkultureller Besonderheiten (Lebensgewohnheiten, Feste, Bräuche, Landeskunde) Die Ausbildung orientiert sich an der Sprachkompetenzstufe A1 des Ge- meinsamen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb6142af-d9b4-11ee-b034-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">565010</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Betriebssysteme für verteilte Systeme</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Spezielle Probleme von Betriebssystemen in verteilten Systemen; Algorith- men für Basisprobleme (Mutex, Terminierung, Auswahl, etc.); Uhren in ver- teilten Systemen; Gruppenkommunikation; Zuordnung und Lastbalancie- rung; Namen; verteilte Betriebssysteme; verteilte Transaktionen; Fallbei- spiele (z.B. Mach, Plan9/Inferno, Amoeba)</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb663808-d9b4-11ee-89fa-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Span_1</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Spanisch I (Niveau A1)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Vermittlung von Grundkenntnissen der spanischen Sprache (Lexik, Gram- matik, Phonetik) und landeskundlichen/kulturellen Besonderheiten  Lexik zu einfachen Themen: Familie und Freunde, Sprachkenntnisse, Ta- gesablauf, Essgewohnheiten, Freizeitbeschäftigungen, Wohnort/ Unter- kunft  Grammatische Strukturen: Artikel, Substantive, Adjektive, Adverbien, Zeit- formen (presente und pretérito perfecto), Personalpronomen, Vernei- nung  Kommunikationsstrukturen: sich und andere vorstellen/ beschreiben, Wege beschreiben/erfragen, einfache Ziele ausdrücken, über Vergange- nes berichten Die Ausbildung orientiert sich an der Sprachkompetenzstufe A1 des Gemein- samen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb63514f-d9b4-11ee-aace-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">573010</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bildverstehen</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Modul gibt eine Einführung in das Bildverstehen, wobei besonders Mittel und Methoden der Künstlichen Intelligenz betrachtet werden. Schwerpunkt ist das Verstehen von Bildern:  Überblick zum Bildverstehen  Grundlagen der digitalen Bildverarbeitung  Bildvorverarbeitung  Bildsegmentierung  Merkmale von Objekten  Objekterkennung  Dreidimensionale Bildinterpretation  Bewegungsanalyse; Optischer Fluss</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb632a7c-d9b4-11ee-941a-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">571250</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Virtuelle Realität</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Einführung in das Gebiet der Virtuellen Realität (VR) unter Bearbeitung fol- gender Themen:  Grundbegriffe, Historie und Anwendungsfelder  Aufbau und Funktionsweise von VR-Systemen  Modellierung und Implementation Virtueller Welten, ihre Bestandteile, Struktur und Schnittstellen  Stereoskopische Bilderzeugung und technische Separationsverfahren  Paralleles und verteiltes Rendern  Mehrsegmentprojektionen und immersive Systeme  3DoF und 6DoF-Tracking  Haptik- und Force-Feedback In der Übung implementieren die Studenten die wichtigsten Verfahren und Algorithmen in einer Hochsprache.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb625335-d9b4-11ee-9fa4-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">565110</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Betriebssysteme II</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quantitative und qualitative Modellierung und Analyse von Betriebssys- temphänomenen</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb672166-d9b4-11ee-b484-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">642010</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Arbeitsrecht</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Modul baut auf zivilrechtlichen Grundkenntnissen auf und beinhaltet ver- tiefende und unternehmensspezifische Kenntnisse zum Individualarbeits- recht sowie zum kollektiven Arbeitsrecht.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb607ffd-d9b4-11ee-b928-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">561090</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paralleles Wissenschaftliches Rechnen</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Das Modul befasst sich mit Anwendungen und Algorithmen des wissenschaftlichen Rechnens und deren effizienter Realisierung auf Pa- rallelrechnern. Vorgestellt werden einzelne Algorithmen der Numerik und spezielle Applikationen. Ebenso werden grundlegende Techni- ken zur Unterstützung der parallelen Programmierung besprochen.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb628e27-d9b4-11ee-99f9-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">571210</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Solid Modeling</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderne CAD-Systeme verwenden einen volumenorientierten Modellie- rungsansatz, der als Solid Modeling (Körpermodellierung) bezeichnet wird. Gegenüber einem flächenorientierten Ansatz erlaubt das vollständige Erfas- sen der 3 D-Geometrie eines Objektes die Durchführung von Konsistenzprü- fungen des Modells. In den Lehrveranstaltungen werden die Grundlagen des Körper-Modellierens sowie die wichtigsten Modellierungsansätze CSG, B- rep und Zellzerlegung behandelt.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb62b8dc-d9b4-11ee-ae1e-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">573070</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neurokognition I</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Neurokognition ist ein neuer Zweig der Kognitionswissenschaft, in der die Konsequenzen aus den in der neurowissenschaftlichen Forschung der letzten Jahre gewonnenen Erkenntnissen für die Kognition gezogen werden. Diese Erkenntnisse stellen die Kognitionswissenschaft auf eine neue Grund- lage. In der Vorlesung wird dargestellt, wie realistische neuronale Modelle generiert werden und für die Erforschung der Funktionsweise des menschli- chen Gehirns genutzt werden können. Es wird gezeigt, wie typische intelli- gente Tätigkeiten wie Lernen, Aufmerksamkeitsausrichtung, Objekterken- nung usw. als Operationen in Neuronennetzen erklärt werden können. Zum tieferen Verständnis erfordern die Übungen auch praktische Aufgaben am Rechner.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb659b67-d9b4-11ee-ab57-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Pol_2</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Polnisch II (Niveau A2)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Erweiterung und Festigung der Lexik und der grammatischen Kenntnisse  Lexikalische Schwerpunkte: Wohnung, Verkehrsmittel, Jahreszeiten und Monatsnamen, Farben, Kleidung, Wetter, Zahlen bis 1000, beim Arzt, Mode  Grammatische Strukturen: Substantive, Adjektive und Possessivprono- men im Lokativ, Rektion der Verben, Verben der Bewegung, Zeitangaben, Präteritum, Demonstrativpronomen, Komparativ der Adjektive, Konjunk- tiv von chcieć, Ordnungszahlen, Aspekte  Kommunikationsstrukturen: Einkaufsdialoge führen, Beschreibung der Urlaubsgewohnheiten und der Lage des Zielortes, Glückwünsche und Ein- ladungen formulieren, Hotelzimmer beschreiben und reservieren, eigene Eindrücke äußern, Krankheitssymptome beschreiben Die Ausbildung orientiert sich an der Sprachkompetenzstufe A2 des Gemein- samen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb628e28-d9b4-11ee-b201-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">571370</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Themen der geometrischen Modellierung</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Diese Veranstaltungen geben eine Einführung in moderne Methoden der ge- ometrischen Modellierung und demonstrieren deren Anwendung in ver- schiedenen Bereichen wie Design, Fertigung, Unterhaltung und Multimedia. Die Studenten eignen sich die Lehrinhalte durch Erarbeitung und Implemen- tierung von veröffentlichten Forschungsbeiträgen an. Die betrachteten The- menbereiche beinhalten: splinebasierte Interpolation und Approximation von Datensätzen, Scattered Data Verfahren, Multiresolution Modeling, CAD/CAM, nichtlineare Splinekurven, KI-basierte Modellierungsansätze.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb62dc98-d9b4-11ee-bef8-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">427010</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Systemtheorie</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einführung in die Systembetrachtung  Beschreibung und Analyse dynamischer (zeitdiskreter und zeitkontinuier- licher) Systeme  Einführung in stochastische Prozesse</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb660e14-d9b4-11ee-9bc3-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Russ_3</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Russisch III (Niveau A2/B1)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Erweiterung und Festigung der Lexik und der grammatischen Kenntnisse  Landeskundliche/kulturelle Besonderheiten des russischsprachigen Raums  Lexikalische Schwerpunkte: Online-Shopping, Reise nach Russland, Aus- bildung und Studium, Informations- und Medienwelt, Familie und Woh- nungsmarkt von heute  Grammatische Strukturen: Zeit- und Jahresangaben, (un)vollendetes Fu- tur, unregelmäßiges Präteritum, einfacher und zusammengesetzter Kom- parativ, Konjunktiv, Passivformen, präfigierte Verben der Fortbewegung, Reziprok- und Relativpronomen, besondere Fügungen  Kommunikationsstrukturen: in kodifizierten Situationen zurechtkommen, Anweisungen/Befehle erteilen, Ratschläge/Empfehlungen geben, über Handlungen in der Zukunft sprechen, über Vergangenes berichten Die Ausbildung orientiert sich an der Sprachkompetenzstufe A2/B1 des Ge- meinsamen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb60cdd9-d9b4-11ee-851b-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">578050</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mediencodierung</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Es werden zentrale Aspekte der Informationstheorie, Codierung medialer Daten und Kompressionsalgorithmen besprochen. Ferner wird diskutiert, wie diese bei der Codierung einzelner Medientypen Verwendung finden.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb60a6eb-d9b4-11ee-9d7d-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">577110</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Empirical Software Engineering</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neue Ergebnisse in der Informatik (und insbesondere in der Softwaretech- nik) haben oft zum Ziel, dass ein System bessere Qualität hat, geringere Kosten verursacht, schneller ist, wartbarer ist, oder von Benutzern besser verstanden wird. Aber wie lassen sich solche Aussagen belegen, insbesondere wenn Menschen involviert sind? Die Vorle- sung stellt verschiedene empirische Methoden zur Evaluierung vor und diskutiert, welche Evaluierung für welche Fragestellungen geeignet ist. Beispiele werden überwiegend aus den Bereichen Software Engineering und Programmiersprachen entnommen, z. B.:  rigorose Messung von Performance, Benchmarks  quantitative Messungen, z.B. Metriken, Software Repositories  qualitative Methoden, z.B. Interviews, Fallstudien  kontrollierte Experimente mit Entwicklern  notwendige statistische Grundlagen</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb65726b-d9b4-11ee-8cbb-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Ital_4</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Italienisch IV (Niveau B1)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Konsolidierung und Erweiterung der Sprachkenntnisse  Vertiefung der Lexik im Bereich Beruf, Studium  Lebenslauf  Landeskundliche/kulturelle Besonderheiten  Grammatische Strukturen: congiuntivo presente, frasi passive, Ne- bensätze mit indicativo und congiuntivo, passato remoto, pronomi com- binati Die Ausbildung orientiert sich an der Sprachkompetenzstufe B1 des Gemein- samen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb64b2fc-d9b4-11ee-b1fa-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Franz_2</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Französisch II (Niveau A2)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Erweiterung und Festigung der Lexik und Grammatik  Landeskundliche/kulturelle Besonderheiten  Lexik: Ausbildung, Familie, Hobbys, Freizeit und Beruf  Grammatische Strukturen: (un)regelmäßige Verben, Komparativ des Ad- jektivs und Adverbs, Modalverben, reflexive Verben, Possessivpronomen, Demonstrativbegleiter, direkte und indirekte Objektpronomen, Adverbial- pronomen y und en, Relativpronomen, futur composé, Gegenüberstellung von imparfait und passé composé  Kommunikationsstrukturen: über Gewohnheiten reden, Vorschläge ma- chen, Pläne machen, über Erfahrungen berichten und diese bewerten Die Ausbildung orientiert sich an der Sprachkompetenzstufe A2 des Gemein- samen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb630685-d9b4-11ee-96e0-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">563100</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Advanced Management of Data</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Anforderungen an heutige Datenverwaltungssysteme sind u.a. Skalierbar- keit, kontinuierliche Verfügbarkeit, häufige Änderungen, Ortsunabhängigkeit, die Verwaltung verschiedenartigster Datentypen sowie der Umgang mit sehr großen und stetig wachsenden Datenmengen. Klassische relationale Daten- banksysteme sind oft nicht in der Lage, diese Anforderungen zu erfüllen. Be- trachtet werden u.a.:  Objektrelationale und objektorientierte Systeme  NoSQL-Datenbanken  Graph-Datenbanken  Verteilte Datenbanken  Parallele Datenverarbeitung  Internet-Datenanbindung  Sicherheitsaspekte</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb67ba7b-d9b4-11ee-84b8-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59100</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Master-Arbeit</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Im Rahmen des Moduls wird eine Masterarbeit erstellt und verteidigt. Das Thema der Arbeit steht in inhaltlichem Zusammenhang zu einem der An- wendungsschwerpunkte. In der Masterarbeit und der abschliessenden Ver- teidigung der Abschlussarbeit weisen die Studenten nach, dass sie inner- halb einer bestimmten Frist ein begrenztes aber anspruchsvolles Problem wissenschaftlich bearbeiten können.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">900</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb643bdf-d9b4-11ee-b41f-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Chin_3</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chinesisch III (Niveau A2/1)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Erweiterung und Festigung der Schriftkenntnisse sowie der Lexik zu all- täglichen Kommunikationssituationen wie z. B. Restaurant, Tagesablauf, Uhrzeit, Datum, Ortsangabe sowie Essen und Trinken  Erweiterung der grammatischen Strukturen, z. B. Modalbestimmung, Sätze mit zwei Verben, Präpositionen Die Ausbildung orientiert sich an der Sprachkompetenzstufe A2 des Gemein- samen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb64170e-d9b4-11ee-b6a0-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Chin_1</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chinesisch I (Niveau A1/1)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Vermittlung von Grundkenntnissen der chinesischen Sprache (Lexik, Grammatik, Phonetik)  Einführung und Übung der Lexik zu einfachen Themen, wie Begrüßung, Vorstellung, übers Wetter sprechen, Zeitangaben und Einkaufen  Lernen erster grammatischer Strukturen  Phonetische Übungen Die Ausbildung orientiert sich an der Sprachkompetenzstufe A1 des Gemein- samen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb66d392-d9b4-11ee-bcc8-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">621010</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nachhaltigkeitsmanagement von Innovationen</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Vorstellung und Diskussion verschiedener Innovationsarten und -pro- zesse  Besonderheiten von Nachhaltigkeitsinnovationen sowie Innovations- strategien und -modelle zur Generierung von Nachhaltigkeitsinnovatio- nen  Erfassen von Nachhaltigkeitseffekten in Innovationsprozessen  Analyse von Bewertungstools und systemischer Prozessgestaltung  Erfolgsfaktoren für einen erfolgreichen Entwicklungsprozess von Nach- haltigkeitsinnovationen  Praxisangewendete Methoden der empirischen Sozialforschung und de- ren Reflexion</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb605919-d9b4-11ee-a70a-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">541050</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quantencomputing</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ausgehend vom klassischen Rechnen wird das Quantencomputing als Ver- allgemeinerung des randominisierten Rechnens eingeführt. Anwendungen wie schnelle Faktorisierungsalgorithmen (Faktorisierung natürlicher Zahlen in polynomial vielen Schritten) oder das schnelle Suchen</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb616ce6-d9b4-11ee-abd2-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">565050</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Design of Software for Embedded Systems</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Die Vorlesung beschäftigt sich mit Entwicklungsmethoden für Software in eingebetteten Systemen. Dabei werden insbesondere folgende Aspekte be- handelt:  Merkmale von nicht-eingebetteten und eingebetteten Systemen  Funktionale und nicht-funktionale Anforderungen an eingebettete Soft- ware (Zeitverhalten, Effizienz, Zuverlässigkeit, Wartbarkeit, Portabilität, etc.)  Programmierparadigmen für eingebettete Systeme (synchrone, zeitge- steuerte und schedulingbasierte Programmiersprachen)  Unterstützung durch Middleware und Betriebssystem  Trends und Beispiele aus der Praxis</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb616ce7-d9b4-11ee-a04d-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">416050</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Next Generation Internet</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einführung  Grundlagen des IP Networking - Internet Protocol (TCP/IP) - IP Addressing / NAT / DNS - IP Routing  Internet-Anwendungen - Web Services / http  Ausgewählte Netzmechanismen - Quality of Service (QoS) Mechanismen - Group Communication / Multicast - Mobility Mechanisms  Hot Topics - Software Defined Networking (SDN) and Network Functions Virtu- alization (NFV) - Content Delivery Networks (CDNs)</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">90</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb625333-d9b4-11ee-acd1-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">416110</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Network Security</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Einführung und Grundlagen: Begriffe, Bedrohungsszenarien, Sicherheits- mechanismen  Kryptographie: Einführung, symmetrische und asymmetrische Verfahren, Hash-Funktionen  Netzzugangskontrolle: Authentifizierungsmechanismen, Schlüssel-ma- nagement und Zertifikate, PKI-Infrastruktur  Gesicherte Datenübertragung: Übersicht Sicherungsprotokolle auf Siche- rungs- (L2), Netz- (L3) und Transportschicht (L4)  Cyber-Angriffe im Internet: Überblick und Klassifizierung von Angriffen, Angriffs-Beispiele  Angriffserkennung: Übersicht Angriffserkennungsmethoden, Intrusion Detection Systeme (IDS), Beispiele  Angriffsabwehr: Übersicht Abwehrmethoden, Funktionsweise einer Fire- wall, Beispiele</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">60</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb676c7c-d9b4-11ee-866f-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">814220</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grundlagen und aktuelle Forschung der Arbeits-, Organisations-, Technik-</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tions- Im Modul werden im Rahmen von zwei Seminaren auf fortgeschrittenem Ni- veau grundlegende und aktuelle Fragestellungen, Konzepte und For- schungsergebnisse der Technik- und Internetsoziologie sowie der Arbeits- und Organisationssoziologie unter besonderer Bezugnahme auf neue inter- netbasierte digitale Technologien behandelt.</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#cb65c3a0-d9b4-11ee-9a10-cc153190a929">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns2:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPZ_Pol_4</ns2:hasModuleNumber>
+    <ns2:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Polnisch IV (Niveau B1)</ns2:hasName>
+    <ns2:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Konsolidierung und Erweiterung der Sprachkenntnisse und -kompetenzen, Übersicht über den gesamten Formenbestand der Ziel- sprache  Erwerb und Vertiefung der Grundlexik im Bereich Beruf, Studium, Kunst, Umwelt, Gesellschafts- und Geschäftsleben, Auslandsleben, Emigration und Minderheiten, Dienstleistungen, Dokumente und Ämter  Grammatische Strukturen: Unpersönliche Verbformen, Adjektiv versus Adverb, Grundzahlen im Akkusativ, Genitiv und Instrumental, substanti- viertes Adjektiv, Verbaspekte in der Vergangenheit und in der Zukunft  Kommunikationsstrukturen: Meinungen/Vorlieben der anderen präsen- tieren und diskutieren, Empfehlungen und Überzeugungen formulieren, Kritik/ Zufriedenheit/ Unzufriedenheit/ Enttäuschung ausdrücken, unter- schiedliche Beiträge, Ereignisse und Projekte vorstellen und bewerten Die Ausbildung orientiert sich an der Sprachkompetenzstufe B1 des Gemein- samen Europäischen Referenzrahmens für Sprachen (GER).</ns2:hasContent>
+    <ns2:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns2:hasCreditPoints>
+    <ns2:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ns2:hasWorkLoad>
+    <ns3:hasUniversity rdf:resource="http://across/university#TUC"/>
+    <ns1:hasCourse rdf:resource="http://tuc/course#TUCInformatik"/>
+  </rdf:Description>
+</rdf:RDF>

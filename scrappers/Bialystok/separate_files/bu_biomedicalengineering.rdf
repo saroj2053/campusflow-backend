@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://tuc.web.engineering/module#"
+   xmlns:ns2="http://across/university#"
+   xmlns:ns3="http://tuc/dept#"
+   xmlns:ns4="http://tuc/course#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://tuc.web.engineering/module#ISFME00149W">
+    <rdf:type rdf:resource="http://tuc.web.engineering/module#"/>
+    <ns1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biomechanics</ns1:hasName>
+    <ns1:hasLanguage rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</ns1:hasLanguage>
+    <ns1:hasProgrammeType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bachelor's degree/Master's degree/Doctoral degree</ns1:hasProgrammeType>
+    <ns1:hasWorkLoad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">75</ns1:hasWorkLoad>
+    <ns1:hasModuleNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IS-FME -00149W</ns1:hasModuleNumber>
+    <ns1:hasContent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biomechanics of the musculoskeletal system. Muscle forces. Human locomotion.</ns1:hasContent>
+    <ns1:hasCreditPoints rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</ns1:hasCreditPoints>
+    <ns4:hasCourse rdf:resource="http://tuc/course#BUCBE"/>
+    <ns3:hasDept rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biomedical Engineering</ns3:hasDept>
+    <ns2:hasUniversity rdf:resource="http://across/university#BU"/>
+  </rdf:Description>
+</rdf:RDF>

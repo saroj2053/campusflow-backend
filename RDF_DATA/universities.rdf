@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:university="http://across/university#"
+         >
+
+  <!-- University: Technical University of Chemnitz -->
+<rdf:Description rdf:about="http://across/university#TUC">
+    <rdf:type rdf:resource="http://across/university#"/>
+    <university:hasUniversityId rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</university:hasUniversityId>
+    <university:hasUniversityName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Technical University of Chemnitz</university:hasUniversityName>
+    <university:isLocatedInCity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chemnitz</university:isLocatedInCity>
+    <university:isLocatedInCountry rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Germany</university:isLocatedInCountry>
+  </rdf:Description>
+
+    <!-- University: Bialystok University -->
+<rdf:Description rdf:about="http://across/university#BU">
+    <rdf:type rdf:resource="http://across/university#"/>
+    <university:hasUniversityId rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</university:hasUniversityId>
+    <university:hasUniversityName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bialystok University</university:hasUniversityName>
+    <university:isLocatedInCity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bialystok</university:isLocatedInCity>
+    <university:isLocatedInCountry rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Poland</university:isLocatedInCountry>
+  </rdf:Description>
+
+</rdf:RDF>
